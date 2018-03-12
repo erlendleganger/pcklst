@@ -4,14 +4,7 @@
       <title>110V overgang</title>
       <category>elektronikk</category>
       <lists>
-         <list>maraton-usa</list>
-      </lists>
-   </item>
-
-   <item id="item0001">
-      <title>120V overganger </title>
-      <category>diverse</category>
-      <lists>
+         <list>ferie</list>
          <list>maraton-usa</list>
       </lists>
    </item>
@@ -25,33 +18,19 @@
    </item>
 
    <item id="item0003">
-      <title>AA-batterier</title>
+      <title>AA batterier</title>
       <category>elektronikk</category>
       <lists>
+         <list>maraton-usa</list>
          <list>ferie</list>
       </lists>
    </item>
 
    <item id="item0004">
-      <title>AAA batteri</title>
-      <category>diverse</category>
-      <lists>
-         <list>maraton-usa</list>
-      </lists>
-   </item>
-
-   <item id="item0005">
-      <title>AAA-batterier</title>
+      <title>AAA batterier</title>
       <category>elektronikk</category>
       <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="item0006">
-      <title>Avis Preferred-kort</title>
-      <category>papirer</category>
-      <lists>
+         <list>maraton-usa</list>
          <list>ferie</list>
       </lists>
    </item>
@@ -81,26 +60,20 @@
       </lists>
    </item>
 
-   <item id="item0010">
-      <title>Biletter</title>
+   <item id="item0011">
+      <title>Bilfordelskort</title>
       <category>papirer</category>
       <lists>
          <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="item0011">
-      <title>Bilfordelskort</title>
-      <category>diverse</category>
-      <lists>
          <list>maraton-usa</list>
       </lists>
    </item>
 
    <item id="item0012">
       <title>Bilkontakt for USB (12V - 5V)</title>
-      <category>diverse</category>
+      <category>elektronikk</category>
       <lists>
+         <list>ferie</list>
          <list>maraton-usa</list>
       </lists>
    </item>
@@ -110,6 +83,7 @@
       <category>diverse</category>
       <lists>
          <list>ferie</list>
+         <list>maraton-usa</list>
       </lists>
    </item>
 
@@ -118,6 +92,7 @@
       <category>sykkel</category>
       <lists>
          <list>ferie</list>
+         <list>maraton</list>
       </lists>
    </item>
 
@@ -125,6 +100,7 @@
       <title>BioTex</title>
       <category>diverse</category>
       <lists>
+         <list>maraton-usa</list>
          <list>ferie</list>
       </lists>
    </item>
@@ -137,20 +113,13 @@
       </lists>
    </item>
 
-   <item id="item0017">
-      <title>Blyant</title>
-      <category>verktøy</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
    <item id="item0018">
-      <title>Blyant/penn</title>
+      <title>Skrivesaker</title>
       <category>diverse</category>
       <lists>
          <list>maraton-usa</list>
          <list>maraton</list>
+         <list>ferie</list>
       </lists>
    </item>
 
@@ -225,6 +194,7 @@
       <title>ChromeCast</title>
       <category>diverse</category>
       <lists>
+         <list>ferie</list>
          <list>maraton-usa</list>
       </lists>
    </item>
@@ -288,7 +258,7 @@
 
    <item id="item0035">
       <title>Flyfordelskort</title>
-      <category>diverse</category>
+      <category>papirer</category>
       <lists>
          <list>maraton-usa</list>
       </lists>
@@ -328,7 +298,7 @@
 
    <item id="item0040">
       <title>Førerkort</title>
-      <category>diverse</category>
+      <category>papirer</category>
       <lists>
          <list>maraton-usa</list>
          <list>maraton</list>
@@ -697,14 +667,6 @@
       </lists>
    </item>
 
-   <item id="item0085">
-      <title>Kodekort </title>
-      <category>diverse</category>
-      <lists>
-         <list>maraton-usa</list>
-      </lists>
-   </item>
-
    <item id="item0086">
       <title>Kodekort til nettbank</title>
       <category>papirer</category>
@@ -751,17 +713,9 @@
 
    <item id="item0091">
       <title>Kredittkort </title>
-      <category>diverse</category>
-      <lists>
-         <list>maraton-usa</list>
-      </lists>
-   </item>
-
-   <item id="item0092">
-      <title>Kredittkort (Vis</title>
       <category>papirer</category>
       <lists>
-         <list>ferie</list>
+         <list>maraton-usa</list>
       </lists>
    </item>
 
@@ -2018,14 +1972,6 @@
       </lists>
    </item>
 
-   <item id="item0247">
-      <title>Visakort uten regionsperre</title>
-      <category>diverse</category>
-      <lists>
-         <list>maraton-usa</list>
-      </lists>
-   </item>
-
    <item id="item0248">
       <title>Visittkort</title>
       <category>papirer</category>
@@ -2036,7 +1982,7 @@
 
    <item id="item0249">
       <title>Visumpapirer/ESTA</title>
-      <category>diverse</category>
+      <category>papirer</category>
       <lists>
          <list>maraton-usa</list>
       </lists>
