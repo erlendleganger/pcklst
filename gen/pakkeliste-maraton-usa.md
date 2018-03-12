@@ -1,0 +1,85 @@
+# Pakkeliste - maraton-usa
+
+## Diverse
+
+- [ ] 120V overganger 
+- [ ] AAA batteri
+- [ ] Bagasjevekt
+- [ ] Bilfordelskort
+- [ ] Bilkontakt for USB (12V - 5V)
+- [ ] Blyant/penn
+- [ ] Body-Glide
+- [ ] Briller
+- [ ] ChromeCast
+- [ ] Elastisk bånd til startnummer
+- [ ] Flyfordelskort
+- [ ] Førerkort
+- [ ] GPS m/utstyr 
+- [ ] Garmin 920XT pulsklokke
+- [ ] Garmin fotsensor
+- [ ] Garmin lader
+- [ ] Garmin pulsbelte
+- [ ] Grenuttak
+- [ ] Hals
+- [ ] Hansker
+- [ ] Hodepinetabletter
+- [ ] Hodetlf med støykanselleriing
+- [ ] Hotellpapirer
+- [ ] Informasjonspapir om løp
+- [ ] Kastbart overtrekkstøy til starten
+- [ ] Klyper 
+- [ ] Kodekort 
+- [ ] Kontanter
+- [ ] Kort skjorte
+- [ ] Kortbukse
+- [ ] Kredittkort 
+- [ ] Lang løpebukse
+- [ ] Lang skjorte
+- [ ] Lommebok
+- [ ] Lommelykt
+- [ ] Lue/pannebånd med skygge
+- [ ] Løpebelte
+- [ ] Løpejakke
+- [ ] Løpesko 
+- [ ] Løpesokker
+- [ ] Mikrofiberhåndklede
+- [ ] Mobiltelefon
+- [ ] Notatblokk
+- [ ] Oppgradere GPS
+- [ ] PC
+- [ ] PC-lader
+- [ ] PC-mus
+- [ ] Pass
+- [ ] Plastposer
+- [ ] Regnjakke
+- [ ] Reiseforsikring 
+- [ ] Reisemat
+- [ ] Skopose
+- [ ] Småplastposer
+- [ ] Sovemaske 
+- [ ] Tape til brystvorter
+- [ ] Temperaturmåler
+- [ ] Tigerbalsam
+- [ ] Toalettsaker for flyreise
+- [ ] Tom drikkeflaske
+- [ ] USB strømmåler
+- [ ] USB-batteri
+- [ ] USB-kabler
+- [ ] USB-lader
+- [ ] Underbukse
+- [ ] Undertrøye
+- [ ] Vaskepulver
+- [ ] Vekkerklokke
+- [ ] Visakort uten regionsperre
+- [ ] Visumpapirer/ESTA
+- [ ] Ørepropper musikk
+## Elektronikk
+
+- [ ] 110V overgang
+- [ ] Skjermrens 
+## Gjøremål
+
+- [ ] Lade GPS
+- [ ] Lade USB-batterier
+- [ ] Sjekk ESTA
+- [ ] Skru av regionsperre

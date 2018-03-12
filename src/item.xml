@@ -1,0 +1,2100 @@
+<items>
+
+   <item id="item0000">
+      <title>110V overgang</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0001">
+      <title>120V overganger </title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0002">
+      <title>12V USB-uttak</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0003">
+      <title>AA-batterier</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0004">
+      <title>AAA batteri</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0005">
+      <title>AAA-batterier</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0006">
+      <title>Avis Preferred-kort</title>
+      <category>papirer</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0007">
+      <title>Badebukse</title>
+      <category>svømming</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0008">
+      <title>Badehette</title>
+      <category>svømming</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0009">
+      <title>Bagasjevekt</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0010">
+      <title>Biletter</title>
+      <category>papirer</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0011">
+      <title>Bilfordelskort</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0012">
+      <title>Bilkontakt for USB (12V - 5V)</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0013">
+      <title>Bilnøkler</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0014">
+      <title>Bilteppe</title>
+      <category>sykkel</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0015">
+      <title>BioTex</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0016">
+      <title>Bits</title>
+      <category>verktøy</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0017">
+      <title>Blyant</title>
+      <category>verktøy</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0018">
+      <title>Blyant/penn</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0019">
+      <title>Body-Glide</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0020">
+      <title>Bor</title>
+      <category>verktøy</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0021">
+      <title>Bormaskin</title>
+      <category>verktøy</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0022">
+      <title>Brekkjern</title>
+      <category>verktøy</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0023">
+      <title>Briller</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0024">
+      <title>Brunost</title>
+      <category>mat</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0025">
+      <title>CR2032-batterier</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0026">
+      <title>CR2430-batterier</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0027">
+      <title>ChromeCast</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0028">
+      <title>Deodorant</title>
+      <category>toalettsaker</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0029">
+      <title>Drikkeflaske</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0030">
+      <title>Drill</title>
+      <category>verktøy</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0031">
+      <title>Egg</title>
+      <category>mat</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0032">
+      <title>Elastisk bånd til startnummer</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0033">
+      <title>Flaske med vann til vasking</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0034">
+      <title>Fleecegenser</title>
+      <category>løping</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0035">
+      <title>Flyfordelskort</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0036">
+      <title>Fløyte</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0037">
+      <title>Fordelsprogram-kort</title>
+      <category>papirer</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0038">
+      <title>Formfett</title>
+      <category>mat</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0039">
+      <title>Fyrstikker</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0040">
+      <title>Førerkort</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0041">
+      <title>Førstehjelpssett</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0042">
+      <title>GPS m/utstyr </title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0043">
+      <title>Garmin 60CS</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0044">
+      <title>Garmin 920XT</title>
+      <category>løping</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0045">
+      <title>Garmin 920XT pulsklokke</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0046">
+      <title>Garmin Edge 500</title>
+      <category>sykkel</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0047">
+      <title>Garmin fotsensor</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0048">
+      <title>Garmin lader</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0049">
+      <title>Garmin pulsbelte</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0050">
+      <title>Garmin pulsbelte x2</title>
+      <category>løping</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0051">
+      <title>Genser</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0052">
+      <title>Grenuttak</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0053">
+      <title>Grillpølser</title>
+      <category>mat</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0054">
+      <title>Grøtris</title>
+      <category>mat</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0055">
+      <title>Hals</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0056">
+      <title>Halslomme </title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0057">
+      <title>Hammer</title>
+      <category>verktøy</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0058">
+      <title>Handleposer</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0059">
+      <title>Hansker</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0060">
+      <title>Helle klorin i sluk</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0061">
+      <title>Hjelm</title>
+      <category>sykkel</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0062">
+      <title>Hjulrettestativ</title>
+      <category>sykkel</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0063">
+      <title>Hodepinetabletter</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0064">
+      <title>Hodetelefoner </title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0065">
+      <title>Hodetlf med støykanselleriing</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0066">
+      <title>Hotellpapirer</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0067">
+      <title>Hullemaskin</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0068">
+      <title>Håndklede</title>
+      <category>svømming</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0069">
+      <title>Håndsag</title>
+      <category>verktøy</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0070">
+      <title>Hårklipputstyr</title>
+      <category>toalettsaker</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0071">
+      <title>Informasjonspapir om løp</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0072">
+      <title>Informasjonspapir om løpet</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0073">
+      <title>Jakke</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0074">
+      <title>Jernpiller</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0075">
+      <title>Joggesko</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0076">
+      <title>Kam</title>
+      <category>toalettsaker</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0077">
+      <title>Karlsborgperm</title>
+      <category>papirer</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0078">
+      <title>Kastbart overtrekkstøy til starten</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0079">
+      <title>Kikkert</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0080">
+      <title>Klessnor</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0081">
+      <title>Klippe negler</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0082">
+      <title>Klippe skjegget</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0083">
+      <title>Klyper </title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0084">
+      <title>Kodebrikke til nettbank</title>
+      <category>papirer</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0085">
+      <title>Kodekort </title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0086">
+      <title>Kodekort til nettbank</title>
+      <category>papirer</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0087">
+      <title>Kontanter</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0088">
+      <title>Kort skjorte</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0089">
+      <title>Kortbukse</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0090">
+      <title>Kortermet trøye</title>
+      <category>sykkel</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0091">
+      <title>Kredittkort </title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0092">
+      <title>Kredittkort (Vis</title>
+      <category>papirer</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0093">
+      <title>LR44-batterier</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0094">
+      <title>Lade GPS</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0095">
+      <title>Lade USB-batterier</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0096">
+      <title>Lade opp enheter</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0097">
+      <title>Ladekabel til 920XT</title>
+      <category>løping</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0098">
+      <title>Ladekabel til Edge 500</title>
+      <category>sykkel</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0099">
+      <title>Ladekabel til hybrid/el-bil</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0100">
+      <title>Ladere</title>
+      <category>verktøy</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0101">
+      <title>Lage handleliste</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0102">
+      <title>Laminert kart</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0103">
+      <title>Lang kompresjonsbukse</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0104">
+      <title>Lang løpebukse</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0105">
+      <title>Lang skjorte</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0106">
+      <title>Langermet trøye</title>
+      <category>sykkel</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0107">
+      <title>Lastereimer</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0108">
+      <title>Legge nøkler på lurt sted i bagasjen </title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0109">
+      <title>Lesebriller</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0110">
+      <title>Lett ryggsekk</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0111">
+      <title>Liten mobiltelefon</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0112">
+      <title>Lommebok</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0113">
+      <title>Lommekniv</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0114">
+      <title>Lommelykt</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0115">
+      <title>Lomper</title>
+      <category>mat</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0116">
+      <title>Lue og/eller skygge</title>
+      <category>løping</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0117">
+      <title>Lue/pannebånd med skygge</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0118">
+      <title>Lureteppe</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0119">
+      <title>Låse garasje</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0120">
+      <title>Låse hoveddøra</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0121">
+      <title>Løpebelte</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0122">
+      <title>Løpebuks</title>
+      <category>løping</category>
+      <lists>
+         <list>ferie</list>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0123">
+      <title>Løpejakke</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0124">
+      <title>Løpesko </title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0125">
+      <title>Løpesokker</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0126">
+      <title>Løpetrøye</title>
+      <category>løping</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0127">
+      <title>Mat og drikke før løpet </title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0128">
+      <title>Mat og drikke til etter løpet </title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0129">
+      <title>Mikrofiber håndkle</title>
+      <category>sykkel</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0130">
+      <title>Mikrofiberhåndklede</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0131">
+      <title>Mikrofiberklut</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0132">
+      <title>Mobiltelefon</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0133">
+      <title>Multitang</title>
+      <category>verktøy</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0134">
+      <title>Målebånd</title>
+      <category>verktøy</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0135">
+      <title>Neglfil</title>
+      <category>toalettsaker</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0136">
+      <title>Neglklipper</title>
+      <category>toalettsaker</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0137">
+      <title>Notatblokk</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0138">
+      <title>Notebok</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0139">
+      <title>Nugatti</title>
+      <category>mat</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0140">
+      <title>Nøkler til sykkelstativ på bil</title>
+      <category>sykkel</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0141">
+      <title>Nøkler til takboks</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0142">
+      <title>Olabukse</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0143">
+      <title>Oppgradere GPS</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0144">
+      <title>PC</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0145">
+      <title>PC-lader</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0146">
+      <title>PC-mus</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0147">
+      <title>Pakketeip</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0148">
+      <title>Pass</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0149">
+      <title>Pennal</title>
+      <category>papirer</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0150">
+      <title>Personvekt</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0151">
+      <title>Plastposer</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0152">
+      <title>Pumpe</title>
+      <category>sykkel</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0153">
+      <title>Rapport fra tidligere år</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0154">
+      <title>Regnfrakk</title>
+      <category>løping</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0155">
+      <title>Regnjakke</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0156">
+      <title>Reiseforsikring</title>
+      <category>papirer</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0157">
+      <title>Reiseforsikring </title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0158">
+      <title>Reisemat</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0159">
+      <title>Rømme</title>
+      <category>mat</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0160">
+      <title>Samekniv</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0161">
+      <title>Sekk med drikkepose </title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0162">
+      <title>Selebukse</title>
+      <category>sykkel</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0163">
+      <title>Senke markise</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0164">
+      <title>Sette blomsterpotter på kjøkkenet</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0165">
+      <title>Sette ut plastavfall</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0166">
+      <title>Sikkerhetsnåler </title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0167">
+      <title>Sjekk ESTA</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0168">
+      <title>Sjekk etter gjenglemt bagasje</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0169">
+      <title>Sjekk alle utganger</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0170">
+      <title>Sjekk gressklipper</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0171">
+      <title>Sjekk kjøleskap</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0173">
+      <title>Skjermrens </title>
+      <category>elektronikk</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0174">
+      <title>Sko</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0175">
+      <title>Skopose</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0176">
+      <title>Skru av PCer</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0177">
+      <title>Skru av fontene</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0178">
+      <title>Skru av håndkletørker</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0179">
+      <title>Skru av regionsperre</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0180">
+      <title>Skru av vann til oppvaskmaskin</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0181">
+      <title>Skru av vann til vaskemaskinen</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0182">
+      <title>Skru av varmekabler</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0183">
+      <title>Skru av varmepumpe</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0184">
+      <title>Skru av varmeveksler</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0185">
+      <title>Småplastposer</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0186">
+      <title>Sokker</title>
+      <category>sykkel</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0187">
+      <title>Solbriller</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0188">
+      <title>Sovemaske</title>
+      <category>papirer</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0189">
+      <title>Sovemaske </title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0190">
+      <title>Sovepute</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0191">
+      <title>Sprøyte plenen</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0192">
+      <title>Startnummer</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0193">
+      <title>Stille inn webkamera</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0194">
+      <title>Stoppe avisen</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0195">
+      <title>Stoppe posten</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0196">
+      <title>Strandteppe</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0197">
+      <title>Strømkabe</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0198">
+      <title>Svømmebriller</title>
+      <category>svømming</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0199">
+      <title>Sykkel</title>
+      <category>sykkel</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0200">
+      <title>Sykkeljakke</title>
+      <category>sykkel</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0201">
+      <title>Sykkelstativ</title>
+      <category>sykkel</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0202">
+      <title>Sykkelstativ på bil</title>
+      <category>sykkel</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0203">
+      <title>Søppelsekk</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0204">
+      <title>Ta ut kontanter</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0205">
+      <title>Takboks</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0206">
+      <title>Takstativ på bil</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0207">
+      <title>Tannbørste</title>
+      <category>toalettsaker</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0208">
+      <title>Tannkrem</title>
+      <category>toalettsaker</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0209">
+      <title>Tanntråd</title>
+      <category>toalettsaker</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0210">
+      <title>Tape til brystvorter</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0211">
+      <title>Tapetkniv</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0212">
+      <title>Temperaturmåler</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0213">
+      <title>Teppe til bilsetet</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0214">
+      <title>Tidsskjema </title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0215">
+      <title>Tidtakerbrikke</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0216">
+      <title>Tigerbalsam</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0217">
+      <title>Tjukke sokker</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0218">
+      <title>Toalettsaker</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0219">
+      <title>Toalettsaker for flyreise</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0220">
+      <title>Tom drikkeflaske</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0221">
+      <title>Tridrakt</title>
+      <category>sykkel</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0222">
+      <title>Turmat for reisen</title>
+      <category>diverse</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0223">
+      <title>Tømme oppvaskmaskin</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0224">
+      <title>Tømme postkassa</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0225">
+      <title>Tømme søppel</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0226">
+      <title>USB strømmåler</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0227">
+      <title>USB-batteri</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0228">
+      <title>USB-kabel til IPad</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0229">
+      <title>USB-kabel til skriver</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0230">
+      <title>USB-kabel til telefon</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0231">
+      <title>USB-kabler</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0232">
+      <title>USB-lader</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0233">
+      <title>USB-lader med kabel</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0234">
+      <title>Uleste blader</title>
+      <category>papirer</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0235">
+      <title>Uleste bøker</title>
+      <category>papirer</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0236">
+      <title>Underbukse</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0237">
+      <title>Undertrøye</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0238">
+      <title>Vaniljesaus</title>
+      <category>mat</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0239">
+      <title>Vanne blomster</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0240">
+      <title>Vanntermometer</title>
+      <category>svømming</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0241">
+      <title>Varmeteppe</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0242">
+      <title>Vaskepulver</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0243">
+      <title>Vaskeutstyr</title>
+      <category>sykkel</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0244">
+      <title>Vekkerklokke</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0245">
+      <title>Verktøy</title>
+      <category>sykkel</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0246">
+      <title>Verktøykassa</title>
+      <category>verktøy</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0247">
+      <title>Visakort uten regionsperre</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0248">
+      <title>Visittkort</title>
+      <category>papirer</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0249">
+      <title>Visumpapirer/ESTA</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="item0250">
+      <title>Våtdrakt</title>
+      <category>svømming</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0251">
+      <title>Walkie-Talkie</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0252">
+      <title>iPad</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0253">
+      <title>kakemiks</title>
+      <category>mat</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0254">
+      <title>Ørepropper </title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="item0255">
+      <title>Ørepropper MP3</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="item0256">
+      <title>Ørepropper musikk</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton-usa</list>
+      </lists>
+   </item>
+</items>
