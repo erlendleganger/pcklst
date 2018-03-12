@@ -2,13 +2,11 @@
 
 ## Diverse
 
-- [ ] Blyant/penn
 - [ ] Body-Glide
 - [ ] Briller
 - [ ] Elastisk bånd til startnummer
 - [ ] Flaske med vann til vasking
 - [ ] Fløyte
-- [ ] Førerkort
 - [ ] Førstehjelpssett
 - [ ] Garmin 920XT pulsklokke
 - [ ] Garmin fotsensor
@@ -43,6 +41,7 @@
 - [ ] Sikkerhetsnåler 
 - [ ] Sko
 - [ ] Skopose
+- [ ] Skrivesaker
 - [ ] Småplastposer
 - [ ] Solbriller
 - [ ] Sovepute
@@ -59,3 +58,9 @@
 - [ ] Undertrøye
 - [ ] Varmeteppe
 - [ ] Ørepropper MP3
+## Papirer
+
+- [ ] Førerkort
+## Sykkel
+
+- [ ] Bilteppe

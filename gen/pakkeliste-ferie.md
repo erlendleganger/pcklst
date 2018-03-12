@@ -6,6 +6,7 @@
 - [ ] Bilnøkler
 - [ ] BioTex
 - [ ] Briller
+- [ ] ChromeCast
 - [ ] Drikkeflaske
 - [ ] Fyrstikker
 - [ ] Garmin pulsbelte
@@ -39,6 +40,7 @@
 - [ ] Samekniv
 - [ ] Sko
 - [ ] Skopose
+- [ ] Skrivesaker
 - [ ] Småplastposer
 - [ ] Solbriller
 - [ ] Strandteppe
@@ -49,9 +51,11 @@
 - [ ] Turmat for reisen
 ## Elektronikk
 
+- [ ] 110V overgang
 - [ ] 12V USB-uttak
-- [ ] AA-batterier
-- [ ] AAA-batterier
+- [ ] AA batterier
+- [ ] AAA batterier
+- [ ] Bilkontakt for USB (12V - 5V)
 - [ ] CR2032-batterier
 - [ ] CR2430-batterier
 - [ ] Garmin 60CS
@@ -126,13 +130,11 @@
 - [ ] kakemiks
 ## Papirer
 
-- [ ] Avis Preferred-kort
-- [ ] Biletter
+- [ ] Bilfordelskort
 - [ ] Fordelsprogram-kort
 - [ ] Karlsborgperm
 - [ ] Kodebrikke til nettbank
 - [ ] Kodekort til nettbank
-- [ ] Kredittkort (Vis
 - [ ] Pennal
 - [ ] Reiseforsikring
 - [ ] Sovemaske
@@ -181,7 +183,6 @@
 ## Verktøy
 
 - [ ] Bits
-- [ ] Blyant
 - [ ] Bor
 - [ ] Bormaskin
 - [ ] Brekkjern

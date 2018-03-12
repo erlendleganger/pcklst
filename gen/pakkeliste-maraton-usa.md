@@ -2,18 +2,13 @@
 
 ## Diverse
 
-- [ ] 120V overganger 
-- [ ] AAA batteri
 - [ ] Bagasjevekt
-- [ ] Bilfordelskort
-- [ ] Bilkontakt for USB (12V - 5V)
-- [ ] Blyant/penn
+- [ ] Bilnøkler
+- [ ] BioTex
 - [ ] Body-Glide
 - [ ] Briller
 - [ ] ChromeCast
 - [ ] Elastisk bånd til startnummer
-- [ ] Flyfordelskort
-- [ ] Førerkort
 - [ ] GPS m/utstyr 
 - [ ] Garmin 920XT pulsklokke
 - [ ] Garmin fotsensor
@@ -28,11 +23,9 @@
 - [ ] Informasjonspapir om løp
 - [ ] Kastbart overtrekkstøy til starten
 - [ ] Klyper 
-- [ ] Kodekort 
 - [ ] Kontanter
 - [ ] Kort skjorte
 - [ ] Kortbukse
-- [ ] Kredittkort 
 - [ ] Lang løpebukse
 - [ ] Lang skjorte
 - [ ] Lommebok
@@ -55,6 +48,7 @@
 - [ ] Reiseforsikring 
 - [ ] Reisemat
 - [ ] Skopose
+- [ ] Skrivesaker
 - [ ] Småplastposer
 - [ ] Sovemaske 
 - [ ] Tape til brystvorter
@@ -70,12 +64,13 @@
 - [ ] Undertrøye
 - [ ] Vaskepulver
 - [ ] Vekkerklokke
-- [ ] Visakort uten regionsperre
-- [ ] Visumpapirer/ESTA
 - [ ] Ørepropper musikk
 ## Elektronikk
 
 - [ ] 110V overgang
+- [ ] AA batterier
+- [ ] AAA batterier
+- [ ] Bilkontakt for USB (12V - 5V)
 - [ ] Skjermrens 
 ## Gjøremål
 
@@ -83,3 +78,10 @@
 - [ ] Lade USB-batterier
 - [ ] Sjekk ESTA
 - [ ] Skru av regionsperre
+## Papirer
+
+- [ ] Bilfordelskort
+- [ ] Flyfordelskort
+- [ ] Førerkort
+- [ ] Kredittkort 
+- [ ] Visumpapirer/ESTA
