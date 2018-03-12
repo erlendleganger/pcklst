@@ -1,409 +1,409 @@
-elektronikk,USB-lader med kabel
-elektronikk,USB-kabel til IPad
-elektronikk,USB-kabel til telefon
-elektronikk,USB-kabel til skriver
-elektronikk,12V USB-uttak
-elektronikk,Strømkabel, grenuttak
-elektronikk,Garmin 60CS
-elektronikk,Mobiltelefon
-elektronikk,Mikrofiberklut
-elektronikk,Skjermrens
-elektronikk,Personvekt
-elektronikk,110V overgang
-elektronikk,Ørepropper 
-elektronikk,Hodetelefoner 
-elektronikk,Walkie-Talkie
-elektronikk,iPad
-elektronikk,PC
-elektronikk,PC-lader
-elektronikk,PC-mus
-elektronikk,AA-batterier
-elektronikk,AAA-batterier
-elektronikk,LR44-batterier
-elektronikk,CR2032-batterier
-elektronikk,CR2430-batterier
-papirer,Pass
-papirer,Biletter
-papirer,Reiseforsikring
-papirer,Kodekort til nettbank
-papirer,Kodebrikke til nettbank
-papirer,Kontanter
-papirer,Kredittkort (Visa, AmEx, MasterCard)
-papirer,Avis Preferred-kort
-papirer,Fordelsprogram-kort
-papirer,Karlsborgperm
-papirer,Notatblokk
-papirer,Pennal
-papirer,Uleste blader
-papirer,Uleste bøker
-papirer,Visittkort
-papirer,Sovemaske
-toalettsaker,Tannbørste
-toalettsaker,Tannkrem
-toalettsaker,Tanntråd
-toalettsaker,Neglfil
-toalettsaker,Neglklipper
-toalettsaker,Kam
-toalettsaker,Deodorant
-toalettsaker,Hårklipputstyr
-diverse,Olabukse
-diverse,Sokker
-diverse,Joggesko
-diverse,Jakke
-diverse,Genser
-diverse,Jernpiller
-diverse,Hodepinetabletter
-diverse,Fyrstikker
-diverse,Drikkeflaske
-diverse,Bagasjevekt
-diverse,Samekniv
-diverse,Pakketeip
-diverse,Turmat for reisen
-diverse,BioTex
-diverse,Klessnor
-diverse,Lesebriller
-diverse,Strandteppe
-diverse,Halslomme 
-diverse,Småplastposer
-diverse,Handleposer
-diverse,Solbriller
-diverse,Takstativ på bil
-diverse,Takboks
-diverse,Nøkler til takboks
-diverse,Lastereimer
-diverse,Kikkert
-diverse,Notebok
-diverse,Hullemaskin
-diverse,Ladekabel til hybrid/el-bil
-diverse,Bilnøkler
-løping,Garmin pulsbelte x2
-løping,Garmin 920XT
-løping,Ladekabel til 920XT
-løping,Sko
-løping,Løpebukse, lang
-løping,Løpebukse, kort
-løping,Løpetrøye
-løping,Regnfrakk
-løping,Løpebelte
-løping,Hals
-løping,Hansker
-løping,Lue og/eller skygge
-løping,Sokker
-løping,Fleecegenser
-løping,Skopose
-sykkel,Garmin pulsbelte
-sykkel,Garmin Edge 500
-sykkel,Ladekabel til Edge 500
-sykkel,Selebukse
-sykkel,Kortermet trøye
-sykkel,Langermet trøye
-sykkel,Bilteppe
-sykkel,Sykkeljakke
-sykkel,Tridrakt
-sykkel,Mikrofiber håndkle
-sykkel,Sokker
-sykkel,Hansker
-sykkel,Sko
-sykkel,Hjelm
-sykkel,Briller
-sykkel,Verktøy
-sykkel,Sykkelstativ
-sykkel,Pumpe
-sykkel,Vaskeutstyr
-sykkel,Sykkel
-sykkel,Hjulrettestativ
-sykkel,Sykkelstativ på bil
-sykkel,Nøkler til sykkelstativ på bil
-svømming,Våtdrakt
-svømming,Badebukse
-svømming,Badehette
-svømming,Svømmebriller
-svømming,Håndklede
-svømming,Toalettsaker
-svømming,Vanntermometer
-mat,Brunost
-mat,Formfett
-mat,Grillpølser
-mat,Grøtris
-mat,Lomper
-mat,Nugatti
-mat,Rømme
-mat,Egg
-mat,Vaniljesaus
-mat,kakemiks
-verktøy,Drill
-verktøy,Bormaskin
-verktøy,Bits
-verktøy,Bor
-verktøy,Ladere
-verktøy,Håndsag
-verktøy,Verktøykassa
-verktøy,Brekkjern
-verktøy,Målebånd
-verktøy,Hammer
-verktøy,Blyant
-verktøy,Tapetkniv
-verktøy,Multitang
-gjøremål,Lade opp enheter
-gjøremål,Sjekke kjøleskap
-gjøremål,Tømme oppvaskmaskin
-gjøremål,Skru av vann til oppvaskmaskin
-gjøremål,Skru av vann til vaskemaskinen
-gjøremål,Tømme søppel
-gjøremål,Sette ut plastavfall
-gjøremål,Stoppe posten
-gjøremål,Tømme postkassa
-gjøremål,Stoppe avisen
-gjøremål,Lage handleliste
-gjøremål,Klippe skjegget
-gjøremål,Klippe negler
-gjøremål,Sjekke gressklipper
-gjøremål,Vanne blomster
-gjøremål,Senke markiser, rullegardiner
-gjøremål,Skru av varmekabler
-gjøremål,Skru av varmepumpe
-gjøremål,Skru av fontene
-gjøremål,Skru av PCer
-gjøremål,Ta ut kontanter
-gjøremål,Skru av håndkletørker
-gjøremål,Helle klorin i sluk
-gjøremål,Sette blomsterpotter på kjøkkenet
-gjøremål,Sprøyte plenen
-gjøremål,Skru av varmeveksler
-gjøremål,Stille inn webkamera
-gjøremål,Sjekke alle utganger
-gjøremål,Sjekk etter gjenglemt bagasje
-gjøremål,Låse garasje
-gjøremål,Låse hoveddøra
-gjøremål,Legge nøkler på lurt sted i bagasjen 
-usamaraton,Toalettsaker for flyreise
-usamaraton,Undertrøye
-usamaraton,Underbukse
-usamaraton,Lang løpebukse
-usamaraton,Løpejakke
-usamaraton,Lang skjorte
-usamaraton,Regnjakke
-usamaraton,Løpesokker
-usamaraton,Løpesko 
-usamaraton,Skopose
-usamaraton,Kortbukse
-usamaraton,Kort skjorte
-usamaraton,Hals
-usamaraton,Hansker
-usamaraton,Løpebelte
-usamaraton,Lue/pannebånd med skygge
-usamaraton,Garmin pulsbelte
-usamaraton,Garmin 920XT pulsklokke
-usamaraton,Garmin fotsensor
-usamaraton,Garmin lader
-usamaraton,Mikrofiberhåndklede
-usamaraton,Skjermrens 
-usamaraton,Hotellpapirer
-usamaraton,Visumpapirer/ESTA
-usamaraton,120V overganger 
-usamaraton,Visakort uten regionsperre
-usamaraton,Kredittkort 
-usamaraton,Bilfordelskort
-usamaraton,Flyfordelskort
-usamaraton,Kodekort 
-usamaraton,Reiseforsikring 
-usamaraton,Sovemaske 
-usamaraton,Temperaturmåler
-usamaraton,Grenuttak
-usamaraton,Vekkerklokke
-usamaraton,Vaskepulver
-usamaraton,Body-Glide
-usamaraton,Tape til brystvorter
-usamaraton,Elastisk bånd til startnummer
-usamaraton,Briller
-usamaraton,Småplastposer
-usamaraton,Ørepropper musikk
-usamaraton,Hodepinetabletter
-usamaraton,Plastposer
-usamaraton,Kastbart overtrekkstøy til starten
-usamaraton,Notatblokk
-usamaraton,Blyant/penn
-usamaraton,Informasjonspapir om løp
-usamaraton,Tom drikkeflaske
-usamaraton,Førerkort
-usamaraton,Lommebok
-usamaraton,Kontanter
-usamaraton,Mobiltelefon
-usamaraton,Pass
-usamaraton,GPS m/utstyr 
-usamaraton,USB-lader
-usamaraton,PC
-usamaraton,PC-lader
-usamaraton,PC-mus
-usamaraton,Reisemat
-usamaraton,Bagasjevekt
-usamaraton,Tigerbalsam
-usamaraton,Hodetlf med støykanselleriing
-usamaraton,AAA batteri
-usamaraton,Bilkontakt for USB (12V - 5V)
-usamaraton,USB-kabler
-usamaraton,USB strømmåler
-usamaraton,Klyper 
-usamaraton,USB-batteri
-usamaraton,Lommelykt
-usamaraton,ChromeCast
-usamaraton,Lade GPS
-usamaraton,Oppgradere GPS
-usamaraton,Skru av regionsperre
-usamaraton,Sjekk ESTA
-usamaraton,Lade USB-batterier
-maraton,Teppe til bilsetet
-maraton,Lureteppe
-maraton,Sovepute
-maraton,Toalettsaker
-maraton,Undertrøye
-maraton,Underbukse
-maraton,Lang kompresjonsbukse
-maraton,Lang skjorte
-maraton,Regnjakke
-maraton,Løpesokker
-maraton,Tjukke sokker
-maraton,Sko
-maraton,Garmin fotsensor
-maraton,Skopose
-maraton,Kortbukse
-maraton,Kort skjorte
-maraton,Hals
-maraton,Hansker
-maraton,Løpebelte
-maraton,Lue/pannebånd med skygge
-maraton,Garmin pulsbelte
-maraton,Garmin 920XT pulsklokke
-maraton,Mikrofiberhåndklede
-maraton,Lett ryggsekk
-maraton,Tidsskjema 
-maraton,Body-Glide
-maraton,Tape til brystvorter
-maraton,Elastisk bånd til startnummer
-maraton,Lommekniv
-maraton,Tapetkniv
-maraton,Solbriller
-maraton,Briller
-maraton,Sikkerhetsnåler 
-maraton,Småplastposer
-maraton,Ørepropper MP3
-maraton,Plastposer
-maraton,Søppelsekk
-maraton,Kastbart overtrekkstøy til starten
-maraton,Startnummer
-maraton,Tidtakerbrikke
-maraton,Notatblokk
-maraton,Blyant/penn
-maraton,Informasjonspapir om løpet
-maraton,Laminert kart
-maraton,Rapport fra tidligere år
-maraton,Mat og drikke før løpet 
-maraton,Mat og drikke til etter løpet 
-maraton,Flaske med vann til vasking
-maraton,Førerkort
-maraton,Lommebok
-maraton,Kontanter
-maraton,Mobiltelefon
-maraton,Liten mobiltelefon
-maraton,Førstehjelpssett
-maraton,Fløyte
-maraton,Sekk med drikkepose 
-maraton,Varmeteppe
-elektronikk,USB-lader med kabel
-elektronikk,USB-kabel til IPad
-elektronikk,USB-kabel til telefon
-elektronikk,Strømkabel, grenuttak
-elektronikk,Mobiltelefon
-elektronikk,Mikrofiberklut
-elektronikk,Skjermrens
-elektronikk,Hodetelefoner 
-elektronikk,iPad
-elektronikk,PC
-elektronikk,PC-lader
-elektronikk,PC-mus
-papirer,Pass
-papirer,Biletter
-papirer,Reiseforsikring
-papirer,Kodekort til nettbank
-papirer,Kodebrikke til nettbank
-papirer,Kontanter
-papirer,Kredittkort (Visa, AmEx, MasterCard)
-papirer,Avis Preferred-kort
-papirer,Fordelsprogram-kort
-papirer,Karlsborgperm
-papirer,Notatblokk
-papirer,Pennal
-papirer,Uleste blader
-papirer,Uleste bøker
-papirer,Visittkort
-papirer,Sovemaske
-toalettsaker,Tannbørste
-toalettsaker,Tannkrem
-toalettsaker,Tanntråd
-toalettsaker,Neglfil
-toalettsaker,Neglklipper
-toalettsaker,Kam
-toalettsaker,Deodorant
-toalettsaker,Hårklipputstyr
-løping,Garmin pulsbelte x2
-løping,Garmin 920XT
-løping,Ladekabel til 920XT
-løping,Sko
-løping,Løpebukse, lang
-løping,Løpebukse, kort
-løping,Løpetrøye
-løping,Regnfrakk
-løping,Løpebelte
-løping,Hals
-løping,Hansker
-løping,Lue og/eller skygge
-løping,Sokker
-løping,Fleecegenser
-løping,Skopose
-svømming,Våtdrakt
-svømming,Badebukse
-svømming,Badehette
-svømming,Svømmebriller
-svømming,Håndklede
-svømming,Toalettsaker
-svømming,Vanntermometer
-diverse,Jernpiller
-diverse,Hodepinetabletter
-diverse,Lesebriller
-diverse,Småplastposer
-diverse,Handleposer
-diverse,Solbriller
-diverse,Ladekabel til hybrid/el-bil
-diverse,Bilnøkler
-gjøremål,Lade opp enheter
-gjøremål,Sjekke kjøleskap
-gjøremål,Tømme oppvaskmaskin
-gjøremål,Skru av vann til oppvaskmaskin
-gjøremål,Skru av vann til vaskemaskinen
-gjøremål,Tømme søppel
-gjøremål,Sette ut plastavfall
-gjøremål,Stoppe posten
-gjøremål,Tømme postkassa
-gjøremål,Stoppe avisen
-gjøremål,Lage handleliste
-gjøremål,Klippe skjegget
-gjøremål,Klippe negler
-gjøremål,Sjekke gressklipper
-gjøremål,Vanne blomster
-gjøremål,Senke markiser, rullegardiner
-gjøremål,Skru av varmekabler
-gjøremål,Skru av varmepumpe
-gjøremål,Skru av fontene
-gjøremål,Skru av PCer
-gjøremål,Ta ut kontanter
-gjøremål,Skru av håndkletørker
-gjøremål,Helle klorin i sluk
-gjøremål,Sette blomsterpotter på kjøkkenet
-gjøremål,Sprøyte plenen
-gjøremål,Skru av varmeveksler
-gjøremål,Stille inn webkamera
-gjøremål,Sjekke alle utganger
-gjøremål,Sjekk etter gjenglemt bagasje
-gjøremål,Låse garasje
-gjøremål,Låse hoveddøra
-gjøremål,Legge nøkler på lurt sted i bagasjen 
+ferie,elektronikk,USB-lader med kabel
+ferie,elektronikk,USB-kabel til IPad
+ferie,elektronikk,USB-kabel til telefon
+ferie,elektronikk,USB-kabel til skriver
+ferie,elektronikk,12V USB-uttak
+ferie,elektronikk,Strømkabel, grenuttak
+ferie,elektronikk,Garmin 60CS
+ferie,elektronikk,Mobiltelefon
+ferie,elektronikk,Mikrofiberklut
+ferie,elektronikk,Skjermrens
+ferie,elektronikk,Personvekt
+ferie,elektronikk,110V overgang
+ferie,elektronikk,Ørepropper 
+ferie,elektronikk,Hodetelefoner 
+ferie,elektronikk,Walkie-Talkie
+ferie,elektronikk,iPad
+ferie,elektronikk,PC
+ferie,elektronikk,PC-lader
+ferie,elektronikk,PC-mus
+ferie,elektronikk,AA-batterier
+ferie,elektronikk,AAA-batterier
+ferie,elektronikk,LR44-batterier
+ferie,elektronikk,CR2032-batterier
+ferie,elektronikk,CR2430-batterier
+ferie,papirer,Pass
+ferie,papirer,Biletter
+ferie,papirer,Reiseforsikring
+ferie,papirer,Kodekort til nettbank
+ferie,papirer,Kodebrikke til nettbank
+ferie,papirer,Kontanter
+ferie,papirer,Kredittkort (Visa, AmEx, MasterCard)
+ferie,papirer,Avis Preferred-kort
+ferie,papirer,Fordelsprogram-kort
+ferie,papirer,Karlsborgperm
+ferie,papirer,Notatblokk
+ferie,papirer,Pennal
+ferie,papirer,Uleste blader
+ferie,papirer,Uleste bøker
+ferie,papirer,Visittkort
+ferie,papirer,Sovemaske
+ferie,toalettsaker,Tannbørste
+ferie,toalettsaker,Tannkrem
+ferie,toalettsaker,Tanntråd
+ferie,toalettsaker,Neglfil
+ferie,toalettsaker,Neglklipper
+ferie,toalettsaker,Kam
+ferie,toalettsaker,Deodorant
+ferie,toalettsaker,Hårklipputstyr
+ferie,diverse,Olabukse
+ferie,diverse,Sokker
+ferie,diverse,Joggesko
+ferie,diverse,Jakke
+ferie,diverse,Genser
+ferie,diverse,Jernpiller
+ferie,diverse,Hodepinetabletter
+ferie,diverse,Fyrstikker
+ferie,diverse,Drikkeflaske
+ferie,diverse,Bagasjevekt
+ferie,diverse,Samekniv
+ferie,diverse,Pakketeip
+ferie,diverse,Turmat for reisen
+ferie,diverse,BioTex
+ferie,diverse,Klessnor
+ferie,diverse,Lesebriller
+ferie,diverse,Strandteppe
+ferie,diverse,Halslomme 
+ferie,diverse,Småplastposer
+ferie,diverse,Handleposer
+ferie,diverse,Solbriller
+ferie,diverse,Takstativ på bil
+ferie,diverse,Takboks
+ferie,diverse,Nøkler til takboks
+ferie,diverse,Lastereimer
+ferie,diverse,Kikkert
+ferie,diverse,Notebok
+ferie,diverse,Hullemaskin
+ferie,diverse,Ladekabel til hybrid/el-bil
+ferie,diverse,Bilnøkler
+ferie,løping,Garmin pulsbelte x2
+ferie,løping,Garmin 920XT
+ferie,løping,Ladekabel til 920XT
+ferie,løping,Sko
+ferie,løping,Løpebukse, lang
+ferie,løping,Løpebukse, kort
+ferie,løping,Løpetrøye
+ferie,løping,Regnfrakk
+ferie,løping,Løpebelte
+ferie,løping,Hals
+ferie,løping,Hansker
+ferie,løping,Lue og/eller skygge
+ferie,løping,Sokker
+ferie,løping,Fleecegenser
+ferie,løping,Skopose
+ferie,sykkel,Garmin pulsbelte
+ferie,sykkel,Garmin Edge 500
+ferie,sykkel,Ladekabel til Edge 500
+ferie,sykkel,Selebukse
+ferie,sykkel,Kortermet trøye
+ferie,sykkel,Langermet trøye
+ferie,sykkel,Bilteppe
+ferie,sykkel,Sykkeljakke
+ferie,sykkel,Tridrakt
+ferie,sykkel,Mikrofiber håndkle
+ferie,sykkel,Sokker
+ferie,sykkel,Hansker
+ferie,sykkel,Sko
+ferie,sykkel,Hjelm
+ferie,sykkel,Briller
+ferie,sykkel,Verktøy
+ferie,sykkel,Sykkelstativ
+ferie,sykkel,Pumpe
+ferie,sykkel,Vaskeutstyr
+ferie,sykkel,Sykkel
+ferie,sykkel,Hjulrettestativ
+ferie,sykkel,Sykkelstativ på bil
+ferie,sykkel,Nøkler til sykkelstativ på bil
+ferie,svømming,Våtdrakt
+ferie,svømming,Badebukse
+ferie,svømming,Badehette
+ferie,svømming,Svømmebriller
+ferie,svømming,Håndklede
+ferie,svømming,Toalettsaker
+ferie,svømming,Vanntermometer
+ferie,mat,Brunost
+ferie,mat,Formfett
+ferie,mat,Grillpølser
+ferie,mat,Grøtris
+ferie,mat,Lomper
+ferie,mat,Nugatti
+ferie,mat,Rømme
+ferie,mat,Egg
+ferie,mat,Vaniljesaus
+ferie,mat,kakemiks
+ferie,verktøy,Drill
+ferie,verktøy,Bormaskin
+ferie,verktøy,Bits
+ferie,verktøy,Bor
+ferie,verktøy,Ladere
+ferie,verktøy,Håndsag
+ferie,verktøy,Verktøykassa
+ferie,verktøy,Brekkjern
+ferie,verktøy,Målebånd
+ferie,verktøy,Hammer
+ferie,verktøy,Blyant
+ferie,verktøy,Tapetkniv
+ferie,verktøy,Multitang
+ferie,gjøremål,Lade opp enheter
+ferie,gjøremål,Sjekke kjøleskap
+ferie,gjøremål,Tømme oppvaskmaskin
+ferie,gjøremål,Skru av vann til oppvaskmaskin
+ferie,gjøremål,Skru av vann til vaskemaskinen
+ferie,gjøremål,Tømme søppel
+ferie,gjøremål,Sette ut plastavfall
+ferie,gjøremål,Stoppe posten
+ferie,gjøremål,Tømme postkassa
+ferie,gjøremål,Stoppe avisen
+ferie,gjøremål,Lage handleliste
+ferie,gjøremål,Klippe skjegget
+ferie,gjøremål,Klippe negler
+ferie,gjøremål,Sjekke gressklipper
+ferie,gjøremål,Vanne blomster
+ferie,gjøremål,Senke markiser, rullegardiner
+ferie,gjøremål,Skru av varmekabler
+ferie,gjøremål,Skru av varmepumpe
+ferie,gjøremål,Skru av fontene
+ferie,gjøremål,Skru av PCer
+ferie,gjøremål,Ta ut kontanter
+ferie,gjøremål,Skru av håndkletørker
+ferie,gjøremål,Helle klorin i sluk
+ferie,gjøremål,Sette blomsterpotter på kjøkkenet
+ferie,gjøremål,Sprøyte plenen
+ferie,gjøremål,Skru av varmeveksler
+ferie,gjøremål,Stille inn webkamera
+ferie,gjøremål,Sjekke alle utganger
+ferie,gjøremål,Sjekk etter gjenglemt bagasje
+ferie,gjøremål,Låse garasje
+ferie,gjøremål,Låse hoveddøra
+ferie,gjøremål,Legge nøkler på lurt sted i bagasjen 
+usamaraton,diverse,Toalettsaker for flyreise
+usamaraton,diverse,Undertrøye
+usamaraton,diverse,Underbukse
+usamaraton,diverse,Lang løpebukse
+usamaraton,diverse,Løpejakke
+usamaraton,diverse,Lang skjorte
+usamaraton,diverse,Regnjakke
+usamaraton,diverse,Løpesokker
+usamaraton,diverse,Løpesko 
+usamaraton,diverse,Skopose
+usamaraton,diverse,Kortbukse
+usamaraton,diverse,Kort skjorte
+usamaraton,diverse,Hals
+usamaraton,diverse,Hansker
+usamaraton,diverse,Løpebelte
+usamaraton,diverse,Lue/pannebånd med skygge
+usamaraton,diverse,Garmin pulsbelte
+usamaraton,diverse,Garmin 920XT pulsklokke
+usamaraton,diverse,Garmin fotsensor
+usamaraton,diverse,Garmin lader
+usamaraton,diverse,Mikrofiberhåndklede
+usamaraton,diverse,Skjermrens 
+usamaraton,diverse,Hotellpapirer
+usamaraton,diverse,Visumpapirer/ESTA
+usamaraton,diverse,120V overganger 
+usamaraton,diverse,Visakort uten regionsperre
+usamaraton,diverse,Kredittkort 
+usamaraton,diverse,Bilfordelskort
+usamaraton,diverse,Flyfordelskort
+usamaraton,diverse,Kodekort 
+usamaraton,diverse,Reiseforsikring 
+usamaraton,diverse,Sovemaske 
+usamaraton,diverse,Temperaturmåler
+usamaraton,diverse,Grenuttak
+usamaraton,diverse,Vekkerklokke
+usamaraton,diverse,Vaskepulver
+usamaraton,diverse,Body-Glide
+usamaraton,diverse,Tape til brystvorter
+usamaraton,diverse,Elastisk bånd til startnummer
+usamaraton,diverse,Briller
+usamaraton,diverse,Småplastposer
+usamaraton,diverse,Ørepropper musikk
+usamaraton,diverse,Hodepinetabletter
+usamaraton,diverse,Plastposer
+usamaraton,diverse,Kastbart overtrekkstøy til starten
+usamaraton,diverse,Notatblokk
+usamaraton,diverse,Blyant/penn
+usamaraton,diverse,Informasjonspapir om løp
+usamaraton,diverse,Tom drikkeflaske
+usamaraton,diverse,Førerkort
+usamaraton,diverse,Lommebok
+usamaraton,diverse,Kontanter
+usamaraton,diverse,Mobiltelefon
+usamaraton,diverse,Pass
+usamaraton,diverse,GPS m/utstyr 
+usamaraton,diverse,USB-lader
+usamaraton,diverse,PC
+usamaraton,diverse,PC-lader
+usamaraton,diverse,PC-mus
+usamaraton,diverse,Reisemat
+usamaraton,diverse,Bagasjevekt
+usamaraton,diverse,Tigerbalsam
+usamaraton,diverse,Hodetlf med støykanselleriing
+usamaraton,diverse,AAA batteri
+usamaraton,diverse,Bilkontakt for USB (12V - 5V)
+usamaraton,diverse,USB-kabler
+usamaraton,diverse,USB strømmåler
+usamaraton,diverse,Klyper 
+usamaraton,diverse,USB-batteri
+usamaraton,diverse,Lommelykt
+usamaraton,diverse,ChromeCast
+usamaraton,diverse,Lade GPS
+usamaraton,diverse,Oppgradere GPS
+usamaraton,diverse,Skru av regionsperre
+usamaraton,diverse,Sjekk ESTA
+usamaraton,diverse,Lade USB-batterier
+maraton,diverse,Teppe til bilsetet
+maraton,diverse,Lureteppe
+maraton,diverse,Sovepute
+maraton,diverse,Toalettsaker
+maraton,diverse,Undertrøye
+maraton,diverse,Underbukse
+maraton,diverse,Lang kompresjonsbukse
+maraton,diverse,Lang skjorte
+maraton,diverse,Regnjakke
+maraton,diverse,Løpesokker
+maraton,diverse,Tjukke sokker
+maraton,diverse,Sko
+maraton,diverse,Garmin fotsensor
+maraton,diverse,Skopose
+maraton,diverse,Kortbukse
+maraton,diverse,Kort skjorte
+maraton,diverse,Hals
+maraton,diverse,Hansker
+maraton,diverse,Løpebelte
+maraton,diverse,Lue/pannebånd med skygge
+maraton,diverse,Garmin pulsbelte
+maraton,diverse,Garmin 920XT pulsklokke
+maraton,diverse,Mikrofiberhåndklede
+maraton,diverse,Lett ryggsekk
+maraton,diverse,Tidsskjema 
+maraton,diverse,Body-Glide
+maraton,diverse,Tape til brystvorter
+maraton,diverse,Elastisk bånd til startnummer
+maraton,diverse,Lommekniv
+maraton,diverse,Tapetkniv
+maraton,diverse,Solbriller
+maraton,diverse,Briller
+maraton,diverse,Sikkerhetsnåler 
+maraton,diverse,Småplastposer
+maraton,diverse,Ørepropper MP3
+maraton,diverse,Plastposer
+maraton,diverse,Søppelsekk
+maraton,diverse,Kastbart overtrekkstøy til starten
+maraton,diverse,Startnummer
+maraton,diverse,Tidtakerbrikke
+maraton,diverse,Notatblokk
+maraton,diverse,Blyant/penn
+maraton,diverse,Informasjonspapir om løpet
+maraton,diverse,Laminert kart
+maraton,diverse,Rapport fra tidligere år
+maraton,diverse,Mat og drikke før løpet 
+maraton,diverse,Mat og drikke til etter løpet 
+maraton,diverse,Flaske med vann til vasking
+maraton,diverse,Førerkort
+maraton,diverse,Lommebok
+maraton,diverse,Kontanter
+maraton,diverse,Mobiltelefon
+maraton,diverse,Liten mobiltelefon
+maraton,diverse,Førstehjelpssett
+maraton,diverse,Fløyte
+maraton,diverse,Sekk med drikkepose 
+maraton,diverse,Varmeteppe
+diverse,elektronikk,USB-lader med kabel
+diverse,elektronikk,USB-kabel til IPad
+diverse,elektronikk,USB-kabel til telefon
+diverse,elektronikk,Strømkabel, grenuttak
+diverse,elektronikk,Mobiltelefon
+diverse,elektronikk,Mikrofiberklut
+diverse,elektronikk,Skjermrens
+diverse,elektronikk,Hodetelefoner 
+diverse,elektronikk,iPad
+diverse,elektronikk,PC
+diverse,elektronikk,PC-lader
+diverse,elektronikk,PC-mus
+diverse,papirer,Pass
+diverse,papirer,Biletter
+diverse,papirer,Reiseforsikring
+diverse,papirer,Kodekort til nettbank
+diverse,papirer,Kodebrikke til nettbank
+diverse,papirer,Kontanter
+diverse,papirer,Kredittkort (Visa, AmEx, MasterCard)
+diverse,papirer,Avis Preferred-kort
+diverse,papirer,Fordelsprogram-kort
+diverse,papirer,Karlsborgperm
+diverse,papirer,Notatblokk
+diverse,papirer,Pennal
+diverse,papirer,Uleste blader
+diverse,papirer,Uleste bøker
+diverse,papirer,Visittkort
+diverse,papirer,Sovemaske
+diverse,toalettsaker,Tannbørste
+diverse,toalettsaker,Tannkrem
+diverse,toalettsaker,Tanntråd
+diverse,toalettsaker,Neglfil
+diverse,toalettsaker,Neglklipper
+diverse,toalettsaker,Kam
+diverse,toalettsaker,Deodorant
+diverse,toalettsaker,Hårklipputstyr
+diverse,løping,Garmin pulsbelte x2
+diverse,løping,Garmin 920XT
+diverse,løping,Ladekabel til 920XT
+diverse,løping,Sko
+diverse,løping,Løpebukse, lang
+diverse,løping,Løpebukse, kort
+diverse,løping,Løpetrøye
+diverse,løping,Regnfrakk
+diverse,løping,Løpebelte
+diverse,løping,Hals
+diverse,løping,Hansker
+diverse,løping,Lue og/eller skygge
+diverse,løping,Sokker
+diverse,løping,Fleecegenser
+diverse,løping,Skopose
+diverse,svømming,Våtdrakt
+diverse,svømming,Badebukse
+diverse,svømming,Badehette
+diverse,svømming,Svømmebriller
+diverse,svømming,Håndklede
+diverse,svømming,Toalettsaker
+diverse,svømming,Vanntermometer
+diverse,diverse,Jernpiller
+diverse,diverse,Hodepinetabletter
+diverse,diverse,Lesebriller
+diverse,diverse,Småplastposer
+diverse,diverse,Handleposer
+diverse,diverse,Solbriller
+diverse,diverse,Ladekabel til hybrid/el-bil
+diverse,diverse,Bilnøkler
+diverse,gjøremål,Lade opp enheter
+diverse,gjøremål,Sjekke kjøleskap
+diverse,gjøremål,Tømme oppvaskmaskin
+diverse,gjøremål,Skru av vann til oppvaskmaskin
+diverse,gjøremål,Skru av vann til vaskemaskinen
+diverse,gjøremål,Tømme søppel
+diverse,gjøremål,Sette ut plastavfall
+diverse,gjøremål,Stoppe posten
+diverse,gjøremål,Tømme postkassa
+diverse,gjøremål,Stoppe avisen
+diverse,gjøremål,Lage handleliste
+diverse,gjøremål,Klippe skjegget
+diverse,gjøremål,Klippe negler
+diverse,gjøremål,Sjekke gressklipper
+diverse,gjøremål,Vanne blomster
+diverse,gjøremål,Senke markiser, rullegardiner
+diverse,gjøremål,Skru av varmekabler
+diverse,gjøremål,Skru av varmepumpe
+diverse,gjøremål,Skru av fontene
+diverse,gjøremål,Skru av PCer
+diverse,gjøremål,Ta ut kontanter
+diverse,gjøremål,Skru av håndkletørker
+diverse,gjøremål,Helle klorin i sluk
+diverse,gjøremål,Sette blomsterpotter på kjøkkenet
+diverse,gjøremål,Sprøyte plenen
+diverse,gjøremål,Skru av varmeveksler
+diverse,gjøremål,Stille inn webkamera
+diverse,gjøremål,Sjekke alle utganger
+diverse,gjøremål,Sjekk etter gjenglemt bagasje
+diverse,gjøremål,Låse garasje
+diverse,gjøremål,Låse hoveddøra
+diverse,gjøremål,Legge nøkler på lurt sted i bagasjen 
