@@ -33,25 +33,66 @@ sub parse_item(){
 sub gen_pcklist(){
    my $ref=\%{$xml_item->{item}};
    my %catdb;
+   my %listids;
    my %listdb;
-   #for my $id(sort {$$ref{$a}{raceDate} cmp $$ref{$b}{raceDate}}keys %$ref){
+
+   #loop through all items to pack
    for my $id(keys %$ref){
+
+      #pick up the category for this item, collect in db
       my $category=$xml_item->{item}{$id}{category};
       push @{$catdb{$category}},$id;
+
+      #pick up all the lists this item belongs to
       my $aref=$xml_item->{item}{$id}{lists};
       for my $lid(@{$$aref{list}}){
-         push @{$listdb{$lid}{$category}},$id;
+         #make a note of this list id, skip the special "all" list
+         $listids{$lid}=1 if ($lid ne "all");
+      }
+   }
+   print Dumper(\%listids);
+   #print Dumper(\%catdb);
+   #print Dumper(\%listdb);
+
+   #loop through all items to pack
+   for my $id(keys %$ref){
+
+      #pick up the category for this item, collect in db
+      my $category=$xml_item->{item}{$id}{category};
+      push @{$catdb{$category}},$id;
+
+      #pick up all the lists this item belongs to
+      my $aref=$xml_item->{item}{$id}{lists};
+      for my $lid(@{$$aref{list}}){
+         if($lid eq "all"){
+            #belongs to all lists, so add it to all list ids
+            for my $lid(keys %listids){
+               push @{$listdb{$lid}{$category}},$id;
+            }
+         }
+         else{
+            #add the item to this list id
+            push @{$listdb{$lid}{$category}},$id;
+         }
       }
    }
    #print Dumper(\%catdb);
    #print Dumper(\%listdb);
+
+   #loop through all packing lists
    for my $lid(sort keys %listdb){
+
+      #create the packing list file
       my $out="gen/pakkeliste-$lid.md";
       print "create $out\n";
       open OUT,">",$out or die("cannot create $out, stopping");
       print OUT "# Pakkeliste - $lid\n\n";
+
+      #get all categories for this packing list
       for my $catid(sort keys %{$listdb{$lid}}){
          print OUT "## \u$catid\n\n";
+
+         #get all items for this category on this list
          for my $id(sort{
             $xml_item->{item}{$a}{title} cmp
             $xml_item->{item}{$b}{title}
