@@ -53,10 +53,9 @@
 
    <item id="item0009">
       <title>Bagasjevekt</title>
-      <category>diverse</category>
+      <category>elektronikk</category>
       <lists>
-         <list>ferie</list>
-         <list>maraton-usa</list>
+         <list>all</list>
       </lists>
    </item>
 
@@ -192,7 +191,7 @@
 
    <item id="item0027">
       <title>ChromeCast</title>
-      <category>diverse</category>
+      <category>elektronikk</category>
       <lists>
          <list>ferie</list>
          <list>maraton-usa</list>
@@ -1737,19 +1736,11 @@
       </lists>
    </item>
 
-   <item id="item0218">
-      <title>Toalettsaker</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-         <list>maraton</list>
-      </lists>
-   </item>
-
    <item id="item0219">
       <title>Toalettsaker for flyreise</title>
       <category>diverse</category>
       <lists>
+         <list>tjenestereise</list>
          <list>maraton-usa</list>
       </lists>
    </item>
@@ -1771,9 +1762,12 @@
    </item>
 
    <item id="item0222">
-      <title>Turmat for reisen</title>
+      <title>Mat for reisen</title>
       <category>diverse</category>
       <lists>
+         <list>maraton</list>
+         <list>maraton-usa</list>
+         <list>tjenestereise</list>
          <list>ferie</list>
       </lists>
    </item>
