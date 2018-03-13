@@ -2,11 +2,9 @@
 
 ## Diverse
 
-- [ ] Bagasjevekt
 - [ ] Bilnøkler
 - [ ] BioTex
 - [ ] Briller
-- [ ] ChromeCast
 - [ ] Drikkeflaske
 - [ ] Fyrstikker
 - [ ] Garmin pulsbelte
@@ -27,6 +25,7 @@
 - [ ] Lastereimer
 - [ ] Lesebriller
 - [ ] Løpebelte
+- [ ] Mat for reisen
 - [ ] Mobiltelefon
 - [ ] Notatblokk
 - [ ] Notebok
@@ -47,17 +46,17 @@
 - [ ] Takboks
 - [ ] Takstativ på bil
 - [ ] Tapetkniv
-- [ ] Toalettsaker
-- [ ] Turmat for reisen
 ## Elektronikk
 
 - [ ] 110V overgang
 - [ ] 12V USB-uttak
 - [ ] AA batterier
 - [ ] AAA batterier
+- [ ] Bagasjevekt
 - [ ] Bilkontakt for USB (12V - 5V)
 - [ ] CR2032-batterier
 - [ ] CR2430-batterier
+- [ ] ChromeCast
 - [ ] Garmin 60CS
 - [ ] Hodetelefoner 
 - [ ] LR44-batterier

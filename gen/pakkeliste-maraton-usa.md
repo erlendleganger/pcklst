@@ -2,12 +2,10 @@
 
 ## Diverse
 
-- [ ] Bagasjevekt
 - [ ] Bilnøkler
 - [ ] BioTex
 - [ ] Body-Glide
 - [ ] Briller
-- [ ] ChromeCast
 - [ ] Elastisk bånd til startnummer
 - [ ] GPS m/utstyr 
 - [ ] Garmin 920XT pulsklokke
@@ -35,6 +33,7 @@
 - [ ] Løpejakke
 - [ ] Løpesko 
 - [ ] Løpesokker
+- [ ] Mat for reisen
 - [ ] Mikrofiberhåndklede
 - [ ] Mobiltelefon
 - [ ] Notatblokk
@@ -70,7 +69,9 @@
 - [ ] 110V overgang
 - [ ] AA batterier
 - [ ] AAA batterier
+- [ ] Bagasjevekt
 - [ ] Bilkontakt for USB (12V - 5V)
+- [ ] ChromeCast
 - [ ] Skjermrens 
 ## Gjøremål
 

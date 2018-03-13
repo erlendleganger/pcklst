@@ -29,6 +29,7 @@
 - [ ] Lureteppe
 - [ ] Løpebelte
 - [ ] Løpesokker
+- [ ] Mat for reisen
 - [ ] Mat og drikke før løpet 
 - [ ] Mat og drikke til etter løpet 
 - [ ] Mikrofiberhåndklede
@@ -53,11 +54,13 @@
 - [ ] Tidsskjema 
 - [ ] Tidtakerbrikke
 - [ ] Tjukke sokker
-- [ ] Toalettsaker
 - [ ] Underbukse
 - [ ] Undertrøye
 - [ ] Varmeteppe
 - [ ] Ørepropper MP3
+## Elektronikk
+
+- [ ] Bagasjevekt
 ## Papirer
 
 - [ ] Førerkort
