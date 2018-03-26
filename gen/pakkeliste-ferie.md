@@ -1,7 +1,6 @@
 # Pakkeliste - ferie
 
 ## Diverse
-
 - [ ] Bilnøkler
 - [ ] BioTex
 - [ ] Briller
@@ -46,8 +45,8 @@
 - [ ] Takboks
 - [ ] Takstativ på bil
 - [ ] Tapetkniv
-## Elektronikk
 
+## Elektronikk
 - [ ] 110V overgang
 - [ ] 12V USB-uttak
 - [ ] AA batterier
@@ -70,8 +69,8 @@
 - [ ] Walkie-Talkie
 - [ ] iPad
 - [ ] Ørepropper 
-## Gjøremål
 
+## Gjøremål
 - [ ] Helle klorin i sluk
 - [ ] Klippe negler
 - [ ] Klippe skjegget
@@ -104,8 +103,8 @@
 - [ ] Tømme postkassa
 - [ ] Tømme søppel
 - [ ] Vanne blomster
-## Løping
 
+## Løping
 - [ ] Fleecegenser
 - [ ] Garmin 920XT
 - [ ] Garmin pulsbelte x2
@@ -115,8 +114,8 @@
 - [ ] Løpebuks
 - [ ] Løpetrøye
 - [ ] Regnfrakk
-## Mat
 
+## Mat
 - [ ] Brunost
 - [ ] Egg
 - [ ] Formfett
@@ -127,8 +126,8 @@
 - [ ] Rømme
 - [ ] Vaniljesaus
 - [ ] kakemiks
-## Papirer
 
+## Papirer
 - [ ] Bilfordelskort
 - [ ] Fordelsprogram-kort
 - [ ] Karlsborgperm
@@ -140,16 +139,16 @@
 - [ ] Uleste blader
 - [ ] Uleste bøker
 - [ ] Visittkort
-## Svømming
 
+## Svømming
 - [ ] Badebukse
 - [ ] Badehette
 - [ ] Håndklede
 - [ ] Svømmebriller
 - [ ] Vanntermometer
 - [ ] Våtdrakt
-## Sykkel
 
+## Sykkel
 - [ ] Bilteppe
 - [ ] Garmin Edge 500
 - [ ] Hjelm
@@ -169,8 +168,8 @@
 - [ ] Tridrakt
 - [ ] Vaskeutstyr
 - [ ] Verktøy
-## Toalettsaker
 
+## Toalettsaker
 - [ ] Deodorant
 - [ ] Hårklipputstyr
 - [ ] Kam
@@ -179,8 +178,8 @@
 - [ ] Tannbørste
 - [ ] Tannkrem
 - [ ] Tanntråd
-## Verktøy
 
+## Verktøy
 - [ ] Bits
 - [ ] Bor
 - [ ] Bormaskin

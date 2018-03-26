@@ -1,7 +1,6 @@
 # Pakkeliste - maraton-usa
 
 ## Diverse
-
 - [ ] Bilnøkler
 - [ ] BioTex
 - [ ] Body-Glide
@@ -64,8 +63,8 @@
 - [ ] Vaskepulver
 - [ ] Vekkerklokke
 - [ ] Ørepropper musikk
-## Elektronikk
 
+## Elektronikk
 - [ ] 110V overgang
 - [ ] AA batterier
 - [ ] AAA batterier
@@ -73,14 +72,14 @@
 - [ ] Bilkontakt for USB (12V - 5V)
 - [ ] ChromeCast
 - [ ] Skjermrens 
-## Gjøremål
 
+## Gjøremål
 - [ ] Lade GPS
 - [ ] Lade USB-batterier
 - [ ] Sjekk ESTA
 - [ ] Skru av regionsperre
-## Papirer
 
+## Papirer
 - [ ] Bilfordelskort
 - [ ] Flyfordelskort
 - [ ] Førerkort

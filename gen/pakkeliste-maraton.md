@@ -1,7 +1,6 @@
 # Pakkeliste - maraton
 
 ## Diverse
-
 - [ ] Body-Glide
 - [ ] Briller
 - [ ] Elastisk bånd til startnummer
@@ -58,12 +57,12 @@
 - [ ] Undertrøye
 - [ ] Varmeteppe
 - [ ] Ørepropper MP3
+
 ## Elektronikk
-
 - [ ] Bagasjevekt
+
 ## Papirer
-
 - [ ] Førerkort
-## Sykkel
 
+## Sykkel
 - [ ] Bilteppe
