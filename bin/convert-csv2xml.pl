@@ -1,5 +1,6 @@
 use strict;
 use Data::Dumper;
+use Digest::CRC qw(crc64);
 
 sub cksum{
    my $string=shift;
@@ -27,7 +28,8 @@ print OUT "<items>\n";
 my $cnt=0;
 for my $item(sort keys %db){
    #my $id=sprintf("item%04d",$cnt++);
-   my $id=cksum($item);
+   #my $id=cksum($item);
+   my $id=crc64($item);
    print OUT qq(\n   <item id="$id">\n);
    print OUT qq(      <title>$item</title>\n);
    print OUT qq(      <category>$db{$item}{category}</category>\n);
