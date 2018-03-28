@@ -20,8 +20,11 @@ my $xml_item;
 #-----------------------------------------------------------------------
 sub parse_item(){
    my $xml=new XML::Simple;
+   my $infile=qq(src/pcklst-data.xml);
+   #my $infile=qq(src/item.xml);
+   print "parse $infile\n";
    $xml_item=$xml->XMLin(
-      qq(src/item.xml),
+      $infile,
       keyattr=>[qw(id)],
       forcearray=>[qw(list)],
    );
