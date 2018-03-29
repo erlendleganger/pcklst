@@ -9,7 +9,7 @@ sub cksum{
    return unpack("%64A*",$string) * 33107 . length($string);
 }
 
-
+#------
 my %db;
 my $f="src/pcklst-data.csv";
 open IN,"<",$f or die "cannot open $f, stopping";
@@ -21,18 +21,22 @@ while(<IN>){
    $db{$item}{category}=$category;
 }
 close IN;
+
+#------
 my $out="src/pcklst-data.xml";
 print "create $out\n";
 open OUT,'>:encoding(UTF-8)',$out or die("cannot create $out, stopping");
 print OUT "<items>\n";
 my $cnt=0;
 for my $item(sort keys %db){
+   my $category=$db{$item}{category};
    #my $id=sprintf("item%04d",$cnt++);
    #my $id=cksum($item);
-   my $id=crc64($item);
+   #use cat+item, item can be duplicated
+   my $id=crc64($category.$item);
    print OUT qq(\n   <item id="$id">\n);
    print OUT qq(      <title>$item</title>\n);
-   print OUT qq(      <category>$db{$item}{category}</category>\n);
+   print OUT qq(      <category>$category</category>\n);
    print OUT qq(      <lists>\n);
    for my $lid(@{$db{$item}{list}}){
       print OUT qq(         <list>$lid</list>\n) if($lid);
