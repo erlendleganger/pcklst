@@ -92,7 +92,7 @@ sub write_pcklist(){
    for my $lid(sort keys %$ref){
       my $out="gen/pakkeliste-$lid.$ext";
       print "create $out\n";
-      open my $fh,">",$out or die("cannot create $out, stopping");
+      open my $fh,'>:encoding(UTF-8)',$out or die("cannot create $out, stopping");
       if($fmt eq "txt"){
          write_pcklist_txt($lid,$ref,$fh);
       }
