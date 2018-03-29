@@ -21,6 +21,7 @@
 - [ ] Informasjonspapir om løp
 - [ ] Kastbart overtrekkstøy til starten
 - [ ] Klyper
+- [ ] Konkurransepose
 - [ ] Kontanter
 - [ ] Kort skjorte
 - [ ] Kortbukse

@@ -2,6 +2,7 @@
 
 ## Diverse
 - [ ] Dosett
+- [ ] Konkurransepose
 - [ ] Mat for reisen
 - [ ] Toalettsaker for flyreise
 

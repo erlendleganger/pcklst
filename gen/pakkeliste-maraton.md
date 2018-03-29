@@ -15,6 +15,7 @@
 - [ ] Hansker
 - [ ] Informasjonspapir om løpet
 - [ ] Kastbart overtrekkstøy til starten
+- [ ] Konkurransepose
 - [ ] Kontanter
 - [ ] Kort skjorte
 - [ ] Kortbukse

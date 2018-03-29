@@ -20,6 +20,7 @@
 - [ ] Joggesko
 - [ ] Kikkert
 - [ ] Klessnor
+- [ ] Konkurransepose
 - [ ] Kontanter
 - [ ] Ladekabel til hybrid/el-bil
 - [ ] Lastereimer
