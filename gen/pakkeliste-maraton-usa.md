@@ -2,7 +2,6 @@
 
 ## Diverse
 - [ ] Bilnøkler
-- [ ] BioTex
 - [ ] Body-Glide
 - [ ] Briller
 - [ ] Elastisk bånd til startnummer
@@ -35,7 +34,6 @@
 - [ ] Oppgradere GPS
 - [ ] PC
 - [ ] PC-lader
-- [ ] PC-mus
 - [ ] Pass
 - [ ] Plastposer
 - [ ] Regnjakke
@@ -55,14 +53,10 @@
 - [ ] USB-lader
 - [ ] Underbukse
 - [ ] Undertrøye
-- [ ] Vaskepulver
 - [ ] Vekkerklokke
 - [ ] Ørepropper musikk
 
 ## Elektronikk
-- [ ] 110V overgang
-- [ ] AA batterier
-- [ ] AAA batterier
 - [ ] Bilkontakt for USB (12V - 5V)
 - [ ] ChromeCast
 - [ ] Garmin fotsensor

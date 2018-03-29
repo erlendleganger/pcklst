@@ -2,7 +2,6 @@
 
 ## Diverse
 - [ ] Bilnøkler
-- [ ] BioTex
 - [ ] Briller
 - [ ] Dosett
 - [ ] Drikkeflaske
@@ -31,7 +30,6 @@
 - [ ] Olabukse
 - [ ] PC
 - [ ] PC-lader
-- [ ] PC-mus
 - [ ] Pakketeip
 - [ ] Pass
 - [ ] Samekniv
@@ -44,11 +42,6 @@
 - [ ] Tapetkniv
 
 ## Elektronikk
-- [ ] 110V overgang
-- [ ] 12V USB-uttak
-- [ ] AA batterier
-- [ ] AAA batterier
-- [ ] Bagasjevekt
 - [ ] Bilkontakt for USB (12V - 5V)
 - [ ] CR2032-batterier
 - [ ] CR2430-batterier

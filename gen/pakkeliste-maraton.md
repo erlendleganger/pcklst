@@ -40,6 +40,7 @@
 - [ ] Sko
 - [ ] Skopose
 - [ ] Skrivesaker
+- [ ] Småtingpose
 - [ ] Solbriller
 - [ ] Sovepute
 - [ ] Startnummer
