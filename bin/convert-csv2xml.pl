@@ -17,6 +17,10 @@ while(<IN>){
    chop;
    my ($category,$item,@list)=split/;/;
    next if(!$item);
+   if(defined $db{$category}{$item}){
+      print "FATAL: duplicate definition: $category, $item\n";
+      exit 1;
+   }
    push @{$db{$category}{$item}{list}},@list;
    #$db{$item}{category}=$category;
 }
