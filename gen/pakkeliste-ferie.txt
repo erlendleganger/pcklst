@@ -1,13 +1,12 @@
 Pakkeliste - ferie
 
 Diverse
-[] Bilnøkler
+[] BilnÃ¸kler
 [] BioTex
 [] Briller
 [] Dosett
 [] Drikkeflaske
 [] Fyrstikker
-[] Garmin pulsbelte
 [] Genser
 [] Hals
 [] Halslomme
@@ -20,12 +19,11 @@ Diverse
 [] Joggesko
 [] Kikkert
 [] Klessnor
-[] Konkurransepose
 [] Kontanter
 [] Ladekabel til hybrid/el-bil
 [] Lastereimer
 [] Lesebriller
-[] Løpebelte
+[] LÃ¸pebelte
 [] Mat for reisen
 [] Mobiltelefon
 [] Notatblokk
@@ -40,10 +38,9 @@ Diverse
 [] Sko
 [] Skopose
 [] Skrivesaker
-[] Småplastposer
 [] Solbriller
 [] Strandteppe
-[] Takstativ på bil
+[] Takstativ pÃ¥ bil
 [] Tapetkniv
 
 Elektronikk
@@ -61,69 +58,69 @@ Elektronikk
 [] LR44-batterier
 [] Mikrofiberklut
 [] Personvekt
-[] Strømkabe
+[] StrÃ¸mkabe
 [] USB-kabel til IPad
 [] USB-kabel til skriver
 [] USB-kabel til telefon
 [] USB-lader med kabel
 [] Walkie-Talkie
-[] Ørepropper
+[] Ã˜repropper
 
-Gjøremål
+GjÃ¸remÃ¥l
 [] Fylle opp dosett
 [] Helle klorin i sluk
 [] Klippe negler
 [] Klippe skjegget
 [] Lade opp enheter
 [] Lage handleliste
-[] Legge nøkler på lurt sted i bagasjen
-[] Låse garasje
-[] Låse hoveddøra
+[] Legge nÃ¸kler pÃ¥ lurt sted i bagasjen
+[] LÃ¥se garasje
+[] LÃ¥se hoveddÃ¸ra
 [] Senke markise
-[] Sette blomster på kjøkkenet
+[] Sette blomster pÃ¥ kjÃ¸kkenet
 [] Sette ut plastavfall
 [] Sjekke alle utganger
 [] Sjekke etter gjenglemt bagasje
 [] Sjekke gressklipper
-[] Sjekke kjøleskap
+[] Sjekke kjÃ¸leskap
 [] Skru av PCer
 [] Skru av fontene
-[] Skru av håndkletørker
+[] Skru av hÃ¥ndkletÃ¸rker
 [] Skru av vann til oppvaskmaskin
 [] Skru av vann til vaskemaskinen
 [] Skru av varmekabler
 [] Skru av varmepumpe
 [] Skru av varmeveksler
-[] Sprøyte plenen
+[] SprÃ¸yte plenen
 [] Stille inn webkamera
 [] Stoppe avisen
 [] Stoppe posten
 [] Ta ut kontanter
-[] Tømme oppvaskmaskin
-[] Tømme postkassa
-[] Tømme søppel
+[] TÃ¸mme oppvaskmaskin
+[] TÃ¸mme postkassa
+[] TÃ¸mme sÃ¸ppel
 [] Vanne blomster
 
-Løping
+LÃ¸ping
 [] Fleecegenser
 [] Garmin 920XT
 [] Garmin pulsbelte x2
 [] Ladekabel til 920XT
 [] Lue og/eller skygge
-[] Løpebukse
-[] Løpetrøye
+[] LÃ¸pebukse
+[] LÃ¸petrÃ¸ye
 [] Regnfrakk
 
 Mat
 [] Brunost
 [] Egg
 [] Formfett
-[] Grillpølser
-[] Grøtris
+[] GrillpÃ¸lser
+[] GrÃ¸tris
 [] Kakemiks
 [] Nugatti
 [] Potetlomper
-[] Rømme
+[] RÃ¸mme
 [] Vaniljesaus
 
 Papirer
@@ -136,57 +133,57 @@ Papirer
 [] Reiseforsikring
 [] Sovemaske
 [] Uleste blader
-[] Uleste bøker
+[] Uleste bÃ¸ker
 [] Visittkort
 
-Svømming
+SvÃ¸mming
 [] Badebukse
 [] Badehette
-[] Håndklede
-[] Svømmebriller
+[] HÃ¥ndklede
+[] SvÃ¸mmebriller
 [] Vanntermometer
-[] Våtdrakt
+[] VÃ¥tdrakt
 
 Sykkel
 [] Bilteppe
 [] Garmin Edge 500
 [] Hjelm
 [] Hjulrettestativ
-[] Kortermet trøye
+[] Kortermet trÃ¸ye
 [] Ladekabel til Edge 500
-[] Langermet trøye
-[] Mikrofiber håndkle
-[] Nøkler til sykkelstativ på bil
+[] Langermet trÃ¸ye
+[] Mikrofiber hÃ¥ndkle
+[] NÃ¸kler til sykkelstativ pÃ¥ bil
 [] Pumpe
 [] Selebukse
 [] Sokker
 [] Sykkel
 [] Sykkeljakke
 [] Sykkelstativ
-[] Sykkelstativ på bil
+[] Sykkelstativ pÃ¥ bil
 [] Tridrakt
 [] Vaskeutstyr
-[] Verktøy
+[] VerktÃ¸y
 
 Toalettsaker
 [] Deodorant
-[] Hårklipputstyr
+[] HÃ¥rklipputstyr
 [] Kam
 [] Neglfil
 [] Neglklipper
-[] Tannbørste
+[] TannbÃ¸rste
 [] Tannkrem
-[] Tanntråd
+[] TanntrÃ¥d
 
-Verktøy
+VerktÃ¸y
 [] Bits
 [] Bor
 [] Bormaskin
 [] Brekkjern
 [] Drill
 [] Hammer
-[] Håndsag
+[] HÃ¥ndsag
 [] Ladere
 [] Multitang
-[] Målebånd
-[] Verktøykassa
+[] MÃ¥lebÃ¥nd
+[] VerktÃ¸ykassa

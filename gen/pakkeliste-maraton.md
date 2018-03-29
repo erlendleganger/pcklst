@@ -3,18 +3,14 @@
 ## Diverse
 - [ ] Body-Glide
 - [ ] Briller
-- [ ] Dosett
-- [ ] Elastisk bånd til startnummer
+- [ ] Elastisk bÃ¥nd til startnummer
 - [ ] Flaske med vann til vasking
-- [ ] Fløyte
-- [ ] Førstehjelpssett
-- [ ] Garmin 920XT pulsklokke
-- [ ] Garmin fotsensor
-- [ ] Garmin pulsbelte
+- [ ] FlÃ¸yte
+- [ ] FÃ¸rstehjelpssett
 - [ ] Hals
 - [ ] Hansker
-- [ ] Informasjonspapir om løpet
-- [ ] Kastbart overtrekkstøy til starten
+- [ ] Informasjonspapir om lÃ¸pet
+- [ ] Kastbart overtrekkstÃ¸y til starten
 - [ ] Konkurransepose
 - [ ] Kontanter
 - [ ] Kort skjorte
@@ -26,29 +22,28 @@
 - [ ] Liten mobiltelefon
 - [ ] Lommebok
 - [ ] Lommekniv
-- [ ] Lue/pannebånd med skygge
+- [ ] Lue/pannebÃ¥nd med skygge
 - [ ] Lureteppe
-- [ ] Løpebelte
-- [ ] Løpesokker
+- [ ] LÃ¸pebelte
+- [ ] LÃ¸pesokker
 - [ ] Mat for reisen
-- [ ] Mat og drikke før løpet
-- [ ] Mat og drikke til etter løpet
-- [ ] Mikrofiberhåndklede
+- [ ] Mat og drikke fÃ¸r lÃ¸pet
+- [ ] Mat og drikke til etter lÃ¸pet
+- [ ] MikrofiberhÃ¥ndklede
 - [ ] Mobiltelefon
 - [ ] Notatblokk
 - [ ] Plastposer
-- [ ] Rapport fra tidligere år
+- [ ] Rapport fra tidligere Ã¥r
 - [ ] Regnjakke
 - [ ] Sekk med drikkepose
-- [ ] Sikkerhetsnåler
+- [ ] SikkerhetsnÃ¥ler
 - [ ] Sko
 - [ ] Skopose
 - [ ] Skrivesaker
-- [ ] Småplastposer
 - [ ] Solbriller
 - [ ] Sovepute
 - [ ] Startnummer
-- [ ] Søppelsekk
+- [ ] SÃ¸ppelsekk
 - [ ] Tape til brystvorter
 - [ ] Tapetkniv
 - [ ] Teppe til bilsetet
@@ -56,15 +51,15 @@
 - [ ] Tidtakerbrikke
 - [ ] Tjukke sokker
 - [ ] Underbukse
-- [ ] Undertrøye
+- [ ] UndertrÃ¸ye
 - [ ] Varmeteppe
-- [ ] Ørepropper MP3
+- [ ] Ã˜repropper MP3
 
 ## Elektronikk
-- [ ] Bagasjevekt
+- [ ] Garmin fotsensor
 
 ## Papirer
-- [ ] Førerkort
+- [ ] FÃ¸rerkort
 
 ## Sykkel
 - [ ] Bilteppe

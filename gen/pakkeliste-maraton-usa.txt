@@ -1,41 +1,35 @@
 Pakkeliste - maraton-usa
 
 Diverse
-[] Bilnøkler
+[] BilnÃ¸kler
 [] BioTex
 [] Body-Glide
 [] Briller
-[] Dosett
-[] Elastisk bånd til startnummer
+[] Elastisk bÃ¥nd til startnummer
 [] GPS m/utstyr
-[] Garmin 920XT pulsklokke
-[] Garmin fotsensor
-[] Garmin lader
-[] Garmin pulsbelte
 [] Grenuttak
 [] Hals
 [] Hansker
 [] Hodepinetabletter
-[] Hodetlf med støykanselleriing
+[] Hodetlf med stÃ¸ykanselleriing
 [] Hotellpapirer
-[] Informasjonspapir om løp
-[] Kastbart overtrekkstøy til starten
+[] Informasjonspapir om lÃ¸p
+[] Kastbart overtrekkstÃ¸y til starten
 [] Klyper
-[] Konkurransepose
 [] Kontanter
 [] Kort skjorte
 [] Kortbukse
-[] Lang løpebukse
+[] Lang lÃ¸pebukse
 [] Lang skjorte
 [] Lommebok
 [] Lommelykt
-[] Lue/pannebånd med skygge
-[] Løpebelte
-[] Løpejakke
-[] Løpesko
-[] Løpesokker
+[] Lue/pannebÃ¥nd med skygge
+[] LÃ¸pebelte
+[] LÃ¸pejakke
+[] LÃ¸pesko
+[] LÃ¸pesokker
 [] Mat for reisen
-[] Mikrofiberhåndklede
+[] MikrofiberhÃ¥ndklede
 [] Mobiltelefon
 [] Notatblokk
 [] Oppgradere GPS
@@ -49,33 +43,32 @@ Diverse
 [] Reisemat
 [] Skopose
 [] Skrivesaker
-[] Småplastposer
 [] Sovemaske
 [] Tape til brystvorter
-[] Temperaturmåler
+[] TemperaturmÃ¥ler
 [] Tigerbalsam
 [] Toalettsaker for flyreise
 [] Tom drikkeflaske
-[] USB strømmåler
+[] USB strÃ¸mmÃ¥ler
 [] USB-batteri
 [] USB-kabler
 [] USB-lader
 [] Underbukse
-[] Undertrøye
+[] UndertrÃ¸ye
 [] Vaskepulver
 [] Vekkerklokke
-[] Ørepropper musikk
+[] Ã˜repropper musikk
 
 Elektronikk
 [] 110V overgang
 [] AA batterier
 [] AAA batterier
-[] Bagasjevekt
 [] Bilkontakt for USB (12V - 5V)
 [] ChromeCast
+[] Garmin fotsensor
 [] Skjermrens
 
-Gjøremål
+GjÃ¸remÃ¥l
 [] Lade GPS
 [] Lade USB-batterier
 [] Sjekke ESTA
@@ -84,6 +77,6 @@ Gjøremål
 Papirer
 [] Bilfordelskort
 [] Flyfordelskort
-[] Førerkort
+[] FÃ¸rerkort
 [] Kredittkort
 [] Visumpapirer/ESTA
