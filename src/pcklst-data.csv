@@ -2,7 +2,7 @@ diverse;Bilnøkler;ferie;maraton-usa;
 diverse;BioTex;maraton-usa;ferie;
 diverse;Body-Glide;maraton-usa;maraton;
 diverse;Briller;ferie;maraton-usa;maraton;
-diverse;Dosett;all
+diverse;Dosett;ferie
 diverse;Drikkeflaske;ferie;
 diverse;Elastisk bånd til startnummer;maraton-usa;maraton;
 diverse;Flaske med vann til vasking;maraton;
@@ -10,10 +10,11 @@ diverse;Fløyte;maraton;
 diverse;Fyrstikker;ferie;
 diverse;Førstehjelpssett;maraton;
 diverse;GPS m/utstyr;maraton-usa;
-diverse;Garmin 920XT pulsklokke;maraton-usa;maraton;
-diverse;Garmin fotsensor;maraton-usa;maraton;
-diverse;Garmin lader;maraton-usa;
-diverse;Garmin pulsbelte;ferie;maraton-usa;maraton;
+elektronikk;Garmin 920XT pulsklokke;konkurransepose
+elektronikk;Garmin fotsensor;maraton-usa;maraton;
+elektronikk;Garmin lader;konkurransepose
+elektronikk;Garmin pulsbelte;konkurransepose
+elektronikk;Garmin pulsbeltestrikk;konkurransepose
 diverse;Genser;ferie;
 diverse;Grenuttak;maraton-usa;
 diverse;Hals;ferie;maraton-usa;maraton;
@@ -75,12 +76,12 @@ diverse;Reiseforsikring;maraton-usa;
 diverse;Reisemat;maraton-usa;
 diverse;Samekniv;ferie;
 diverse;Sekk med drikkepose;maraton;
-diverse;Sikkerhetsnåler;maraton;
+diverse;Sikkerhetsnåler;maraton;konkurransepose
 diverse;Sko;ferie;maraton;
 diverse;Skopose;ferie;maraton-usa;maraton;
 diverse;Skrivesaker;maraton-usa;maraton;ferie;
-diverse;Småplastposer;ferie;maraton-usa;maraton;
-diverse;Solbriller;ferie;maraton;
+diverse;Småplastposer;konkurransepose
+diverse;Solbriller;ferie;maraton;konkurransepose
 diverse;Sovemaske;maraton-usa;
 diverse;Sovepute;maraton;
 diverse;Startnummer;maraton;
@@ -112,7 +113,7 @@ elektronikk;110V overgang;ferie;maraton-usa;
 elektronikk;12V USB-uttak;ferie;
 elektronikk;AA batterier;maraton-usa;ferie;
 elektronikk;AAA batterier;maraton-usa;ferie;
-elektronikk;Bagasjevekt;all;
+elektronikk;Bagasjevekt;ferie;
 elektronikk;Bilkontakt for USB (12V - 5V);ferie;maraton-usa;
 elektronikk;CR2032-batterier;ferie;
 elektronikk;CR2430-batterier;ferie;
@@ -232,7 +233,7 @@ toalettsaker;Neglfil;ferie;
 toalettsaker;Neglklipper;ferie;
 toalettsaker;Tannbørste;ferie;
 toalettsaker;Tannkrem;ferie;
-toalettsaker;Tanntråd;ferie;
+toalettsaker;Tanntråd;ferie;konkurransepose;
 verktøy;Bits;ferie;
 verktøy;Bor;ferie;
 verktøy;Bormaskin;ferie;
@@ -245,4 +246,12 @@ verktøy;Multitang;ferie;
 verktøy;Målebånd;ferie;
 verktøy;Verktøykassa;ferie;
 diverse;Body Glide;konkurransepose
-diverse;Konkurransepose;all
+diverse;Konkurransepose;maraton
+diverse;Strikkbelte til startnummer;konkurransepose
+diverse;Brystvorte-teip;konkurransepose
+diverse;Buksestrikk;konkurransepose
+diverse;Solkrem;konkurransepose
+diverse;Futteral til pulsklokke;konkurransepose
+diverse;Varmekrem;konkurransepose
+diverse;Smertekrem;konkurransepose
+diverse;Plaster;konkurransepose

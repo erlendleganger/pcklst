@@ -45,11 +45,27 @@
       </lists>
    </item>
 
+   <item id="14457754705142968821">
+      <title>Brystvorte-teip</title>
+      <category>diverse</category>
+      <lists>
+         <list>konkurransepose</list>
+      </lists>
+   </item>
+
+   <item id="17776722604109056744">
+      <title>Buksestrikk</title>
+      <category>diverse</category>
+      <lists>
+         <list>konkurransepose</list>
+      </lists>
+   </item>
+
    <item id="9781895835117591859">
       <title>Dosett</title>
       <category>diverse</category>
       <lists>
-         <list>all</list>
+         <list>ferie</list>
       </lists>
    </item>
 
@@ -86,6 +102,14 @@
       </lists>
    </item>
 
+   <item id="17628234717971882383">
+      <title>Futteral til pulsklokke</title>
+      <category>diverse</category>
+      <lists>
+         <list>konkurransepose</list>
+      </lists>
+   </item>
+
    <item id="16616390202649237710">
       <title>Fyrstikker</title>
       <category>diverse</category>
@@ -107,42 +131,6 @@
       <category>diverse</category>
       <lists>
          <list>maraton-usa</list>
-      </lists>
-   </item>
-
-   <item id="12612166662045341711">
-      <title>Garmin 920XT pulsklokke</title>
-      <category>diverse</category>
-      <lists>
-         <list>maraton-usa</list>
-         <list>maraton</list>
-      </lists>
-   </item>
-
-   <item id="14727770023760825678">
-      <title>Garmin fotsensor</title>
-      <category>diverse</category>
-      <lists>
-         <list>maraton-usa</list>
-         <list>maraton</list>
-      </lists>
-   </item>
-
-   <item id="13323818437712626225">
-      <title>Garmin lader</title>
-      <category>diverse</category>
-      <lists>
-         <list>maraton-usa</list>
-      </lists>
-   </item>
-
-   <item id="4803597326532287451">
-      <title>Garmin pulsbelte</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-         <list>maraton-usa</list>
-         <list>maraton</list>
       </lists>
    </item>
 
@@ -308,7 +296,7 @@
       <title>Konkurransepose</title>
       <category>diverse</category>
       <lists>
-         <list>all</list>
+         <list>maraton</list>
       </lists>
    </item>
 
@@ -614,6 +602,14 @@
       </lists>
    </item>
 
+   <item id="7867067650953757533">
+      <title>Plaster</title>
+      <category>diverse</category>
+      <lists>
+         <list>konkurransepose</list>
+      </lists>
+   </item>
+
    <item id="6452425012350572759">
       <title>Plastposer</title>
       <category>diverse</category>
@@ -677,6 +673,7 @@
       <category>diverse</category>
       <lists>
          <list>maraton</list>
+         <list>konkurransepose</list>
       </lists>
    </item>
 
@@ -709,13 +706,19 @@
       </lists>
    </item>
 
+   <item id="18328895024914258273">
+      <title>Smertekrem</title>
+      <category>diverse</category>
+      <lists>
+         <list>konkurransepose</list>
+      </lists>
+   </item>
+
    <item id="12194745161424919707">
       <title>Småplastposer</title>
       <category>diverse</category>
       <lists>
-         <list>ferie</list>
-         <list>maraton-usa</list>
-         <list>maraton</list>
+         <list>konkurransepose</list>
       </lists>
    </item>
 
@@ -725,6 +728,15 @@
       <lists>
          <list>ferie</list>
          <list>maraton</list>
+         <list>konkurransepose</list>
+      </lists>
+   </item>
+
+   <item id="9204642880052924813">
+      <title>Solkrem</title>
+      <category>diverse</category>
+      <lists>
+         <list>konkurransepose</list>
       </lists>
    </item>
 
@@ -757,6 +769,14 @@
       <category>diverse</category>
       <lists>
          <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="8826960414942044205">
+      <title>Strikkbelte til startnummer</title>
+      <category>diverse</category>
+      <lists>
+         <list>konkurransepose</list>
       </lists>
    </item>
 
@@ -909,6 +929,14 @@
       </lists>
    </item>
 
+   <item id="8691645075299233482">
+      <title>Varmekrem</title>
+      <category>diverse</category>
+      <lists>
+         <list>konkurransepose</list>
+      </lists>
+   </item>
+
    <item id="16715517395302284270">
       <title>Varmeteppe</title>
       <category>diverse</category>
@@ -988,7 +1016,7 @@
       <title>Bagasjevekt</title>
       <category>elektronikk</category>
       <lists>
-         <list>all</list>
+         <list>ferie</list>
       </lists>
    </item>
 
@@ -1031,6 +1059,47 @@
       <category>elektronikk</category>
       <lists>
          <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="3504327212857122752">
+      <title>Garmin 920XT pulsklokke</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>konkurransepose</list>
+      </lists>
+   </item>
+
+   <item id="11788103553038410152">
+      <title>Garmin fotsensor</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>maraton-usa</list>
+         <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="15659397024821926091">
+      <title>Garmin lader</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>konkurransepose</list>
+      </lists>
+   </item>
+
+   <item id="3268913107569735485">
+      <title>Garmin pulsbelte</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>konkurransepose</list>
+      </lists>
+   </item>
+
+   <item id="10369018584838180189">
+      <title>Garmin pulsbeltestrikk</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>konkurransepose</list>
       </lists>
    </item>
 
@@ -1954,6 +2023,7 @@
       <category>toalettsaker</category>
       <lists>
          <list>ferie</list>
+         <list>konkurransepose</list>
       </lists>
    </item>
 
