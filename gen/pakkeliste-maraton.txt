@@ -3,6 +3,7 @@ Pakkeliste - maraton
 Diverse
 [] Body-Glide
 [] Briller
+[] Dosett
 [] Elastisk bånd til startnummer
 [] Flaske med vann til vasking
 [] Fløyte
@@ -29,16 +30,16 @@ Diverse
 [] Løpebelte
 [] Løpesokker
 [] Mat for reisen
-[] Mat og drikke før løpet 
-[] Mat og drikke til etter løpet 
+[] Mat og drikke før løpet
+[] Mat og drikke til etter løpet
 [] Mikrofiberhåndklede
 [] Mobiltelefon
 [] Notatblokk
 [] Plastposer
 [] Rapport fra tidligere år
 [] Regnjakke
-[] Sekk med drikkepose 
-[] Sikkerhetsnåler 
+[] Sekk med drikkepose
+[] Sikkerhetsnåler
 [] Sko
 [] Skopose
 [] Skrivesaker
@@ -50,7 +51,7 @@ Diverse
 [] Tape til brystvorter
 [] Tapetkniv
 [] Teppe til bilsetet
-[] Tidsskjema 
+[] Tidsskjema
 [] Tidtakerbrikke
 [] Tjukke sokker
 [] Underbukse

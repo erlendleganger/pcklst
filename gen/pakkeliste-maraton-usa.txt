@@ -5,8 +5,9 @@ Diverse
 [] BioTex
 [] Body-Glide
 [] Briller
+[] Dosett
 [] Elastisk bånd til startnummer
-[] GPS m/utstyr 
+[] GPS m/utstyr
 [] Garmin 920XT pulsklokke
 [] Garmin fotsensor
 [] Garmin lader
@@ -19,7 +20,7 @@ Diverse
 [] Hotellpapirer
 [] Informasjonspapir om løp
 [] Kastbart overtrekkstøy til starten
-[] Klyper 
+[] Klyper
 [] Kontanter
 [] Kort skjorte
 [] Kortbukse
@@ -30,7 +31,7 @@ Diverse
 [] Lue/pannebånd med skygge
 [] Løpebelte
 [] Løpejakke
-[] Løpesko 
+[] Løpesko
 [] Løpesokker
 [] Mat for reisen
 [] Mikrofiberhåndklede
@@ -43,12 +44,12 @@ Diverse
 [] Pass
 [] Plastposer
 [] Regnjakke
-[] Reiseforsikring 
+[] Reiseforsikring
 [] Reisemat
 [] Skopose
 [] Skrivesaker
 [] Småplastposer
-[] Sovemaske 
+[] Sovemaske
 [] Tape til brystvorter
 [] Temperaturmåler
 [] Tigerbalsam
@@ -71,17 +72,17 @@ Elektronikk
 [] Bagasjevekt
 [] Bilkontakt for USB (12V - 5V)
 [] ChromeCast
-[] Skjermrens 
+[] Skjermrens
 
 Gjøremål
 [] Lade GPS
 [] Lade USB-batterier
-[] Sjekk ESTA
+[] Sjekke ESTA
 [] Skru av regionsperre
 
 Papirer
 [] Bilfordelskort
 [] Flyfordelskort
 [] Førerkort
-[] Kredittkort 
+[] Kredittkort
 [] Visumpapirer/ESTA

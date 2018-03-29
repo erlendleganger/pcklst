@@ -37,6 +37,14 @@
       </lists>
    </item>
 
+   <item id="9781895835117591859">
+      <title>Dosett</title>
+      <category>diverse</category>
+      <lists>
+         <list>all</list>
+      </lists>
+   </item>
+
    <item id="18049347354301099362">
       <title>Drikkeflaske</title>
       <category>diverse</category>
@@ -86,8 +94,8 @@
       </lists>
    </item>
 
-   <item id="16880590047088302431">
-      <title>GPS m/utstyr </title>
+   <item id="6045860311177191303">
+      <title>GPS m/utstyr</title>
       <category>diverse</category>
       <lists>
          <list>maraton-usa</list>
@@ -156,8 +164,8 @@
       </lists>
    </item>
 
-   <item id="13442388916615698653">
-      <title>Halslomme </title>
+   <item id="7851321934428560874">
+      <title>Halslomme</title>
       <category>diverse</category>
       <lists>
          <list>ferie</list>
@@ -280,8 +288,8 @@
       </lists>
    </item>
 
-   <item id="1824655944774113037">
-      <title>Klyper </title>
+   <item id="9402084533254688051">
+      <title>Klyper</title>
       <category>diverse</category>
       <lists>
          <list>maraton-usa</list>
@@ -449,8 +457,8 @@
       </lists>
    </item>
 
-   <item id="2849887222422660371">
-      <title>Løpesko </title>
+   <item id="8995188560921695005">
+      <title>Løpesko</title>
       <category>diverse</category>
       <lists>
          <list>maraton-usa</list>
@@ -477,16 +485,16 @@
       </lists>
    </item>
 
-   <item id="2763620411113653704">
-      <title>Mat og drikke før løpet </title>
+   <item id="1898864425704998940">
+      <title>Mat og drikke før løpet</title>
       <category>diverse</category>
       <lists>
          <list>maraton</list>
       </lists>
    </item>
 
-   <item id="22660540216227804">
-      <title>Mat og drikke til etter løpet </title>
+   <item id="5801098295354317856">
+      <title>Mat og drikke til etter løpet</title>
       <category>diverse</category>
       <lists>
          <list>maraton</list>
@@ -524,14 +532,6 @@
 
    <item id="8796531617479917693">
       <title>Notebok</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="2350551022208057462">
-      <title>Nøkler til takboks</title>
       <category>diverse</category>
       <lists>
          <list>ferie</list>
@@ -624,8 +624,8 @@
       </lists>
    </item>
 
-   <item id="14170475197493423786">
-      <title>Reiseforsikring </title>
+   <item id="15538576625064913589">
+      <title>Reiseforsikring</title>
       <category>diverse</category>
       <lists>
          <list>maraton-usa</list>
@@ -648,16 +648,16 @@
       </lists>
    </item>
 
-   <item id="7622281474541250780">
-      <title>Sekk med drikkepose </title>
+   <item id="7478400715416198246">
+      <title>Sekk med drikkepose</title>
       <category>diverse</category>
       <lists>
          <list>maraton</list>
       </lists>
    </item>
 
-   <item id="11981282613520879219">
-      <title>Sikkerhetsnåler </title>
+   <item id="15425126367021134847">
+      <title>Sikkerhetsnåler</title>
       <category>diverse</category>
       <lists>
          <list>maraton</list>
@@ -712,8 +712,8 @@
       </lists>
    </item>
 
-   <item id="3830108952212239976">
-      <title>Sovemaske </title>
+   <item id="5136298868940892162">
+      <title>Sovemaske</title>
       <category>diverse</category>
       <lists>
          <list>maraton-usa</list>
@@ -749,14 +749,6 @@
       <category>diverse</category>
       <lists>
          <list>maraton</list>
-      </lists>
-   </item>
-
-   <item id="7824234773504210333">
-      <title>Takboks</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
       </lists>
    </item>
 
@@ -802,8 +794,8 @@
       </lists>
    </item>
 
-   <item id="11026221551831045192">
-      <title>Tidsskjema </title>
+   <item id="360873991186172112">
+      <title>Tidsskjema</title>
       <category>diverse</category>
       <lists>
          <list>maraton</list>
@@ -1026,8 +1018,8 @@
       </lists>
    </item>
 
-   <item id="17403269561881356806">
-      <title>Hodetelefoner </title>
+   <item id="10724607582232250007">
+      <title>Hodetelefoner</title>
       <category>elektronikk</category>
       <lists>
          <list>ferie</list>
@@ -1058,8 +1050,8 @@
       </lists>
    </item>
 
-   <item id="5495810315188309934">
-      <title>Skjermrens </title>
+   <item id="14198263123136196184">
+      <title>Skjermrens</title>
       <category>elektronikk</category>
       <lists>
          <list>maraton-usa</list>
@@ -1114,17 +1106,17 @@
       </lists>
    </item>
 
-   <item id="2298970520907065299">
-      <title>iPad</title>
+   <item id="1739364065201861153">
+      <title>Ørepropper</title>
       <category>elektronikk</category>
       <lists>
          <list>ferie</list>
       </lists>
    </item>
 
-   <item id="119384381563957170">
-      <title>Ørepropper </title>
-      <category>elektronikk</category>
+   <item id="7338369070868630237">
+      <title>Fylle opp dosett</title>
+      <category>gjøremål</category>
       <lists>
          <list>ferie</list>
       </lists>
@@ -1186,8 +1178,8 @@
       </lists>
    </item>
 
-   <item id="13657847598307762725">
-      <title>Legge nøkler på lurt sted i bagasjen </title>
+   <item id="1903904703434073583">
+      <title>Legge nøkler på lurt sted i bagasjen</title>
       <category>gjøremål</category>
       <lists>
          <list>ferie</list>
@@ -1218,8 +1210,8 @@
       </lists>
    </item>
 
-   <item id="5402986306256481652">
-      <title>Sette blomsterpotter på kjøkkenet</title>
+   <item id="6614429097663416000">
+      <title>Sette blomster på kjøkkenet</title>
       <category>gjøremål</category>
       <lists>
          <list>ferie</list>
@@ -1234,40 +1226,40 @@
       </lists>
    </item>
 
-   <item id="851970775365835762">
-      <title>Sjekk ESTA</title>
+   <item id="17854422591651693019">
+      <title>Sjekke ESTA</title>
       <category>gjøremål</category>
       <lists>
          <list>maraton-usa</list>
       </lists>
    </item>
 
-   <item id="10449846982328099734">
-      <title>Sjekk alle utganger</title>
+   <item id="3484110804851503971">
+      <title>Sjekke alle utganger</title>
       <category>gjøremål</category>
       <lists>
          <list>ferie</list>
       </lists>
    </item>
 
-   <item id="15577530897773113568">
-      <title>Sjekk etter gjenglemt bagasje</title>
+   <item id="159049990260578936">
+      <title>Sjekke etter gjenglemt bagasje</title>
       <category>gjøremål</category>
       <lists>
          <list>ferie</list>
       </lists>
    </item>
 
-   <item id="9693559638747055577">
-      <title>Sjekk gressklipper</title>
+   <item id="4168739626120769539">
+      <title>Sjekke gressklipper</title>
       <category>gjøremål</category>
       <lists>
          <list>ferie</list>
       </lists>
    </item>
 
-   <item id="14325124695511779247">
-      <title>Sjekk kjøleskap</title>
+   <item id="18253513660920746695">
+      <title>Sjekke kjøleskap</title>
       <category>gjøremål</category>
       <lists>
          <list>ferie</list>
@@ -1458,11 +1450,10 @@
       </lists>
    </item>
 
-   <item id="5821521308413806823">
-      <title>Løpebuks</title>
+   <item id="15794346212662468424">
+      <title>Løpebukse</title>
       <category>løping</category>
       <lists>
-         <list>ferie</list>
          <list>ferie</list>
       </lists>
    </item>
@@ -1523,8 +1514,8 @@
       </lists>
    </item>
 
-   <item id="13881274173880731547">
-      <title>Lomper</title>
+   <item id="6654584093233449939">
+      <title>Kakemiks</title>
       <category>mat</category>
       <lists>
          <list>ferie</list>
@@ -1533,6 +1524,14 @@
 
    <item id="11143346508065543271">
       <title>Nugatti</title>
+      <category>mat</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="7776704080190348957">
+      <title>Potetlomper</title>
       <category>mat</category>
       <lists>
          <list>ferie</list>
@@ -1549,14 +1548,6 @@
 
    <item id="1925513232642353174">
       <title>Vaniljesaus</title>
-      <category>mat</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="6654584093233449957">
-      <title>kakemiks</title>
       <category>mat</category>
       <lists>
          <list>ferie</list>
@@ -1621,8 +1612,8 @@
       </lists>
    </item>
 
-   <item id="16534795762430663134">
-      <title>Kredittkort </title>
+   <item id="3991636284335054476">
+      <title>Kredittkort</title>
       <category>papirer</category>
       <lists>
          <list>maraton-usa</list>

@@ -4,12 +4,13 @@ Diverse
 [] Bilnøkler
 [] BioTex
 [] Briller
+[] Dosett
 [] Drikkeflaske
 [] Fyrstikker
 [] Garmin pulsbelte
 [] Genser
 [] Hals
-[] Halslomme 
+[] Halslomme
 [] Handleposer
 [] Hansker
 [] Hodepinetabletter
@@ -28,7 +29,6 @@ Diverse
 [] Mobiltelefon
 [] Notatblokk
 [] Notebok
-[] Nøkler til takboks
 [] Olabukse
 [] PC
 [] PC-lader
@@ -42,7 +42,6 @@ Diverse
 [] Småplastposer
 [] Solbriller
 [] Strandteppe
-[] Takboks
 [] Takstativ på bil
 [] Tapetkniv
 
@@ -57,7 +56,7 @@ Elektronikk
 [] CR2430-batterier
 [] ChromeCast
 [] Garmin 60CS
-[] Hodetelefoner 
+[] Hodetelefoner
 [] LR44-batterier
 [] Mikrofiberklut
 [] Personvekt
@@ -67,25 +66,25 @@ Elektronikk
 [] USB-kabel til telefon
 [] USB-lader med kabel
 [] Walkie-Talkie
-[] iPad
-[] Ørepropper 
+[] Ørepropper
 
 Gjøremål
+[] Fylle opp dosett
 [] Helle klorin i sluk
 [] Klippe negler
 [] Klippe skjegget
 [] Lade opp enheter
 [] Lage handleliste
-[] Legge nøkler på lurt sted i bagasjen 
+[] Legge nøkler på lurt sted i bagasjen
 [] Låse garasje
 [] Låse hoveddøra
 [] Senke markise
-[] Sette blomsterpotter på kjøkkenet
+[] Sette blomster på kjøkkenet
 [] Sette ut plastavfall
-[] Sjekk alle utganger
-[] Sjekk etter gjenglemt bagasje
-[] Sjekk gressklipper
-[] Sjekk kjøleskap
+[] Sjekke alle utganger
+[] Sjekke etter gjenglemt bagasje
+[] Sjekke gressklipper
+[] Sjekke kjøleskap
 [] Skru av PCer
 [] Skru av fontene
 [] Skru av håndkletørker
@@ -110,8 +109,7 @@ Løping
 [] Garmin pulsbelte x2
 [] Ladekabel til 920XT
 [] Lue og/eller skygge
-[] Løpebuks
-[] Løpebuks
+[] Løpebukse
 [] Løpetrøye
 [] Regnfrakk
 
@@ -121,11 +119,11 @@ Mat
 [] Formfett
 [] Grillpølser
 [] Grøtris
-[] Lomper
+[] Kakemiks
 [] Nugatti
+[] Potetlomper
 [] Rømme
 [] Vaniljesaus
-[] kakemiks
 
 Papirer
 [] Bilfordelskort
