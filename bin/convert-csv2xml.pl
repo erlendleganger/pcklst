@@ -17,8 +17,8 @@ while(<IN>){
    chop;
    my ($category,$item,@list)=split/;/;
    next if(!$item);
-   push @{$db{$item}{list}},@list;
-   $db{$item}{category}=$category;
+   push @{$db{$category}{$item}{list}},@list;
+   #$db{$item}{category}=$category;
 }
 close IN;
 
@@ -28,8 +28,9 @@ print "create $out\n";
 open OUT,'>:encoding(UTF-8)',$out or die("cannot create $out, stopping");
 print OUT "<items>\n";
 my $cnt=0;
-for my $item(sort keys %db){
-   my $category=$db{$item}{category};
+for my $category(sort keys %db){
+for my $item(sort keys %{$db{$category}}){
+   #my $category=$db{$item}{category};
    #my $id=sprintf("item%04d",$cnt++);
    #my $id=cksum($item);
    #use cat+item, item can be duplicated
@@ -38,11 +39,12 @@ for my $item(sort keys %db){
    print OUT qq(      <title>$item</title>\n);
    print OUT qq(      <category>$category</category>\n);
    print OUT qq(      <lists>\n);
-   for my $lid(@{$db{$item}{list}}){
+   for my $lid(@{$db{$category}{$item}{list}}){
       print OUT qq(         <list>$lid</list>\n) if($lid);
    }
    print OUT qq(      </lists>\n);
    print OUT qq(   </item>\n);
+}
 }
 print OUT "</items>\n";
 close OUT;
