@@ -9,15 +9,6 @@
       </lists>
    </item>
 
-   <item id="10131650895250406707">
-      <title>BioTex</title>
-      <category>diverse</category>
-      <lists>
-         <list>maraton-usa</list>
-         <list>ferie</list>
-      </lists>
-   </item>
-
    <item id="307337406697281072">
       <title>Body Glide</title>
       <category>diverse</category>
@@ -219,6 +210,14 @@
       </lists>
    </item>
 
+   <item id="8165643675480401373">
+      <title>Hyssing</title>
+      <category>diverse</category>
+      <lists>
+         <list>småtingpose</list>
+      </lists>
+   </item>
+
    <item id="5551762160504641908">
       <title>Informasjonspapir om løp</title>
       <category>diverse</category>
@@ -276,6 +275,14 @@
       </lists>
    </item>
 
+   <item id="7867057906121758477">
+      <title>Klemmer</title>
+      <category>diverse</category>
+      <lists>
+         <list>småtingpose</list>
+      </lists>
+   </item>
+
    <item id="5254805918516891863">
       <title>Klessnor</title>
       <category>diverse</category>
@@ -289,6 +296,14 @@
       <category>diverse</category>
       <lists>
          <list>maraton-usa</list>
+      </lists>
+   </item>
+
+   <item id="7819317859012708109">
+      <title>Kompass</title>
+      <category>diverse</category>
+      <lists>
+         <list>småtingpose</list>
       </lists>
    </item>
 
@@ -580,8 +595,7 @@
       <title>PC-mus</title>
       <category>diverse</category>
       <lists>
-         <list>ferie</list>
-         <list>maraton-usa</list>
+         <list>småtingpose</list>
       </lists>
    </item>
 
@@ -722,6 +736,14 @@
       </lists>
    </item>
 
+   <item id="5381084344583598508">
+      <title>Småtingpose</title>
+      <category>diverse</category>
+      <lists>
+         <list>maraton</list>
+      </lists>
+   </item>
+
    <item id="14071290112888922733">
       <title>Solbriller</title>
       <category>diverse</category>
@@ -785,6 +807,14 @@
       <category>diverse</category>
       <lists>
          <list>maraton</list>
+      </lists>
+   </item>
+
+   <item id="2689042113866355025">
+      <title>Søtningsmiddel</title>
+      <category>diverse</category>
+      <lists>
+         <list>småtingpose</list>
       </lists>
    </item>
 
@@ -949,7 +979,7 @@
       <title>Vaskepulver</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>småtingpose</list>
       </lists>
    </item>
 
@@ -977,12 +1007,19 @@
       </lists>
    </item>
 
+   <item id="9721815172204774708">
+      <title>Ørepropper støy</title>
+      <category>diverse</category>
+      <lists>
+         <list>småtingpose</list>
+      </lists>
+   </item>
+
    <item id="5373167189005636473">
       <title>110V overgang</title>
       <category>elektronikk</category>
       <lists>
-         <list>ferie</list>
-         <list>maraton-usa</list>
+         <list>småtingpose</list>
       </lists>
    </item>
 
@@ -990,7 +1027,7 @@
       <title>12V USB-uttak</title>
       <category>elektronikk</category>
       <lists>
-         <list>ferie</list>
+         <list>småtingpose</list>
       </lists>
    </item>
 
@@ -998,8 +1035,7 @@
       <title>AA batterier</title>
       <category>elektronikk</category>
       <lists>
-         <list>maraton-usa</list>
-         <list>ferie</list>
+         <list>småtingpose</list>
       </lists>
    </item>
 
@@ -1007,8 +1043,7 @@
       <title>AAA batterier</title>
       <category>elektronikk</category>
       <lists>
-         <list>maraton-usa</list>
-         <list>ferie</list>
+         <list>småtingpose</list>
       </lists>
    </item>
 
@@ -1016,7 +1051,7 @@
       <title>Bagasjevekt</title>
       <category>elektronikk</category>
       <lists>
-         <list>ferie</list>
+         <list>småtingpose</list>
       </lists>
    </item>
 
@@ -1148,6 +1183,14 @@
       <category>elektronikk</category>
       <lists>
          <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="1226611575618425806">
+      <title>Termometer</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>småtingpose</list>
       </lists>
    </item>
 

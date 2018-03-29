@@ -1,5 +1,5 @@
 diverse;Bilnøkler;ferie;maraton-usa;
-diverse;BioTex;maraton-usa;ferie;
+diverse;Vaskepulver;småtingpose
 diverse;Body-Glide;maraton-usa;maraton;
 diverse;Briller;ferie;maraton-usa;maraton;
 diverse;Dosett;ferie
@@ -66,7 +66,7 @@ diverse;Olabukse;ferie;
 diverse;Oppgradere GPS;maraton-usa;
 diverse;PC;ferie;maraton-usa;
 diverse;PC-lader;ferie;maraton-usa;
-diverse;PC-mus;ferie;maraton-usa;
+diverse;PC-mus;småtingpose;
 diverse;Pakketeip;ferie;
 diverse;Pass;ferie;maraton-usa;
 diverse;Plastposer;maraton-usa;maraton;
@@ -105,15 +105,14 @@ diverse;USB-lader;maraton-usa;
 diverse;Underbukse;maraton-usa;maraton;
 diverse;Undertrøye;maraton-usa;maraton;
 diverse;Varmeteppe;maraton;
-diverse;Vaskepulver;maraton-usa;
 diverse;Vekkerklokke;maraton-usa;
 diverse;Ørepropper MP3;maraton;
 diverse;Ørepropper musikk;maraton-usa;
-elektronikk;110V overgang;ferie;maraton-usa;
-elektronikk;12V USB-uttak;ferie;
-elektronikk;AA batterier;maraton-usa;ferie;
-elektronikk;AAA batterier;maraton-usa;ferie;
-elektronikk;Bagasjevekt;ferie;
+elektronikk;110V overgang;småtingpose
+elektronikk;12V USB-uttak;småtingpose
+elektronikk;AA batterier;småtingpose
+elektronikk;AAA batterier;småtingpose
+elektronikk;Bagasjevekt;småtingpose
 elektronikk;Bilkontakt for USB (12V - 5V);ferie;maraton-usa;
 elektronikk;CR2032-batterier;ferie;
 elektronikk;CR2430-batterier;ferie;
@@ -247,6 +246,7 @@ verktøy;Målebånd;ferie;
 verktøy;Verktøykassa;ferie;
 diverse;Body Glide;konkurransepose
 diverse;Konkurransepose;maraton
+diverse;Småtingpose;maraton
 diverse;Strikkbelte til startnummer;konkurransepose
 diverse;Brystvorte-teip;konkurransepose
 diverse;Buksestrikk;konkurransepose
@@ -255,3 +255,9 @@ diverse;Futteral til pulsklokke;konkurransepose
 diverse;Varmekrem;konkurransepose
 diverse;Smertekrem;konkurransepose
 diverse;Plaster;konkurransepose
+diverse;Hyssing;småtingpose
+diverse;Klemmer;småtingpose
+elektronikk;Termometer;småtingpose
+diverse;Ørepropper støy;småtingpose
+diverse;Kompass;småtingpose
+diverse;Søtningsmiddel;småtingpose
