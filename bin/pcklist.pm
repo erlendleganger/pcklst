@@ -84,34 +84,6 @@ sub gen_pcklist(){
    for my $fmt(qw(txt md html)){
       write_pcklist($fmt,\%listdb);
    }
-   return;
-
-   #loop through all packing lists
-   for my $lid(sort keys %listdb){
-
-      #create the packing list file
-      my $out="gen/pakkeliste-$lid.md";
-      print "create $out\n";
-      open OUT,">",$out or die("cannot create $out, stopping");
-      print OUT "# Pakkeliste - $lid\n\n";
-
-      #get all categories for this packing list
-      for my $catid(sort keys %{$listdb{$lid}}){
-         print OUT "## \u$catid\n\n";
-
-         #get all items for this category on this list
-         for my $id(sort{
-            $xml_item->{item}{$a}{title} cmp
-            $xml_item->{item}{$b}{title}
-            }@{$listdb{$lid}{$catid}}){
-            my $title=$xml_item->{item}{$id}{title};
-            print OUT "- [ ] $title\n";
-         }
-      }
-
-      close OUT
-   }
-   
 }
 
 sub write_pcklist(){
