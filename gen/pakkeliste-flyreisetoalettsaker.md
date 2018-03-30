@@ -7,6 +7,7 @@
 ## Toalettsaker
 - [ ] Hårspray
 - [ ] Kam
+- [ ] Neglfil
 - [ ] Tannbørste
 - [ ] Tannkrem
 - [ ] Tanntråd
