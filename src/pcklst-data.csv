@@ -1,141 +1,124 @@
-diverse;Bilnøkler;ferie;maraton-usa;
+diverse;Bilnøkler;ferie;løp-fly;ritt-bil
 diverse;Vaskepulver;småtingpose
-diverse;Body-Glide;maraton-usa;maraton;
-diverse;Briller;ferie;maraton-usa;maraton;
-diverse;Dosett;ferie
+diverse;Briller;småtingpose
 diverse;Drikkeflaske;ferie;
-diverse;Elastisk bånd til startnummer;maraton-usa;maraton;
-diverse;Flaske med vann til vasking;maraton;
-diverse;Fløyte;maraton;
+diverse;Flaske med vann til vasking;løp-bil;
 diverse;Fyrstikker;ferie;
-diverse;Førstehjelpssett;maraton;
-diverse;GPS m/utstyr;maraton-usa;
+elektronikk;Bil-GPS;løp-fly;
 elektronikk;Garmin 920XT pulsklokke;konkurransepose
-elektronikk;Garmin fotsensor;maraton-usa;maraton;
+elektronikk;Garmin fotsensor;konkurransepose
 elektronikk;Garmin lader;konkurransepose
 elektronikk;Garmin pulsbelte;konkurransepose
 elektronikk;Garmin pulsbeltestrikk;konkurransepose
 diverse;Genser;ferie;
-diverse;Grenuttak;maraton-usa;
-diverse;Hals;ferie;maraton-usa;maraton;
-diverse;Halslomme;ferie;
-diverse;Handleposer;ferie;
-diverse;Hansker;ferie;maraton-usa;maraton;
-diverse;Hodepinetabletter;ferie;maraton-usa;
-diverse;Hodetlf med støykanselleriing;maraton-usa;
-diverse;Hotellpapirer;maraton-usa;
+elektronikk;Grenuttak;løp-fly;
+klær;Hals;løp-fly;løp-bil;
+diverse;Halslomme;løp-fly
+klær;Hansker;ferie;løp-fly;løp-bil;
+medisiner;Hodepinetabletter;flyreisetoalettsaker
+diverse;Hodetlf med støykanselleriing;løp-fly;
+diverse;Hotellpapirer;løp-fly;
 diverse;Hullemaskin;ferie;
-diverse;Informasjonspapir om løp;maraton-usa;
-diverse;Informasjonspapir om løpet;maraton;
+diverse;Informasjonspapir om løp-bil;løp-fly;
+diverse;Informasjonspapir om løpet;løp-bil;
 diverse;Jakke;ferie;
-diverse;Jernpiller;ferie;
+medisiner;Jernpiller;ferie;
 diverse;Joggesko;ferie;
-diverse;Kastbart overtrekkstøy til starten;maraton-usa;maraton;
-diverse;Kikkert;ferie;
-diverse;Klessnor;ferie;
-diverse;Klyper;maraton-usa;
-diverse;Kontanter;ferie;maraton-usa;maraton;
-diverse;Kort skjorte;maraton-usa;maraton;
-diverse;Kortbukse;maraton-usa;maraton;
+diverse;Kontanter;ferie;løp-fly;løp-bil;
+diverse;Kort skjorte;løp-fly;løp-bil;
+diverse;Kortbukse;løp-fly;løp-bil;
 diverse;Ladekabel til hybrid/el-bil;ferie;
-diverse;Laminert kart;maraton;
-diverse;Lang kompresjonsbukse;maraton;
-diverse;Lang løpebukse;maraton-usa;
-diverse;Lang skjorte;maraton-usa;maraton;
+papirer;Laminert kart;løp-fly;ritt-bil;løp-bil;
+diverse;Lang kompresjonsbukse;løp-bil;
+diverse;Lang løpebukse;løp-fly;
+diverse;Lang skjorte;løp-fly;løp-bil;
 diverse;Lastereimer;ferie;
 diverse;Lesebriller;ferie;
-diverse;Lett ryggsekk;maraton;
-diverse;Liten mobiltelefon;maraton;
-diverse;Lommebok;maraton-usa;maraton;
-diverse;Lommekniv;maraton;
-diverse;Lommelykt;maraton-usa;
-diverse;Lue/pannebånd med skygge;maraton-usa;maraton;
-diverse;Lureteppe;maraton;
-diverse;Løpebelte;ferie;maraton-usa;maraton;
-diverse;Løpejakke;maraton-usa;
-diverse;Løpesko;maraton-usa;
-diverse;Løpesokker;maraton-usa;maraton;
-diverse;Mat for reisen;maraton;maraton-usa;tjenestereise;ferie;
-diverse;Mat og drikke før løpet;maraton;
-diverse;Mat og drikke til etter løpet;maraton;
-diverse;Mikrofiberhåndklede;maraton-usa;maraton;
-diverse;Mobiltelefon;ferie;maraton-usa;maraton;
-diverse;Notatblokk;ferie;maraton-usa;maraton;
+diverse;Lett ryggsekk;løp-bil;
+diverse;Liten mobiltelefon;løp-bil;
+diverse;Lommebok;løp-fly;løp-bil;
+diverse;Lommekniv;løp-bil;
+diverse;Lommelykt;løp-fly;
+diverse;Lue/pannebånd med skygge;løp-fly;løp-bil;
+diverse;Lureteppe;løp-bil;
+diverse;Løpebelte;konkurransepose
+diverse;Løpejakke;løp-fly;
+diverse;Løpesko;løp-fly;
+diverse;Løpesokker;løp-fly;løp-bil;
+diverse;Mat for reisen;løp-bil;løp-fly;ferie;
+diverse;Mat og drikke før løpet;løp-bil;
+diverse;Mat og drikke til etter løpet;løp-bil;
+diverse;Mikrofiberhåndklede;løp-fly;løp-bil;
+diverse;Mobiltelefon;ferie;løp-fly;løp-bil;
+diverse;Notatblokk;ferie;løp-fly;løp-bil;
 diverse;Notebok;ferie;
 diverse;Olabukse;ferie;
-diverse;Oppgradere GPS;maraton-usa;
-diverse;PC;ferie;maraton-usa;
-diverse;PC-lader;ferie;maraton-usa;
+diverse;Oppgradere GPS;løp-fly;
+diverse;PC;ferie;løp-fly;
+diverse;PC-lader;ferie;løp-fly;
 diverse;PC-mus;småtingpose;
 diverse;Pakketeip;ferie;
-diverse;Pass;ferie;maraton-usa;
-diverse;Plastposer;maraton-usa;maraton;
-diverse;Rapport fra tidligere år;maraton;
-diverse;Regnjakke;maraton-usa;maraton;
-diverse;Reiseforsikring;maraton-usa;
-diverse;Reisemat;maraton-usa;
+diverse;Pass;ferie;løp-fly;
+diverse;Plastposer;løp-fly;løp-bil;
+diverse;Rapport fra tidligere år;løp-bil;
+diverse;Regnjakke;løp-fly;løp-bil;
+diverse;Reiseforsikring;løp-fly;
+diverse;Reisemat;løp-fly;
 diverse;Samekniv;ferie;
-diverse;Sekk med drikkepose;maraton;
-diverse;Sikkerhetsnåler;maraton;konkurransepose
-diverse;Sko;ferie;maraton;
-diverse;Skopose;ferie;maraton-usa;maraton;
-diverse;Skrivesaker;maraton-usa;maraton;ferie;
+diverse;Sekk med drikkepose;løp-bil;
+diverse;Sikkerhetsnåler;løp-bil;konkurransepose
+diverse;Sko;ferie;løp-bil;
+diverse;Skopose;ferie;løp-fly;løp-bil;
+diverse;Skrivesaker;løp-fly;løp-bil;ferie;
 diverse;Småplastposer;konkurransepose
-diverse;Solbriller;ferie;maraton;konkurransepose
-diverse;Sovemaske;maraton-usa;
-diverse;Sovepute;maraton;
-diverse;Startnummer;maraton;
+diverse;Solbriller;ferie;løp-bil;konkurransepose
+diverse;Sovemaske;løp-fly;
+diverse;Sovepute;løp-bil;
+diverse;Startnummer;løp-bil;
 diverse;Strandteppe;ferie;
-diverse;Søppelsekk;maraton;
+diverse;Søppelsekk;løp-bil;
 diverse;Takstativ på bil;ferie;
-diverse;Tape til brystvorter;maraton-usa;maraton;
-diverse;Tapetkniv;ferie;maraton;
-diverse;Temperaturmåler;maraton-usa;
-diverse;Teppe til bilsetet;maraton;
-diverse;Tidsskjema;maraton;
-diverse;Tidtakerbrikke;maraton;
-diverse;Tigerbalsam;maraton-usa;
-diverse;Tjukke sokker;maraton;
-diverse;Toalettsaker for flyreise;tjenestereise;maraton-usa;
-diverse;Tom drikkeflaske;maraton-usa;
-diverse;USB strømmåler;maraton-usa;
-diverse;USB-batteri;maraton-usa;
-diverse;USB-kabler;maraton-usa;
-diverse;USB-lader;maraton-usa;
-diverse;Underbukse;maraton-usa;maraton;
-diverse;Undertrøye;maraton-usa;maraton;
-diverse;Varmeteppe;maraton;
-diverse;Vekkerklokke;maraton-usa;
-diverse;Ørepropper MP3;maraton;
-diverse;Ørepropper musikk;maraton-usa;
+diverse;Temperaturmåler;løp-fly;
+diverse;Teppe til bilsetet;løp-bil;
+diverse;Tidsskjema;løp-bil;
+diverse;Tidtakerbrikke;løp-bil;
+diverse;Tigerbalsam;løp-fly;
+diverse;Tjukke sokker;løp-bil;
+diverse;Tom drikkeflaske;løp-fly;
+diverse;USB strømmåler;løp-fly;
+diverse;USB-batteri;løp-fly;
+diverse;USB-kabler;løp-fly;
+diverse;USB-lader;løp-fly;
+diverse;Underbukse;løp-fly;løp-bil;
+diverse;Undertrøye;løp-fly;løp-bil;
+diverse;Varmeteppe;løp-bil;
+diverse;Vekkerklokke;løp-fly;
+diverse;Ørepropper MP3;løp-bil;
+diverse;Ørepropper musikk;løp-fly;
 elektronikk;110V overgang;småtingpose
 elektronikk;12V USB-uttak;småtingpose
 elektronikk;AA batterier;småtingpose
 elektronikk;AAA batterier;småtingpose
 elektronikk;Bagasjevekt;småtingpose
-elektronikk;Bilkontakt for USB (12V - 5V);ferie;maraton-usa;
+elektronikk;Bilkontakt for USB (12V - 5V);ferie;løp-fly;
 elektronikk;CR2032-batterier;ferie;
 elektronikk;CR2430-batterier;ferie;
-elektronikk;ChromeCast;ferie;maraton-usa;
-elektronikk;Garmin 60CS;ferie;
+elektronikk;ChromeCast;ferie;løp-fly;
 elektronikk;Hodetelefoner;ferie;
 elektronikk;LR44-batterier;ferie;
 elektronikk;Mikrofiberklut;ferie;
 elektronikk;Personvekt;ferie;
-elektronikk;Skjermrens;maraton-usa;
-elektronikk;Strømkabe;ferie;
-elektronikk;USB-kabel til IPad;ferie;
-elektronikk;USB-kabel til skriver;ferie;
-elektronikk;USB-kabel til telefon;ferie;
-elektronikk;USB-lader med kabel;ferie;
+diverse;Skjermrens;løp-fly;
+elektronikk;USB-kabler;småtingpose
+elektronikk;USB-ladere;småtingpose;
 elektronikk;Walkie-Talkie;ferie;
 elektronikk;Ørepropper;ferie;
 gjøremål;Fylle opp dosett;ferie
 gjøremål;Helle klorin i sluk;ferie;
 gjøremål;Klippe negler;ferie;
 gjøremål;Klippe skjegget;ferie;
-gjøremål;Lade GPS;maraton-usa;
-gjøremål;Lade USB-batterier;maraton-usa;
+gjøremål;Lade GPS;løp-fly;
+gjøremål;Lade USB-batterier;løp-fly;
 gjøremål;Lade opp enheter;ferie;
 gjøremål;Lage handleliste;ferie;
 gjøremål;Legge nøkler på lurt sted i bagasjen;ferie;
@@ -144,7 +127,7 @@ gjøremål;Låse hoveddøra;ferie;
 gjøremål;Senke markise;ferie;
 gjøremål;Sette blomster på kjøkkenet;ferie;
 gjøremål;Sette ut plastavfall;ferie;
-gjøremål;Sjekke ESTA;maraton-usa;
+gjøremål;Sjekke ESTA;løp-fly;
 gjøremål;Sjekke alle utganger;ferie;
 gjøremål;Sjekke etter gjenglemt bagasje;ferie;
 gjøremål;Sjekke gressklipper;ferie;
@@ -152,7 +135,7 @@ gjøremål;Sjekke kjøleskap;ferie;
 gjøremål;Skru av PCer;ferie;
 gjøremål;Skru av fontene;ferie;
 gjøremål;Skru av håndkletørker;ferie;
-gjøremål;Skru av regionsperre;maraton-usa;
+gjøremål;Skru av regionsperre;løp-fly;
 gjøremål;Skru av vann til oppvaskmaskin;ferie;
 gjøremål;Skru av vann til vaskemaskinen;ferie;
 gjøremål;Skru av varmekabler;ferie;
@@ -185,53 +168,53 @@ mat;Potetlomper;ferie;
 mat;Nugatti;ferie;
 mat;Rømme;ferie;
 mat;Vaniljesaus;ferie;
-papirer;Bilfordelskort;ferie;maraton-usa;
-papirer;Flyfordelskort;maraton-usa;
+papirer;Bilfordelskort;ferie;løp-fly;
+papirer;Flyfordelskort;løp-fly;
 papirer;Fordelsprogram-kort;ferie;
-papirer;Førerkort;maraton-usa;maraton;
+papirer;Førerkort;løp-fly;løp-bil;
 papirer;Karlsborgperm;ferie;
 papirer;Kodebrikke til nettbank;ferie;
 papirer;Kodekort til nettbank;ferie;
-papirer;Kredittkort;maraton-usa;
+papirer;Kredittkort;løp-fly;
 papirer;Pennal;ferie;
 papirer;Reiseforsikring;ferie;
 papirer;Sovemaske;ferie;
 papirer;Uleste blader;ferie;
 papirer;Uleste bøker;ferie;
 papirer;Visittkort;ferie;
-papirer;Visumpapirer/ESTA;maraton-usa;
+papirer;Visumpapirer/ESTA;løp-fly;
 svømming;Badebukse;ferie;
 svømming;Badehette;ferie;
 svømming;Håndklede;ferie;
 svømming;Svømmebriller;ferie;
 svømming;Vanntermometer;ferie;
-svømming;Våtdrakt;ferie;
-sykkel;Bilteppe;ferie;maraton;
-sykkel;Garmin Edge 500;ferie;
-sykkel;Hjelm;ferie;
-sykkel;Hjulrettestativ;ferie;
-sykkel;Kortermet trøye;ferie;
-sykkel;Ladekabel til Edge 500;ferie;
-sykkel;Langermet trøye;ferie;
-sykkel;Mikrofiber håndkle;ferie;
-sykkel;Nøkler til sykkelstativ på bil;ferie;
-sykkel;Pumpe;ferie;
-sykkel;Selebukse;ferie;
-sykkel;Sokker;ferie;
-sykkel;Sykkel;ferie;
-sykkel;Sykkeljakke;ferie;
-sykkel;Sykkelstativ;ferie;
-sykkel;Sykkelstativ på bil;ferie;
-sykkel;Tridrakt;ferie;
-sykkel;Vaskeutstyr;ferie;
-sykkel;Verktøy;ferie;
+svømming;Våtdrakt;triatlon;
+klær;Bilteppe;ritt-bil;løp-bil;
+sykkel;Garmin Edge 500;ritt-bil;triatlon
+klær;Hjelm;ritt-bil;triatlon
+sykkel;Hjulrettestativ;ritt-bil;triatlon
+klær;Kortermet sykkeltrøye;ritt-bil;triatlon
+sykkel;Ladekabel til Edge 500;ritt-bil;triatlon
+klær;Langermet sykkeltrøye;ritt-bil;triatlon
+klær;Mikrofiber håndkle;ferie;
+sykkel;Nøkler til sykkelstativ på bil;ritt-bil;triatlon
+sykkel;Pumpe;ritt-bil;triatlon
+klær;Selebukse;ritt-bil;triatlon
+klær;Sykkelsokker;ritt-bil;triatlon
+sykkel;Sykkel;ritt-bil;triatlon
+klær;Sykkeljakke;ritt-bil;triatlon
+sykkel;Sykkelstativ;ritt-bil;triatlon
+sykkel;Sykkelstativ på bil;ritt-bil;triatlon
+klær;Tridrakt;ritt-bil;triatlon
+sykkel;Vaskeutstyr;ritt-bil;triatlon
+sykkel;Sykkelverktøykasse;ritt-bil;triatlon
 toalettsaker;Deodorant;ferie;
 toalettsaker;Hårklipputstyr;ferie;
 toalettsaker;Kam;ferie;
 toalettsaker;Neglfil;ferie;
 toalettsaker;Neglklipper;ferie;
 toalettsaker;Tannbørste;ferie;
-toalettsaker;Tannkrem;ferie;
+toalettsaker;Tannkrem;flyreisetoalettsaker;ferie;
 toalettsaker;Tanntråd;ferie;konkurransepose;
 verktøy;Bits;ferie;
 verktøy;Bor;ferie;
@@ -245,8 +228,8 @@ verktøy;Multitang;ferie;
 verktøy;Målebånd;ferie;
 verktøy;Verktøykassa;ferie;
 diverse;Body Glide;konkurransepose
-diverse;Konkurransepose;maraton
-diverse;Småtingpose;maraton
+diverse;Konkurransepose;løp-bil;løp-fly
+diverse;Småtingpose;løp-bil;løp-fly
 diverse;Strikkbelte til startnummer;konkurransepose
 diverse;Brystvorte-teip;konkurransepose
 diverse;Buksestrikk;konkurransepose
@@ -254,10 +237,13 @@ diverse;Solkrem;konkurransepose
 diverse;Futteral til pulsklokke;konkurransepose
 diverse;Varmekrem;konkurransepose
 diverse;Smertekrem;konkurransepose
-diverse;Plaster;konkurransepose
+førstehjelp;Plaster;konkurransepose;førstehjelpsspose
 diverse;Hyssing;småtingpose
 diverse;Klemmer;småtingpose
 elektronikk;Termometer;småtingpose
 diverse;Ørepropper støy;småtingpose
 diverse;Kompass;småtingpose
 diverse;Søtningsmiddel;småtingpose
+diverse;Førstehjelpssett;løp-bil;
+diverse;Flyreisetoalettsaker;løp-fly
+medisiner;Dosett;flyreisetoalettsaker

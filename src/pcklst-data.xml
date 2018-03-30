@@ -5,7 +5,8 @@
       <category>diverse</category>
       <lists>
          <list>ferie</list>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
+         <list>ritt-bil</list>
       </lists>
    </item>
 
@@ -17,22 +18,11 @@
       </lists>
    </item>
 
-   <item id="307337406697924144">
-      <title>Body-Glide</title>
-      <category>diverse</category>
-      <lists>
-         <list>maraton-usa</list>
-         <list>maraton</list>
-      </lists>
-   </item>
-
    <item id="7867057143105715005">
       <title>Briller</title>
       <category>diverse</category>
       <lists>
-         <list>ferie</list>
-         <list>maraton-usa</list>
-         <list>maraton</list>
+         <list>småtingpose</list>
       </lists>
    </item>
 
@@ -52,14 +42,6 @@
       </lists>
    </item>
 
-   <item id="9781895835117591859">
-      <title>Dosett</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
    <item id="18049347354301099362">
       <title>Drikkeflaske</title>
       <category>diverse</category>
@@ -68,28 +50,19 @@
       </lists>
    </item>
 
-   <item id="9724412800607462211">
-      <title>Elastisk bånd til startnummer</title>
-      <category>diverse</category>
-      <lists>
-         <list>maraton-usa</list>
-         <list>maraton</list>
-      </lists>
-   </item>
-
    <item id="2424746822339369162">
       <title>Flaske med vann til vasking</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
-   <item id="11344663085049576755">
-      <title>Fløyte</title>
+   <item id="2880252386389917957">
+      <title>Flyreisetoalettsaker</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -113,15 +86,7 @@
       <title>Førstehjelpssett</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
-      </lists>
-   </item>
-
-   <item id="6045860311177191303">
-      <title>GPS m/utstyr</title>
-      <category>diverse</category>
-      <lists>
-         <list>maraton-usa</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -133,56 +98,11 @@
       </lists>
    </item>
 
-   <item id="14352172219759141315">
-      <title>Grenuttak</title>
-      <category>diverse</category>
-      <lists>
-         <list>maraton-usa</list>
-      </lists>
-   </item>
-
-   <item id="7556453198143394365">
-      <title>Hals</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-         <list>maraton-usa</list>
-         <list>maraton</list>
-      </lists>
-   </item>
-
    <item id="7851321934428560874">
       <title>Halslomme</title>
       <category>diverse</category>
       <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="18360017165140977351">
-      <title>Handleposer</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="7867052738952701405">
-      <title>Hansker</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-         <list>maraton-usa</list>
-         <list>maraton</list>
-      </lists>
-   </item>
-
-   <item id="9321365083325790306">
-      <title>Hodepinetabletter</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -190,7 +110,7 @@
       <title>Hodetlf med støykanselleriing</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -198,7 +118,7 @@
       <title>Hotellpapirer</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -218,11 +138,11 @@
       </lists>
    </item>
 
-   <item id="5551762160504641908">
-      <title>Informasjonspapir om løp</title>
+   <item id="8378619639039251013">
+      <title>Informasjonspapir om løp-bil</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -230,20 +150,12 @@
       <title>Informasjonspapir om løpet</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
    <item id="8862620047638344594">
       <title>Jakke</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="18301079459106031934">
-      <title>Jernpiller</title>
       <category>diverse</category>
       <lists>
          <list>ferie</list>
@@ -258,44 +170,11 @@
       </lists>
    </item>
 
-   <item id="750349532667099578">
-      <title>Kastbart overtrekkstøy til starten</title>
-      <category>diverse</category>
-      <lists>
-         <list>maraton-usa</list>
-         <list>maraton</list>
-      </lists>
-   </item>
-
-   <item id="7535220359393945357">
-      <title>Kikkert</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
    <item id="7867057906121758477">
       <title>Klemmer</title>
       <category>diverse</category>
       <lists>
          <list>småtingpose</list>
-      </lists>
-   </item>
-
-   <item id="5254805918516891863">
-      <title>Klessnor</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="9402084533254688051">
-      <title>Klyper</title>
-      <category>diverse</category>
-      <lists>
-         <list>maraton-usa</list>
       </lists>
    </item>
 
@@ -311,7 +190,8 @@
       <title>Konkurransepose</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -320,8 +200,8 @@
       <category>diverse</category>
       <lists>
          <list>ferie</list>
-         <list>maraton-usa</list>
-         <list>maraton</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -329,8 +209,8 @@
       <title>Kort skjorte</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
-         <list>maraton</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -338,8 +218,8 @@
       <title>Kortbukse</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
-         <list>maraton</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -351,19 +231,11 @@
       </lists>
    </item>
 
-   <item id="1879951426617498925">
-      <title>Laminert kart</title>
-      <category>diverse</category>
-      <lists>
-         <list>maraton</list>
-      </lists>
-   </item>
-
    <item id="9753758323337951387">
       <title>Lang kompresjonsbukse</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -371,7 +243,7 @@
       <title>Lang løpebukse</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -379,8 +251,8 @@
       <title>Lang skjorte</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
-         <list>maraton</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -404,7 +276,7 @@
       <title>Lett ryggsekk</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -412,7 +284,7 @@
       <title>Liten mobiltelefon</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -420,8 +292,8 @@
       <title>Lommebok</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
-         <list>maraton</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -429,7 +301,7 @@
       <title>Lommekniv</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -437,7 +309,7 @@
       <title>Lommelykt</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -445,8 +317,8 @@
       <title>Lue/pannebånd med skygge</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
-         <list>maraton</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -454,7 +326,7 @@
       <title>Lureteppe</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -462,9 +334,7 @@
       <title>Løpebelte</title>
       <category>diverse</category>
       <lists>
-         <list>ferie</list>
-         <list>maraton-usa</list>
-         <list>maraton</list>
+         <list>konkurransepose</list>
       </lists>
    </item>
 
@@ -472,7 +342,7 @@
       <title>Løpejakke</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -480,7 +350,7 @@
       <title>Løpesko</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -488,8 +358,8 @@
       <title>Løpesokker</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
-         <list>maraton</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -497,9 +367,8 @@
       <title>Mat for reisen</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
-         <list>maraton-usa</list>
-         <list>tjenestereise</list>
+         <list>løp-bil</list>
+         <list>løp-fly</list>
          <list>ferie</list>
       </lists>
    </item>
@@ -508,7 +377,7 @@
       <title>Mat og drikke før løpet</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -516,7 +385,7 @@
       <title>Mat og drikke til etter løpet</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -524,8 +393,8 @@
       <title>Mikrofiberhåndklede</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
-         <list>maraton</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -534,8 +403,8 @@
       <category>diverse</category>
       <lists>
          <list>ferie</list>
-         <list>maraton-usa</list>
-         <list>maraton</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -544,8 +413,8 @@
       <category>diverse</category>
       <lists>
          <list>ferie</list>
-         <list>maraton-usa</list>
-         <list>maraton</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -569,7 +438,7 @@
       <title>Oppgradere GPS</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -578,7 +447,7 @@
       <category>diverse</category>
       <lists>
          <list>ferie</list>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -587,7 +456,7 @@
       <category>diverse</category>
       <lists>
          <list>ferie</list>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -612,15 +481,7 @@
       <category>diverse</category>
       <lists>
          <list>ferie</list>
-         <list>maraton-usa</list>
-      </lists>
-   </item>
-
-   <item id="7867067650953757533">
-      <title>Plaster</title>
-      <category>diverse</category>
-      <lists>
-         <list>konkurransepose</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -628,8 +489,8 @@
       <title>Plastposer</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
-         <list>maraton</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -637,7 +498,7 @@
       <title>Rapport fra tidligere år</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -645,8 +506,8 @@
       <title>Regnjakke</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
-         <list>maraton</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -654,7 +515,7 @@
       <title>Reiseforsikring</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -662,7 +523,7 @@
       <title>Reisemat</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -678,7 +539,7 @@
       <title>Sekk med drikkepose</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -686,8 +547,16 @@
       <title>Sikkerhetsnåler</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
          <list>konkurransepose</list>
+      </lists>
+   </item>
+
+   <item id="3020824553379456632">
+      <title>Skjermrens</title>
+      <category>diverse</category>
+      <lists>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -696,7 +565,7 @@
       <category>diverse</category>
       <lists>
          <list>ferie</list>
-         <list>maraton</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -705,8 +574,8 @@
       <category>diverse</category>
       <lists>
          <list>ferie</list>
-         <list>maraton-usa</list>
-         <list>maraton</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -714,8 +583,8 @@
       <title>Skrivesaker</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
-         <list>maraton</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
          <list>ferie</list>
       </lists>
    </item>
@@ -740,7 +609,8 @@
       <title>Småtingpose</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -749,7 +619,7 @@
       <category>diverse</category>
       <lists>
          <list>ferie</list>
-         <list>maraton</list>
+         <list>løp-bil</list>
          <list>konkurransepose</list>
       </lists>
    </item>
@@ -766,7 +636,7 @@
       <title>Sovemaske</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -774,7 +644,7 @@
       <title>Sovepute</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -782,7 +652,7 @@
       <title>Startnummer</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -806,7 +676,7 @@
       <title>Søppelsekk</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -826,29 +696,11 @@
       </lists>
    </item>
 
-   <item id="15845472713946466663">
-      <title>Tape til brystvorter</title>
-      <category>diverse</category>
-      <lists>
-         <list>maraton-usa</list>
-         <list>maraton</list>
-      </lists>
-   </item>
-
-   <item id="7948780110168354218">
-      <title>Tapetkniv</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-         <list>maraton</list>
-      </lists>
-   </item>
-
    <item id="2917222781056645262">
       <title>Temperaturmåler</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -856,7 +708,7 @@
       <title>Teppe til bilsetet</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -864,7 +716,7 @@
       <title>Tidsskjema</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -872,7 +724,7 @@
       <title>Tidtakerbrikke</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -880,7 +732,7 @@
       <title>Tigerbalsam</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -888,16 +740,7 @@
       <title>Tjukke sokker</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
-      </lists>
-   </item>
-
-   <item id="7624155294349124435">
-      <title>Toalettsaker for flyreise</title>
-      <category>diverse</category>
-      <lists>
-         <list>tjenestereise</list>
-         <list>maraton-usa</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -905,7 +748,7 @@
       <title>Tom drikkeflaske</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -913,7 +756,7 @@
       <title>USB strømmåler</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -921,7 +764,7 @@
       <title>USB-batteri</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -929,7 +772,7 @@
       <title>USB-kabler</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -937,7 +780,7 @@
       <title>USB-lader</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -945,8 +788,8 @@
       <title>Underbukse</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
-         <list>maraton</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -954,8 +797,8 @@
       <title>Undertrøye</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
-         <list>maraton</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -971,7 +814,7 @@
       <title>Varmeteppe</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -987,7 +830,7 @@
       <title>Vekkerklokke</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -995,7 +838,7 @@
       <title>Ørepropper MP3</title>
       <category>diverse</category>
       <lists>
-         <list>maraton</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -1003,7 +846,7 @@
       <title>Ørepropper musikk</title>
       <category>diverse</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -1055,12 +898,20 @@
       </lists>
    </item>
 
+   <item id="13992074637337725775">
+      <title>Bil-GPS</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>løp-fly</list>
+      </lists>
+   </item>
+
    <item id="16545909015744592591">
       <title>Bilkontakt for USB (12V - 5V)</title>
       <category>elektronikk</category>
       <lists>
          <list>ferie</list>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -1085,15 +936,7 @@
       <category>elektronikk</category>
       <lists>
          <list>ferie</list>
-         <list>maraton-usa</list>
-      </lists>
-   </item>
-
-   <item id="14540089429669235699">
-      <title>Garmin 60CS</title>
-      <category>elektronikk</category>
-      <lists>
-         <list>ferie</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -1109,8 +952,7 @@
       <title>Garmin fotsensor</title>
       <category>elektronikk</category>
       <lists>
-         <list>maraton-usa</list>
-         <list>maraton</list>
+         <list>konkurransepose</list>
       </lists>
    </item>
 
@@ -1135,6 +977,14 @@
       <category>elektronikk</category>
       <lists>
          <list>konkurransepose</list>
+      </lists>
+   </item>
+
+   <item id="17397352640810123616">
+      <title>Grenuttak</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -1170,22 +1020,6 @@
       </lists>
    </item>
 
-   <item id="14198263123136196184">
-      <title>Skjermrens</title>
-      <category>elektronikk</category>
-      <lists>
-         <list>maraton-usa</list>
-      </lists>
-   </item>
-
-   <item id="434910105272041077">
-      <title>Strømkabe</title>
-      <category>elektronikk</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
    <item id="1226611575618425806">
       <title>Termometer</title>
       <category>elektronikk</category>
@@ -1194,35 +1028,19 @@
       </lists>
    </item>
 
-   <item id="4088859137622607463">
-      <title>USB-kabel til IPad</title>
+   <item id="3056430388736491491">
+      <title>USB-kabler</title>
       <category>elektronikk</category>
       <lists>
-         <list>ferie</list>
+         <list>småtingpose</list>
       </lists>
    </item>
 
-   <item id="10261674412125834034">
-      <title>USB-kabel til skriver</title>
+   <item id="3847625540217139171">
+      <title>USB-ladere</title>
       <category>elektronikk</category>
       <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="11395850371660377890">
-      <title>USB-kabel til telefon</title>
-      <category>elektronikk</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="8958809272237199446">
-      <title>USB-lader med kabel</title>
-      <category>elektronikk</category>
-      <lists>
-         <list>ferie</list>
+         <list>småtingpose</list>
       </lists>
    </item>
 
@@ -1239,6 +1057,15 @@
       <category>elektronikk</category>
       <lists>
          <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="11840841458745146705">
+      <title>Plaster</title>
+      <category>førstehjelp</category>
+      <lists>
+         <list>konkurransepose</list>
+         <list>førstehjelpsspose</list>
       </lists>
    </item>
 
@@ -1278,7 +1105,7 @@
       <title>Lade GPS</title>
       <category>gjøremål</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -1286,7 +1113,7 @@
       <title>Lade USB-batterier</title>
       <category>gjøremål</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -1358,7 +1185,7 @@
       <title>Sjekke ESTA</title>
       <category>gjøremål</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -1422,7 +1249,7 @@
       <title>Skru av regionsperre</title>
       <category>gjøremål</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -1535,6 +1362,105 @@
       <category>gjøremål</category>
       <lists>
          <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="7554728937676412511">
+      <title>Bilteppe</title>
+      <category>klær</category>
+      <lists>
+         <list>ritt-bil</list>
+         <list>løp-bil</list>
+      </lists>
+   </item>
+
+   <item id="3783335749700022549">
+      <title>Hals</title>
+      <category>klær</category>
+      <lists>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
+      </lists>
+   </item>
+
+   <item id="14174386123400008130">
+      <title>Hansker</title>
+      <category>klær</category>
+      <lists>
+         <list>ferie</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
+      </lists>
+   </item>
+
+   <item id="5523134035649554417">
+      <title>Hjelm</title>
+      <category>klær</category>
+      <lists>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+      </lists>
+   </item>
+
+   <item id="8067433060504820902">
+      <title>Kortermet sykkeltrøye</title>
+      <category>klær</category>
+      <lists>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+      </lists>
+   </item>
+
+   <item id="8064408970749643942">
+      <title>Langermet sykkeltrøye</title>
+      <category>klær</category>
+      <lists>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+      </lists>
+   </item>
+
+   <item id="8411260873343705068">
+      <title>Mikrofiber håndkle</title>
+      <category>klær</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="6522166217853772061">
+      <title>Selebukse</title>
+      <category>klær</category>
+      <lists>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+      </lists>
+   </item>
+
+   <item id="6504498287863247138">
+      <title>Sykkeljakke</title>
+      <category>klær</category>
+      <lists>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+      </lists>
+   </item>
+
+   <item id="8600261886819502513">
+      <title>Sykkelsokker</title>
+      <category>klær</category>
+      <lists>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+      </lists>
+   </item>
+
+   <item id="11273498732988363281">
+      <title>Tridrakt</title>
+      <category>klær</category>
+      <lists>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
@@ -1682,12 +1608,36 @@
       </lists>
    </item>
 
+   <item id="8260584948200850596">
+      <title>Dosett</title>
+      <category>medisiner</category>
+      <lists>
+         <list>flyreisetoalettsaker</list>
+      </lists>
+   </item>
+
+   <item id="16319190986258124498">
+      <title>Hodepinetabletter</title>
+      <category>medisiner</category>
+      <lists>
+         <list>flyreisetoalettsaker</list>
+      </lists>
+   </item>
+
+   <item id="18280442089123983727">
+      <title>Jernpiller</title>
+      <category>medisiner</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
    <item id="4290906200480594027">
       <title>Bilfordelskort</title>
       <category>papirer</category>
       <lists>
          <list>ferie</list>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -1695,7 +1645,7 @@
       <title>Flyfordelskort</title>
       <category>papirer</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -1711,8 +1661,8 @@
       <title>Førerkort</title>
       <category>papirer</category>
       <lists>
-         <list>maraton-usa</list>
-         <list>maraton</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -1744,7 +1694,17 @@
       <title>Kredittkort</title>
       <category>papirer</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
+      </lists>
+   </item>
+
+   <item id="1415388390187386339">
+      <title>Laminert kart</title>
+      <category>papirer</category>
+      <lists>
+         <list>løp-fly</list>
+         <list>ritt-bil</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -1800,7 +1760,7 @@
       <title>Visumpapirer/ESTA</title>
       <category>papirer</category>
       <lists>
-         <list>maraton-usa</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -1848,16 +1808,7 @@
       <title>Våtdrakt</title>
       <category>svømming</category>
       <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="8183181442254268767">
-      <title>Bilteppe</title>
-      <category>sykkel</category>
-      <lists>
-         <list>ferie</list>
-         <list>maraton</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
@@ -1865,15 +1816,8 @@
       <title>Garmin Edge 500</title>
       <category>sykkel</category>
       <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="6323245584871398693">
-      <title>Hjelm</title>
-      <category>sykkel</category>
-      <lists>
-         <list>ferie</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
@@ -1881,15 +1825,8 @@
       <title>Hjulrettestativ</title>
       <category>sykkel</category>
       <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="9569610793933184076">
-      <title>Kortermet trøye</title>
-      <category>sykkel</category>
-      <lists>
-         <list>ferie</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
@@ -1897,23 +1834,8 @@
       <title>Ladekabel til Edge 500</title>
       <category>sykkel</category>
       <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="9569610753200106647">
-      <title>Langermet trøye</title>
-      <category>sykkel</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="13473039915035594939">
-      <title>Mikrofiber håndkle</title>
-      <category>sykkel</category>
-      <lists>
-         <list>ferie</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
@@ -1921,7 +1843,8 @@
       <title>Nøkler til sykkelstativ på bil</title>
       <category>sykkel</category>
       <lists>
-         <list>ferie</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
@@ -1929,23 +1852,8 @@
       <title>Pumpe</title>
       <category>sykkel</category>
       <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="6528571117246648930">
-      <title>Selebukse</title>
-      <category>sykkel</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="8307528013208453405">
-      <title>Sokker</title>
-      <category>sykkel</category>
-      <lists>
-         <list>ferie</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
@@ -1953,15 +1861,8 @@
       <title>Sykkel</title>
       <category>sykkel</category>
       <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="12527904353550363204">
-      <title>Sykkeljakke</title>
-      <category>sykkel</category>
-      <lists>
-         <list>ferie</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
@@ -1969,7 +1870,8 @@
       <title>Sykkelstativ</title>
       <category>sykkel</category>
       <lists>
-         <list>ferie</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
@@ -1977,15 +1879,17 @@
       <title>Sykkelstativ på bil</title>
       <category>sykkel</category>
       <lists>
-         <list>ferie</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
-   <item id="9598519379975539985">
-      <title>Tridrakt</title>
+   <item id="892951393584361207">
+      <title>Sykkelverktøykasse</title>
       <category>sykkel</category>
       <lists>
-         <list>ferie</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
@@ -1993,15 +1897,8 @@
       <title>Vaskeutstyr</title>
       <category>sykkel</category>
       <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="6657922188861113073">
-      <title>Verktøy</title>
-      <category>sykkel</category>
-      <lists>
-         <list>ferie</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
@@ -2057,6 +1954,7 @@
       <title>Tannkrem</title>
       <category>toalettsaker</category>
       <lists>
+         <list>flyreisetoalettsaker</list>
          <list>ferie</list>
       </lists>
    </item>
