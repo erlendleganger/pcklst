@@ -1,28 +1,17 @@
 # Pakkeliste - ferie
-
+[TOC]
 ## Diverse
 - [ ] Bilnøkler
-- [ ] Briller
-- [ ] Dosett
 - [ ] Drikkeflaske
 - [ ] Fyrstikker
 - [ ] Genser
-- [ ] Hals
-- [ ] Halslomme
-- [ ] Handleposer
-- [ ] Hansker
-- [ ] Hodepinetabletter
 - [ ] Hullemaskin
 - [ ] Jakke
-- [ ] Jernpiller
 - [ ] Joggesko
-- [ ] Kikkert
-- [ ] Klessnor
 - [ ] Kontanter
 - [ ] Ladekabel til hybrid/el-bil
 - [ ] Lastereimer
 - [ ] Lesebriller
-- [ ] Løpebelte
 - [ ] Mat for reisen
 - [ ] Mobiltelefon
 - [ ] Notatblokk
@@ -39,26 +28,17 @@
 - [ ] Solbriller
 - [ ] Strandteppe
 - [ ] Takstativ på bil
-- [ ] Tapetkniv
-
 ## Elektronikk
 - [ ] Bilkontakt for USB (12V - 5V)
 - [ ] CR2032-batterier
 - [ ] CR2430-batterier
 - [ ] ChromeCast
-- [ ] Garmin 60CS
 - [ ] Hodetelefoner
 - [ ] LR44-batterier
 - [ ] Mikrofiberklut
 - [ ] Personvekt
-- [ ] Strømkabe
-- [ ] USB-kabel til IPad
-- [ ] USB-kabel til skriver
-- [ ] USB-kabel til telefon
-- [ ] USB-lader med kabel
 - [ ] Walkie-Talkie
 - [ ] Ørepropper
-
 ## Gjøremål
 - [ ] Fylle opp dosett
 - [ ] Helle klorin i sluk
@@ -93,7 +73,9 @@
 - [ ] Tømme postkassa
 - [ ] Tømme søppel
 - [ ] Vanne blomster
-
+## Klær
+- [ ] Hansker
+- [ ] Mikrofiber håndkle
 ## Løping
 - [ ] Fleecegenser
 - [ ] Garmin 920XT
@@ -103,7 +85,6 @@
 - [ ] Løpebukse
 - [ ] Løpetrøye
 - [ ] Regnfrakk
-
 ## Mat
 - [ ] Brunost
 - [ ] Egg
@@ -115,7 +96,8 @@
 - [ ] Potetlomper
 - [ ] Rømme
 - [ ] Vaniljesaus
-
+## Medisiner
+- [ ] Jernpiller
 ## Papirer
 - [ ] Bilfordelskort
 - [ ] Fordelsprogram-kort
@@ -128,36 +110,12 @@
 - [ ] Uleste blader
 - [ ] Uleste bøker
 - [ ] Visittkort
-
 ## Svømming
 - [ ] Badebukse
 - [ ] Badehette
 - [ ] Håndklede
 - [ ] Svømmebriller
 - [ ] Vanntermometer
-- [ ] Våtdrakt
-
-## Sykkel
-- [ ] Bilteppe
-- [ ] Garmin Edge 500
-- [ ] Hjelm
-- [ ] Hjulrettestativ
-- [ ] Kortermet trøye
-- [ ] Ladekabel til Edge 500
-- [ ] Langermet trøye
-- [ ] Mikrofiber håndkle
-- [ ] Nøkler til sykkelstativ på bil
-- [ ] Pumpe
-- [ ] Selebukse
-- [ ] Sokker
-- [ ] Sykkel
-- [ ] Sykkeljakke
-- [ ] Sykkelstativ
-- [ ] Sykkelstativ på bil
-- [ ] Tridrakt
-- [ ] Vaskeutstyr
-- [ ] Verktøy
-
 ## Toalettsaker
 - [ ] Deodorant
 - [ ] Hårklipputstyr
@@ -167,7 +125,6 @@
 - [ ] Tannbørste
 - [ ] Tannkrem
 - [ ] Tanntråd
-
 ## Verktøy
 - [ ] Bits
 - [ ] Bor

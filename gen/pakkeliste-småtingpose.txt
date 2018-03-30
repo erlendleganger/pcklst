@@ -1,6 +1,7 @@
 Pakkeliste - småtingpose
 
 Diverse
+[] Briller
 [] Hyssing
 [] Klemmer
 [] Kompass
@@ -16,3 +17,5 @@ Elektronikk
 [] AAA batterier
 [] Bagasjevekt
 [] Termometer
+[] USB-kabler
+[] USB-ladere

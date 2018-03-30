@@ -1,6 +1,7 @@
 # Pakkeliste - småtingpose
-
+[TOC]
 ## Diverse
+- [ ] Briller
 - [ ] Hyssing
 - [ ] Klemmer
 - [ ] Kompass
@@ -8,7 +9,6 @@
 - [ ] Søtningsmiddel
 - [ ] Vaskepulver
 - [ ] Ørepropper støy
-
 ## Elektronikk
 - [ ] 110V overgang
 - [ ] 12V USB-uttak
@@ -16,3 +16,5 @@
 - [ ] AAA batterier
 - [ ] Bagasjevekt
 - [ ] Termometer
+- [ ] USB-kabler
+- [ ] USB-ladere

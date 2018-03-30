@@ -1,20 +1,13 @@
-# Pakkeliste - maraton-usa
-
+# Pakkeliste - løp-fly
+[TOC]
 ## Diverse
 - [ ] Bilnøkler
-- [ ] Body-Glide
-- [ ] Briller
-- [ ] Elastisk bånd til startnummer
-- [ ] GPS m/utstyr
-- [ ] Grenuttak
-- [ ] Hals
-- [ ] Hansker
-- [ ] Hodepinetabletter
+- [ ] Flyreisetoalettsaker
+- [ ] Halslomme
 - [ ] Hodetlf med støykanselleriing
 - [ ] Hotellpapirer
-- [ ] Informasjonspapir om løp
-- [ ] Kastbart overtrekkstøy til starten
-- [ ] Klyper
+- [ ] Informasjonspapir om løp-bil
+- [ ] Konkurransepose
 - [ ] Kontanter
 - [ ] Kort skjorte
 - [ ] Kortbukse
@@ -23,7 +16,6 @@
 - [ ] Lommebok
 - [ ] Lommelykt
 - [ ] Lue/pannebånd med skygge
-- [ ] Løpebelte
 - [ ] Løpejakke
 - [ ] Løpesko
 - [ ] Løpesokker
@@ -39,13 +31,13 @@
 - [ ] Regnjakke
 - [ ] Reiseforsikring
 - [ ] Reisemat
+- [ ] Skjermrens
 - [ ] Skopose
 - [ ] Skrivesaker
+- [ ] Småtingpose
 - [ ] Sovemaske
-- [ ] Tape til brystvorter
 - [ ] Temperaturmåler
 - [ ] Tigerbalsam
-- [ ] Toalettsaker for flyreise
 - [ ] Tom drikkeflaske
 - [ ] USB strømmåler
 - [ ] USB-batteri
@@ -55,22 +47,23 @@
 - [ ] Undertrøye
 - [ ] Vekkerklokke
 - [ ] Ørepropper musikk
-
 ## Elektronikk
+- [ ] Bil-GPS
 - [ ] Bilkontakt for USB (12V - 5V)
 - [ ] ChromeCast
-- [ ] Garmin fotsensor
-- [ ] Skjermrens
-
+- [ ] Grenuttak
 ## Gjøremål
 - [ ] Lade GPS
 - [ ] Lade USB-batterier
 - [ ] Sjekke ESTA
 - [ ] Skru av regionsperre
-
+## Klær
+- [ ] Hals
+- [ ] Hansker
 ## Papirer
 - [ ] Bilfordelskort
 - [ ] Flyfordelskort
 - [ ] Førerkort
 - [ ] Kredittkort
+- [ ] Laminert kart
 - [ ] Visumpapirer/ESTA

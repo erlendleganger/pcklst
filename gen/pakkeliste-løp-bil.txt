@@ -1,21 +1,13 @@
-Pakkeliste - maraton
+Pakkeliste - løp-bil
 
 Diverse
-[] Body-Glide
-[] Briller
-[] Elastisk bånd til startnummer
 [] Flaske med vann til vasking
-[] Fløyte
 [] Førstehjelpssett
-[] Hals
-[] Hansker
 [] Informasjonspapir om løpet
-[] Kastbart overtrekkstøy til starten
 [] Konkurransepose
 [] Kontanter
 [] Kort skjorte
 [] Kortbukse
-[] Laminert kart
 [] Lang kompresjonsbukse
 [] Lang skjorte
 [] Lett ryggsekk
@@ -24,7 +16,6 @@ Diverse
 [] Lommekniv
 [] Lue/pannebånd med skygge
 [] Lureteppe
-[] Løpebelte
 [] Løpesokker
 [] Mat for reisen
 [] Mat og drikke før løpet
@@ -45,8 +36,6 @@ Diverse
 [] Sovepute
 [] Startnummer
 [] Søppelsekk
-[] Tape til brystvorter
-[] Tapetkniv
 [] Teppe til bilsetet
 [] Tidsskjema
 [] Tidtakerbrikke
@@ -56,11 +45,11 @@ Diverse
 [] Varmeteppe
 [] Ørepropper MP3
 
-Elektronikk
-[] Garmin fotsensor
+Klær
+[] Bilteppe
+[] Hals
+[] Hansker
 
 Papirer
 [] Førerkort
-
-Sykkel
-[] Bilteppe
+[] Laminert kart

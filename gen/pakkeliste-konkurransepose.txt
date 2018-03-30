@@ -5,7 +5,7 @@ Diverse
 [] Brystvorte-teip
 [] Buksestrikk
 [] Futteral til pulsklokke
-[] Plaster
+[] Løpebelte
 [] Sikkerhetsnåler
 [] Smertekrem
 [] Småplastposer
@@ -16,9 +16,13 @@ Diverse
 
 Elektronikk
 [] Garmin 920XT pulsklokke
+[] Garmin fotsensor
 [] Garmin lader
 [] Garmin pulsbelte
 [] Garmin pulsbeltestrikk
+
+Førstehjelp
+[] Plaster
 
 Toalettsaker
 [] Tanntråd
