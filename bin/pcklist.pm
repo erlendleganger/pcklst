@@ -108,10 +108,10 @@ sub write_pcklist(){
 
 sub write_pcklist_md(){
    my ($lid,$ref,$fh)=@_;
-   print $fh "# Pakkeliste - $lid\n";
+   print $fh "# Pakkeliste - $lid\n[TOC]\n";
    #get all categories for this packing list
    for my $catid(sort keys %{$$ref{$lid}}){
-      print $fh "\n## \u$catid\n";
+      print $fh "## \u$catid\n";
       #get all items for this category on this list
       for my $id(sort{
          $xml_item->{item}{$a}{title} cmp
