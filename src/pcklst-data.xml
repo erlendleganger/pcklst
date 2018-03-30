@@ -1,15 +1,5 @@
 <items>
 
-   <item id="11766496276085550567">
-      <title>Bilnøkler</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-         <list>løp-fly</list>
-         <list>ritt-bil</list>
-      </lists>
-   </item>
-
    <item id="307337406697281072">
       <title>Body Glide</title>
       <category>diverse</category>
@@ -46,7 +36,9 @@
       <title>Drikkeflaske</title>
       <category>diverse</category>
       <lists>
-         <list>ferie</list>
+         <list>løp-fly</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
@@ -55,6 +47,8 @@
       <category>diverse</category>
       <lists>
          <list>løp-bil</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
@@ -90,14 +84,6 @@
       </lists>
    </item>
 
-   <item id="9402083214634011955">
-      <title>Genser</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
    <item id="7851321934428560874">
       <title>Halslomme</title>
       <category>diverse</category>
@@ -106,11 +92,23 @@
       </lists>
    </item>
 
-   <item id="12884973043340805179">
-      <title>Hodetlf med støykanselleriing</title>
+   <item id="7591508956978836826">
+      <title>Handleplastposer</title>
       <category>diverse</category>
       <lists>
          <list>løp-fly</list>
+         <list>løp-bil</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+      </lists>
+   </item>
+
+   <item id="2065647155653393315">
+      <title>Hodetlf med støykansellering</title>
+      <category>diverse</category>
+      <lists>
+         <list>løp-fly</list>
+         <list>ferie</list>
       </lists>
    </item>
 
@@ -135,38 +133,6 @@
       <category>diverse</category>
       <lists>
          <list>småtingpose</list>
-      </lists>
-   </item>
-
-   <item id="8378619639039251013">
-      <title>Informasjonspapir om løp-bil</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-      </lists>
-   </item>
-
-   <item id="9865976160922713685">
-      <title>Informasjonspapir om løpet</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="8862620047638344594">
-      <title>Jakke</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="12401228694148002310">
-      <title>Joggesko</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
       </lists>
    </item>
 
@@ -195,77 +161,8 @@
       </lists>
    </item>
 
-   <item id="5055264752799633026">
-      <title>Kontanter</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-         <list>løp-fly</list>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="10795151773944906657">
-      <title>Kort skjorte</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="6424765327099092674">
-      <title>Kortbukse</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="5346375742835021352">
-      <title>Ladekabel til hybrid/el-bil</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="9753758323337951387">
-      <title>Lang kompresjonsbukse</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="16766877729712369739">
-      <title>Lang løpebukse</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-      </lists>
-   </item>
-
-   <item id="9391259658551428001">
-      <title>Lang skjorte</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
    <item id="16493013511591590636">
       <title>Lastereimer</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="1290248105113059046">
-      <title>Lesebriller</title>
       <category>diverse</category>
       <lists>
          <list>ferie</list>
@@ -280,53 +177,12 @@
       </lists>
    </item>
 
-   <item id="4915438814872317028">
-      <title>Liten mobiltelefon</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="4962080011692298755">
-      <title>Lommebok</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
    <item id="5059720949121416274">
       <title>Lommekniv</title>
       <category>diverse</category>
       <lists>
          <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="4995831678774279250">
-      <title>Lommelykt</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-      </lists>
-   </item>
-
-   <item id="15403390582748990600">
-      <title>Lue/pannebånd med skygge</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="15992456332225965783">
-      <title>Lureteppe</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-bil</list>
+         <list>ritt-bil</list>
       </lists>
    </item>
 
@@ -335,179 +191,6 @@
       <category>diverse</category>
       <lists>
          <list>konkurransepose</list>
-      </lists>
-   </item>
-
-   <item id="4964332501509500261">
-      <title>Løpejakke</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-      </lists>
-   </item>
-
-   <item id="8995188560921695005">
-      <title>Løpesko</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-      </lists>
-   </item>
-
-   <item id="2257680938501953133">
-      <title>Løpesokker</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="7383886207734239901">
-      <title>Mat for reisen</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-bil</list>
-         <list>løp-fly</list>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="1898864425704998940">
-      <title>Mat og drikke før løpet</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="5801098295354317856">
-      <title>Mat og drikke til etter løpet</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="3517234091562168681">
-      <title>Mikrofiberhåndklede</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="17053170941493913558">
-      <title>Mobiltelefon</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-         <list>løp-fly</list>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="893199394946433195">
-      <title>Notatblokk</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-         <list>løp-fly</list>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="8796531617479917693">
-      <title>Notebok</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="16423666120305086673">
-      <title>Olabukse</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="11674910628982567923">
-      <title>Oppgradere GPS</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-      </lists>
-   </item>
-
-   <item id="4563093323534644470">
-      <title>PC</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-         <list>løp-fly</list>
-      </lists>
-   </item>
-
-   <item id="4603308685691744083">
-      <title>PC-lader</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-         <list>løp-fly</list>
-      </lists>
-   </item>
-
-   <item id="9498649686862683443">
-      <title>PC-mus</title>
-      <category>diverse</category>
-      <lists>
-         <list>småtingpose</list>
-      </lists>
-   </item>
-
-   <item id="7997181447574018554">
-      <title>Pakketeip</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="7552389461149192765">
-      <title>Pass</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-         <list>løp-fly</list>
-      </lists>
-   </item>
-
-   <item id="6452425012350572759">
-      <title>Plastposer</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="15910246108234600380">
-      <title>Rapport fra tidligere år</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="14124091193627845308">
-      <title>Regnjakke</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -527,14 +210,6 @@
       </lists>
    </item>
 
-   <item id="10820305142406732337">
-      <title>Samekniv</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
    <item id="7478400715416198246">
       <title>Sekk med drikkepose</title>
       <category>diverse</category>
@@ -547,7 +222,6 @@
       <title>Sikkerhetsnåler</title>
       <category>diverse</category>
       <lists>
-         <list>løp-bil</list>
          <list>konkurransepose</list>
       </lists>
    </item>
@@ -557,35 +231,6 @@
       <category>diverse</category>
       <lists>
          <list>løp-fly</list>
-      </lists>
-   </item>
-
-   <item id="14930789069025852724">
-      <title>Sko</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="8224632891992494477">
-      <title>Skopose</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
-         <list>løp-fly</list>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="8984482696719594285">
-      <title>Skrivesaker</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-         <list>løp-bil</list>
-         <list>ferie</list>
       </lists>
    </item>
 
@@ -618,8 +263,6 @@
       <title>Solbriller</title>
       <category>diverse</category>
       <lists>
-         <list>ferie</list>
-         <list>løp-bil</list>
          <list>konkurransepose</list>
       </lists>
    </item>
@@ -636,31 +279,7 @@
       <title>Sovemaske</title>
       <category>diverse</category>
       <lists>
-         <list>løp-fly</list>
-      </lists>
-   </item>
-
-   <item id="10369703577825837585">
-      <title>Sovepute</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="2029133051374739545">
-      <title>Startnummer</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="13527560111849788832">
-      <title>Strandteppe</title>
-      <category>diverse</category>
-      <lists>
-         <list>ferie</list>
+         <list>småtingpose</list>
       </lists>
    </item>
 
@@ -669,14 +288,6 @@
       <category>diverse</category>
       <lists>
          <list>konkurransepose</list>
-      </lists>
-   </item>
-
-   <item id="609234911443479069">
-      <title>Søppelsekk</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -704,101 +315,11 @@
       </lists>
    </item>
 
-   <item id="2998342843744156312">
-      <title>Teppe til bilsetet</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="360873991186172112">
-      <title>Tidsskjema</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="8589060420878965730">
-      <title>Tidtakerbrikke</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
    <item id="1313381176852440550">
       <title>Tigerbalsam</title>
       <category>diverse</category>
       <lists>
          <list>løp-fly</list>
-      </lists>
-   </item>
-
-   <item id="2016037364390574413">
-      <title>Tjukke sokker</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="11801254725039737177">
-      <title>Tom drikkeflaske</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-      </lists>
-   </item>
-
-   <item id="7755134900274042909">
-      <title>USB strømmåler</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-      </lists>
-   </item>
-
-   <item id="16151751918602661511">
-      <title>USB-batteri</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-      </lists>
-   </item>
-
-   <item id="14307053959454570435">
-      <title>USB-kabler</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-      </lists>
-   </item>
-
-   <item id="3729529747561497572">
-      <title>USB-lader</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-      </lists>
-   </item>
-
-   <item id="363518100091823728">
-      <title>Underbukse</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="361792227586205296">
-      <title>Undertrøye</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -810,43 +331,11 @@
       </lists>
    </item>
 
-   <item id="16715517395302284270">
-      <title>Varmeteppe</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
    <item id="2874137426012478206">
       <title>Vaskepulver</title>
       <category>diverse</category>
       <lists>
          <list>småtingpose</list>
-      </lists>
-   </item>
-
-   <item id="14735399611095712378">
-      <title>Vekkerklokke</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-      </lists>
-   </item>
-
-   <item id="4734269638954005662">
-      <title>Ørepropper MP3</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="16599719834372482884">
-      <title>Ørepropper musikk</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -906,15 +395,6 @@
       </lists>
    </item>
 
-   <item id="16545909015744592591">
-      <title>Bilkontakt for USB (12V - 5V)</title>
-      <category>elektronikk</category>
-      <lists>
-         <list>ferie</list>
-         <list>løp-fly</list>
-      </lists>
-   </item>
-
    <item id="10178987451425722010">
       <title>CR2032-batterier</title>
       <category>elektronikk</category>
@@ -935,8 +415,7 @@
       <title>ChromeCast</title>
       <category>elektronikk</category>
       <lists>
-         <list>ferie</list>
-         <list>løp-fly</list>
+         <list>småtingpose</list>
       </lists>
    </item>
 
@@ -988,14 +467,6 @@
       </lists>
    </item>
 
-   <item id="10724607582232250007">
-      <title>Hodetelefoner</title>
-      <category>elektronikk</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
    <item id="1904731502285554876">
       <title>LR44-batterier</title>
       <category>elektronikk</category>
@@ -1004,11 +475,69 @@
       </lists>
    </item>
 
+   <item id="17113968306283763587">
+      <title>Ladekabel til Edge 500</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>småtingpose</list>
+      </lists>
+   </item>
+
+   <item id="8629032915636486064">
+      <title>Ladekabel til Garmin 920XT</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>småtingpose</list>
+      </lists>
+   </item>
+
+   <item id="2740621536667165665">
+      <title>Ladekabel til hybrid/el-bil</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="8292880547537214705">
+      <title>Lommelykt</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>småtingpose</list>
+      </lists>
+   </item>
+
    <item id="14020388184717192977">
       <title>Mikrofiberklut</title>
       <category>elektronikk</category>
       <lists>
          <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="6661720786896909266">
+      <title>PC</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+         <list>løp-fly</list>
+      </lists>
+   </item>
+
+   <item id="9014700288187092083">
+      <title>PC-lader</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+         <list>løp-fly</list>
+      </lists>
+   </item>
+
+   <item id="12190034388334096322">
+      <title>PC-mus</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>småtingpose</list>
       </lists>
    </item>
 
@@ -1022,6 +551,22 @@
 
    <item id="1226611575618425806">
       <title>Termometer</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>småtingpose</list>
+      </lists>
+   </item>
+
+   <item id="12026941611519236837">
+      <title>USB strømmåler</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>småtingpose</list>
+      </lists>
+   </item>
+
+   <item id="15477300208740685007">
+      <title>USB-batteri</title>
       <category>elektronikk</category>
       <lists>
          <list>småtingpose</list>
@@ -1044,6 +589,14 @@
       </lists>
    </item>
 
+   <item id="12522341475044989056">
+      <title>Vekkerklokke</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>småtingpose</list>
+      </lists>
+   </item>
+
    <item id="10514373034359773991">
       <title>Walkie-Talkie</title>
       <category>elektronikk</category>
@@ -1052,11 +605,11 @@
       </lists>
    </item>
 
-   <item id="1739364065201861153">
-      <title>Ørepropper</title>
+   <item id="7030674756848751016">
+      <title>Ørepropper musikk</title>
       <category>elektronikk</category>
       <lists>
-         <list>ferie</list>
+         <list>småtingpose</list>
       </lists>
    </item>
 
@@ -1157,6 +710,14 @@
       </lists>
    </item>
 
+   <item id="11494956790691938381">
+      <title>Oppdatere bil-GPS</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>løp-fly</list>
+      </lists>
+   </item>
+
    <item id="11859461648232264576">
       <title>Senke markise</title>
       <category>gjøremål</category>
@@ -1178,14 +739,6 @@
       <category>gjøremål</category>
       <lists>
          <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="17854422591651693019">
-      <title>Sjekke ESTA</title>
-      <category>gjøremål</category>
-      <lists>
-         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -1218,6 +771,14 @@
       <category>gjøremål</category>
       <lists>
          <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="12229690675512245301">
+      <title>Sjekke visum/ESTA</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -1383,22 +944,30 @@
       </lists>
    </item>
 
-   <item id="14174386123400008130">
-      <title>Hansker</title>
-      <category>klær</category>
-      <lists>
-         <list>ferie</list>
-         <list>løp-fly</list>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
    <item id="5523134035649554417">
       <title>Hjelm</title>
       <category>klær</category>
       <lists>
          <list>ritt-bil</list>
          <list>triatlon</list>
+      </lists>
+   </item>
+
+   <item id="3597476117848759114">
+      <title>Kort skjorte</title>
+      <category>klær</category>
+      <lists>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
+      </lists>
+   </item>
+
+   <item id="14338163371153588787">
+      <title>Kortbukse</title>
+      <category>klær</category>
+      <lists>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -1411,6 +980,33 @@
       </lists>
    </item>
 
+   <item id="10174662242078636389">
+      <title>Lang kompresjonsbukse</title>
+      <category>klær</category>
+      <lists>
+         <list>løp-bil</list>
+         <list>løp-fly</list>
+      </lists>
+   </item>
+
+   <item id="2783820818680259186">
+      <title>Lang løpebukse</title>
+      <category>klær</category>
+      <lists>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
+      </lists>
+   </item>
+
+   <item id="7500069677128367478">
+      <title>Lang løpeskjorte</title>
+      <category>klær</category>
+      <lists>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
+      </lists>
+   </item>
+
    <item id="8064408970749643942">
       <title>Langermet sykkeltrøye</title>
       <category>klær</category>
@@ -1420,16 +1016,97 @@
       </lists>
    </item>
 
-   <item id="8411260873343705068">
-      <title>Mikrofiber håndkle</title>
+   <item id="17577258205812043319">
+      <title>Lue/pannebånd med skygge</title>
       <category>klær</category>
       <lists>
-         <list>ferie</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
+         <list>ritt-bil</list>
+      </lists>
+   </item>
+
+   <item id="4765555891591852582">
+      <title>Lureteppe</title>
+      <category>klær</category>
+      <lists>
+         <list>løp-bil</list>
+         <list>ritt-bil</list>
+      </lists>
+   </item>
+
+   <item id="7946710395840056282">
+      <title>Løpehansker</title>
+      <category>klær</category>
+      <lists>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
+      </lists>
+   </item>
+
+   <item id="15796062896048976276">
+      <title>Løpejakke</title>
+      <category>klær</category>
+      <lists>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
+         <list>triatlon</list>
+      </lists>
+   </item>
+
+   <item id="15370151703543604994">
+      <title>Løpesko</title>
+      <category>klær</category>
+      <lists>
+         <list>løp-bil</list>
+         <list>løp-fly</list>
+         <list>triatlon</list>
+      </lists>
+   </item>
+
+   <item id="9762456968181549617">
+      <title>Løpesokker</title>
+      <category>klær</category>
+      <lists>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
+         <list>ritt-bil</list>
+      </lists>
+   </item>
+
+   <item id="15490459169749564855">
+      <title>Mikrofiberhåndkle</title>
+      <category>klær</category>
+      <lists>
+         <list>løp-bil</list>
+         <list>løp-fly</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
    <item id="6522166217853772061">
       <title>Selebukse</title>
+      <category>klær</category>
+      <lists>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+      </lists>
+   </item>
+
+   <item id="15833301512526046610">
+      <title>Skopose</title>
+      <category>klær</category>
+      <lists>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+      </lists>
+   </item>
+
+   <item id="13166346568444084569">
+      <title>Sykkelhansker</title>
       <category>klær</category>
       <lists>
          <list>ritt-bil</list>
@@ -1455,6 +1132,17 @@
       </lists>
    </item>
 
+   <item id="10812680450900230357">
+      <title>Tjukke sokker</title>
+      <category>klær</category>
+      <lists>
+         <list>løp-bil</list>
+         <list>ritt-bil</list>
+         <list>løp-fly</list>
+         <list>triatlon</list>
+      </lists>
+   </item>
+
    <item id="11273498732988363281">
       <title>Tridrakt</title>
       <category>klær</category>
@@ -1464,67 +1152,21 @@
       </lists>
    </item>
 
-   <item id="15479839802439854536">
-      <title>Fleecegenser</title>
-      <category>løping</category>
+   <item id="11323364413107223084">
+      <title>Underbukse</title>
+      <category>klær</category>
       <lists>
-         <list>ferie</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
-   <item id="7885358318104442518">
-      <title>Garmin 920XT</title>
-      <category>løping</category>
+   <item id="11325016103139031596">
+      <title>Undertrøye</title>
+      <category>klær</category>
       <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="12922046917137234837">
-      <title>Garmin pulsbelte x2</title>
-      <category>løping</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="13811134732013192746">
-      <title>Ladekabel til 920XT</title>
-      <category>løping</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="16862942027977845311">
-      <title>Lue og/eller skygge</title>
-      <category>løping</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="15794346212662468424">
-      <title>Løpebukse</title>
-      <category>løping</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="15798323919291178824">
-      <title>Løpetrøye</title>
-      <category>løping</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="6043906389595066513">
-      <title>Regnfrakk</title>
-      <category>løping</category>
-      <lists>
-         <list>ferie</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -1573,6 +1215,35 @@
       <category>mat</category>
       <lists>
          <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="15113892670957160350">
+      <title>Mat for reisen</title>
+      <category>mat</category>
+      <lists>
+         <list>løp-bil</list>
+         <list>løp-fly</list>
+         <list>ferie</list>
+         <list>ritt-bil</list>
+      </lists>
+   </item>
+
+   <item id="6369426786079962916">
+      <title>Mat og drikke før løpet</title>
+      <category>mat</category>
+      <lists>
+         <list>løp-bil</list>
+         <list>ritt-bil</list>
+      </lists>
+   </item>
+
+   <item id="13706709157913501214">
+      <title>Mat og drikke til etter løpet</title>
+      <category>mat</category>
+      <lists>
+         <list>løp-bil</list>
+         <list>ritt-bil</list>
       </lists>
    </item>
 
@@ -1628,7 +1299,7 @@
       <title>Jernpiller</title>
       <category>medisiner</category>
       <lists>
-         <list>ferie</list>
+         <list>flyreisetoalettsaker</list>
       </lists>
    </item>
 
@@ -1666,6 +1337,16 @@
       </lists>
    </item>
 
+   <item id="1405873697260042481">
+      <title>Informasjonspapir om løpet</title>
+      <category>papirer</category>
+      <lists>
+         <list>løp-bil</list>
+         <list>løp-fly</list>
+         <list>ritt-bil</list>
+      </lists>
+   </item>
+
    <item id="412421635448665111">
       <title>Karlsborgperm</title>
       <category>papirer</category>
@@ -1690,6 +1371,17 @@
       </lists>
    </item>
 
+   <item id="3239618979539933883">
+      <title>Kontanter</title>
+      <category>papirer</category>
+      <lists>
+         <list>ferie</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
+         <list>ritt-bil</list>
+      </lists>
+   </item>
+
    <item id="3991636284335054476">
       <title>Kredittkort</title>
       <category>papirer</category>
@@ -1708,11 +1400,72 @@
       </lists>
    </item>
 
+   <item id="6216119180184808263">
+      <title>Lommebok</title>
+      <category>papirer</category>
+      <lists>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
+         <list>ritt-bil</list>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="14861009900441102809">
+      <title>Mobiltelefon</title>
+      <category>papirer</category>
+      <lists>
+         <list>ferie</list>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
+         <list>ritt-bil</list>
+      </lists>
+   </item>
+
+   <item id="3260494558901795647">
+      <title>Notatblokk</title>
+      <category>papirer</category>
+      <lists>
+         <list>løp-bil</list>
+         <list>løp-fly</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+      </lists>
+   </item>
+
+   <item id="8276914480648766562">
+      <title>Notebok</title>
+      <category>papirer</category>
+      <lists>
+         <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="241861184485929526">
+      <title>Pass</title>
+      <category>papirer</category>
+      <lists>
+         <list>ferie</list>
+         <list>løp-fly</list>
+      </lists>
+   </item>
+
    <item id="9174679866819691069">
       <title>Pennal</title>
       <category>papirer</category>
       <lists>
          <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="13504759199593774197">
+      <title>Rapport fra tidligere år</title>
+      <category>papirer</category>
+      <lists>
+         <list>løp-bil</list>
+         <list>løp-fly</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
@@ -1724,11 +1477,36 @@
       </lists>
    </item>
 
-   <item id="3284624230109281339">
-      <title>Sovemaske</title>
+   <item id="13352629443082026006">
+      <title>Skrivesaker</title>
       <category>papirer</category>
       <lists>
-         <list>ferie</list>
+         <list>løp-bil</list>
+         <list>løp-fly</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+      </lists>
+   </item>
+
+   <item id="2619061313621160772">
+      <title>Tidsskjema</title>
+      <category>papirer</category>
+      <lists>
+         <list>løp-bil</list>
+         <list>løp-fly</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+      </lists>
+   </item>
+
+   <item id="14635513961248803194">
+      <title>Tidtakerbrikke</title>
+      <category>papirer</category>
+      <lists>
+         <list>løp-bil</list>
+         <list>løp-fly</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
@@ -1768,7 +1546,7 @@
       <title>Badebukse</title>
       <category>svømming</category>
       <lists>
-         <list>ferie</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
@@ -1776,15 +1554,15 @@
       <title>Badehette</title>
       <category>svømming</category>
       <lists>
-         <list>ferie</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
-   <item id="3130918759219515095">
-      <title>Håndklede</title>
+   <item id="3604550834191815073">
+      <title>Håndkle</title>
       <category>svømming</category>
       <lists>
-         <list>ferie</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
@@ -1792,7 +1570,7 @@
       <title>Svømmebriller</title>
       <category>svømming</category>
       <lists>
-         <list>ferie</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
@@ -1800,7 +1578,7 @@
       <title>Vanntermometer</title>
       <category>svømming</category>
       <lists>
-         <list>ferie</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
@@ -1823,15 +1601,6 @@
 
    <item id="8586777464712922153">
       <title>Hjulrettestativ</title>
-      <category>sykkel</category>
-      <lists>
-         <list>ritt-bil</list>
-         <list>triatlon</list>
-      </lists>
-   </item>
-
-   <item id="6619632592111907694">
-      <title>Ladekabel til Edge 500</title>
       <category>sykkel</category>
       <lists>
          <list>ritt-bil</list>
@@ -1884,6 +1653,15 @@
       </lists>
    </item>
 
+   <item id="6095736302098718172">
+      <title>Sykkelvaskeutstyr</title>
+      <category>sykkel</category>
+      <lists>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+      </lists>
+   </item>
+
    <item id="892951393584361207">
       <title>Sykkelverktøykasse</title>
       <category>sykkel</category>
@@ -1893,28 +1671,11 @@
       </lists>
    </item>
 
-   <item id="12444009249569724996">
-      <title>Vaskeutstyr</title>
-      <category>sykkel</category>
-      <lists>
-         <list>ritt-bil</list>
-         <list>triatlon</list>
-      </lists>
-   </item>
-
-   <item id="17377636536647894017">
-      <title>Deodorant</title>
+   <item id="5392035878468397512">
+      <title>Hårspray</title>
       <category>toalettsaker</category>
       <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="15481731271688697598">
-      <title>Hårklipputstyr</title>
-      <category>toalettsaker</category>
-      <lists>
-         <list>ferie</list>
+         <list>flyreisetoalettsaker</list>
       </lists>
    </item>
 
@@ -1922,23 +1683,7 @@
       <title>Kam</title>
       <category>toalettsaker</category>
       <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="11436995169526861221">
-      <title>Neglfil</title>
-      <category>toalettsaker</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="18074140855656981618">
-      <title>Neglklipper</title>
-      <category>toalettsaker</category>
-      <lists>
-         <list>ferie</list>
+         <list>flyreisetoalettsaker</list>
       </lists>
    </item>
 
@@ -1946,7 +1691,7 @@
       <title>Tannbørste</title>
       <category>toalettsaker</category>
       <lists>
-         <list>ferie</list>
+         <list>flyreisetoalettsaker</list>
       </lists>
    </item>
 
@@ -1955,7 +1700,6 @@
       <category>toalettsaker</category>
       <lists>
          <list>flyreisetoalettsaker</list>
-         <list>ferie</list>
       </lists>
    </item>
 
@@ -1963,93 +1707,37 @@
       <title>Tanntråd</title>
       <category>toalettsaker</category>
       <lists>
-         <list>ferie</list>
+         <list>flyreisetoalettsaker</list>
          <list>konkurransepose</list>
       </lists>
    </item>
 
-   <item id="6615873001099675541">
-      <title>Bits</title>
+   <item id="8505442235838069253">
+      <title>El-drill</title>
       <category>verktøy</category>
       <lists>
          <list>ferie</list>
       </lists>
    </item>
 
-   <item id="7343349186395870482">
-      <title>Bor</title>
+   <item id="3305320742993096862">
+      <title>El-skrutrekker</title>
       <category>verktøy</category>
       <lists>
          <list>ferie</list>
       </lists>
    </item>
 
-   <item id="18229020307493549544">
-      <title>Bormaskin</title>
+   <item id="2180845448327754040">
+      <title>Lader til el-drill</title>
       <category>verktøy</category>
       <lists>
          <list>ferie</list>
       </lists>
    </item>
 
-   <item id="7344849086629890793">
-      <title>Brekkjern</title>
-      <category>verktøy</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="10770729770737837255">
-      <title>Drill</title>
-      <category>verktøy</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="17503601585622601124">
-      <title>Hammer</title>
-      <category>verktøy</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="13131133002316660685">
-      <title>Håndsag</title>
-      <category>verktøy</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="17142482950772297124">
-      <title>Ladere</title>
-      <category>verktøy</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="9096536254939387613">
-      <title>Multitang</title>
-      <category>verktøy</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="11784466659004522040">
-      <title>Målebånd</title>
-      <category>verktøy</category>
-      <lists>
-         <list>ferie</list>
-      </lists>
-   </item>
-
-   <item id="14443998476314727443">
-      <title>Verktøykassa</title>
+   <item id="18419435450489039060">
+      <title>Lader til el-skrutrekker</title>
       <category>verktøy</category>
       <lists>
          <list>ferie</list>

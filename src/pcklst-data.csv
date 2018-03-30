@@ -1,8 +1,6 @@
-diverse;Bilnøkler;ferie;løp-fly;ritt-bil
 diverse;Vaskepulver;småtingpose
 diverse;Briller;småtingpose
-diverse;Drikkeflaske;ferie;
-diverse;Flaske med vann til vasking;løp-bil;
+diverse;Flaske med vann til vasking;løp-bil;ritt-bil;triatlon
 diverse;Fyrstikker;ferie;
 elektronikk;Bil-GPS;løp-fly;
 elektronikk;Garmin 920XT pulsklokke;konkurransepose
@@ -10,101 +8,79 @@ elektronikk;Garmin fotsensor;konkurransepose
 elektronikk;Garmin lader;konkurransepose
 elektronikk;Garmin pulsbelte;konkurransepose
 elektronikk;Garmin pulsbeltestrikk;konkurransepose
-diverse;Genser;ferie;
 elektronikk;Grenuttak;løp-fly;
 klær;Hals;løp-fly;løp-bil;
 diverse;Halslomme;løp-fly
-klær;Hansker;ferie;løp-fly;løp-bil;
+klær;Løpehansker;løp-fly;løp-bil;
+klær;Sykkelhansker;ritt-bil;triatlon
 medisiner;Hodepinetabletter;flyreisetoalettsaker
-diverse;Hodetlf med støykanselleriing;løp-fly;
+diverse;Hodetlf med støykansellering;løp-fly;ferie
 diverse;Hotellpapirer;løp-fly;
 diverse;Hullemaskin;ferie;
-diverse;Informasjonspapir om løp-bil;løp-fly;
-diverse;Informasjonspapir om løpet;løp-bil;
-diverse;Jakke;ferie;
-medisiner;Jernpiller;ferie;
-diverse;Joggesko;ferie;
-diverse;Kontanter;ferie;løp-fly;løp-bil;
-diverse;Kort skjorte;løp-fly;løp-bil;
-diverse;Kortbukse;løp-fly;løp-bil;
-diverse;Ladekabel til hybrid/el-bil;ferie;
+papirer;Informasjonspapir om løpet;løp-bil;løp-fly;ritt-bil
+medisiner;Jernpiller;flyreisetoalettsaker
+papirer;Kontanter;ferie;løp-fly;løp-bil;ritt-bil
+klær;Kort skjorte;løp-fly;løp-bil;
+klær;Kortbukse;løp-fly;løp-bil;
+elektronikk;Ladekabel til hybrid/el-bil;ferie;
 papirer;Laminert kart;løp-fly;ritt-bil;løp-bil;
-diverse;Lang kompresjonsbukse;løp-bil;
-diverse;Lang løpebukse;løp-fly;
-diverse;Lang skjorte;løp-fly;løp-bil;
+klær;Lang kompresjonsbukse;løp-bil;løp-fly;
+klær;Lang løpebukse;løp-fly;løp-bil;
+klær;Lang løpeskjorte;løp-fly;løp-bil;
 diverse;Lastereimer;ferie;
-diverse;Lesebriller;ferie;
 diverse;Lett ryggsekk;løp-bil;
-diverse;Liten mobiltelefon;løp-bil;
-diverse;Lommebok;løp-fly;løp-bil;
-diverse;Lommekniv;løp-bil;
-diverse;Lommelykt;løp-fly;
-diverse;Lue/pannebånd med skygge;løp-fly;løp-bil;
-diverse;Lureteppe;løp-bil;
+papirer;Lommebok;løp-fly;løp-bil;ritt-bil;ferie
+diverse;Lommekniv;løp-bil;ritt-bil
+elektronikk;Lommelykt;småtingpose
+klær;Lue/pannebånd med skygge;løp-fly;løp-bil;ritt-bil
+klær;Lureteppe;løp-bil;ritt-bil
 diverse;Løpebelte;konkurransepose
-diverse;Løpejakke;løp-fly;
-diverse;Løpesko;løp-fly;
-diverse;Løpesokker;løp-fly;løp-bil;
-diverse;Mat for reisen;løp-bil;løp-fly;ferie;
-diverse;Mat og drikke før løpet;løp-bil;
-diverse;Mat og drikke til etter løpet;løp-bil;
-diverse;Mikrofiberhåndklede;løp-fly;løp-bil;
-diverse;Mobiltelefon;ferie;løp-fly;løp-bil;
-diverse;Notatblokk;ferie;løp-fly;løp-bil;
-diverse;Notebok;ferie;
-diverse;Olabukse;ferie;
-diverse;Oppgradere GPS;løp-fly;
-diverse;PC;ferie;løp-fly;
-diverse;PC-lader;ferie;løp-fly;
-diverse;PC-mus;småtingpose;
-diverse;Pakketeip;ferie;
-diverse;Pass;ferie;løp-fly;
-diverse;Plastposer;løp-fly;løp-bil;
-diverse;Rapport fra tidligere år;løp-bil;
-diverse;Regnjakke;løp-fly;løp-bil;
+klær;Løpejakke;løp-fly;løp-bil;triatlon
+klær;Løpesokker;løp-fly;løp-bil;ritt-bil
+mat;Mat for reisen;løp-bil;løp-fly;ferie;ritt-bil
+mat;Mat og drikke før løpet;løp-bil;ritt-bil
+mat;Mat og drikke til etter løpet;løp-bil;ritt-bil
+papirer;Mobiltelefon;ferie;løp-fly;løp-bil;ritt-bil
+papirer;Notatblokk;løp-bil;løp-fly;ritt-bil;triatlon
+papirer;Notebok;ferie;
+gjøremål;Oppdatere bil-GPS;løp-fly;
+elektronikk;PC;ferie;løp-fly;
+elektronikk;PC-lader;ferie;løp-fly;
+elektronikk;PC-mus;småtingpose;
+papirer;Pass;ferie;løp-fly;
+diverse;Handleplastposer;løp-fly;løp-bil;ritt-bil;triatlon
+papirer;Rapport fra tidligere år;løp-bil;løp-fly;ritt-bil;triatlon
 diverse;Reiseforsikring;løp-fly;
 diverse;Reisemat;løp-fly;
-diverse;Samekniv;ferie;
 diverse;Sekk med drikkepose;løp-bil;
-diverse;Sikkerhetsnåler;løp-bil;konkurransepose
-diverse;Sko;ferie;løp-bil;
-diverse;Skopose;ferie;løp-fly;løp-bil;
-diverse;Skrivesaker;løp-fly;løp-bil;ferie;
+diverse;Sikkerhetsnåler;konkurransepose
+klær;Løpesko;løp-bil;løp-fly;triatlon
+klær;Skopose;løp-fly;løp-bil;ritt-bil;triatlon
+papirer;Skrivesaker;løp-bil;løp-fly;ritt-bil;triatlon
 diverse;Småplastposer;konkurransepose
-diverse;Solbriller;ferie;løp-bil;konkurransepose
-diverse;Sovemaske;løp-fly;
-diverse;Sovepute;løp-bil;
-diverse;Startnummer;løp-bil;
-diverse;Strandteppe;ferie;
-diverse;Søppelsekk;løp-bil;
+diverse;Solbriller;konkurransepose
+diverse;Sovemaske;småtingpose
 diverse;Takstativ på bil;ferie;
 diverse;Temperaturmåler;løp-fly;
-diverse;Teppe til bilsetet;løp-bil;
-diverse;Tidsskjema;løp-bil;
-diverse;Tidtakerbrikke;løp-bil;
+papirer;Tidsskjema;løp-bil;løp-fly;ritt-bil;triatlon
+papirer;Tidtakerbrikke;løp-bil;løp-fly;ritt-bil;triatlon
 diverse;Tigerbalsam;løp-fly;
-diverse;Tjukke sokker;løp-bil;
-diverse;Tom drikkeflaske;løp-fly;
-diverse;USB strømmåler;løp-fly;
-diverse;USB-batteri;løp-fly;
-diverse;USB-kabler;løp-fly;
-diverse;USB-lader;løp-fly;
-diverse;Underbukse;løp-fly;løp-bil;
-diverse;Undertrøye;løp-fly;løp-bil;
-diverse;Varmeteppe;løp-bil;
-diverse;Vekkerklokke;løp-fly;
-diverse;Ørepropper MP3;løp-bil;
-diverse;Ørepropper musikk;løp-fly;
+klær;Tjukke sokker;løp-bil;ritt-bil;løp-fly;triatlon
+diverse;Drikkeflaske;løp-fly;ritt-bil;triatlon
+elektronikk;USB strømmåler;småtingpose
+elektronikk;USB-batteri;småtingpose
+klær;Underbukse;løp-fly;løp-bil;
+klær;Undertrøye;løp-fly;løp-bil;
+elektronikk;Vekkerklokke;småtingpose
+elektronikk;Ørepropper musikk;småtingpose
 elektronikk;110V overgang;småtingpose
 elektronikk;12V USB-uttak;småtingpose
 elektronikk;AA batterier;småtingpose
 elektronikk;AAA batterier;småtingpose
 elektronikk;Bagasjevekt;småtingpose
-elektronikk;Bilkontakt for USB (12V - 5V);ferie;løp-fly;
 elektronikk;CR2032-batterier;ferie;
 elektronikk;CR2430-batterier;ferie;
-elektronikk;ChromeCast;ferie;løp-fly;
-elektronikk;Hodetelefoner;ferie;
+elektronikk;ChromeCast;småtingpose;
 elektronikk;LR44-batterier;ferie;
 elektronikk;Mikrofiberklut;ferie;
 elektronikk;Personvekt;ferie;
@@ -112,7 +88,6 @@ diverse;Skjermrens;løp-fly;
 elektronikk;USB-kabler;småtingpose
 elektronikk;USB-ladere;småtingpose;
 elektronikk;Walkie-Talkie;ferie;
-elektronikk;Ørepropper;ferie;
 gjøremål;Fylle opp dosett;ferie
 gjøremål;Helle klorin i sluk;ferie;
 gjøremål;Klippe negler;ferie;
@@ -127,7 +102,7 @@ gjøremål;Låse hoveddøra;ferie;
 gjøremål;Senke markise;ferie;
 gjøremål;Sette blomster på kjøkkenet;ferie;
 gjøremål;Sette ut plastavfall;ferie;
-gjøremål;Sjekke ESTA;løp-fly;
+gjøremål;Sjekke visum/ESTA;løp-fly;
 gjøremål;Sjekke alle utganger;ferie;
 gjøremål;Sjekke etter gjenglemt bagasje;ferie;
 gjøremål;Sjekke gressklipper;ferie;
@@ -150,14 +125,7 @@ gjøremål;Tømme oppvaskmaskin;ferie;
 gjøremål;Tømme postkassa;ferie;
 gjøremål;Tømme søppel;ferie;
 gjøremål;Vanne blomster;ferie;
-løping;Fleecegenser;ferie;
-løping;Garmin 920XT;ferie;
-løping;Garmin pulsbelte x2;ferie;
-løping;Ladekabel til 920XT;ferie;
-løping;Lue og/eller skygge;ferie;
-løping;Løpebukse;ferie;
-løping;Løpetrøye;ferie;
-løping;Regnfrakk;ferie;
+elektronikk;Ladekabel til Garmin 920XT;småtingpose
 mat;Brunost;ferie;
 mat;Egg;ferie;
 mat;Formfett;ferie;
@@ -178,25 +146,24 @@ papirer;Kodekort til nettbank;ferie;
 papirer;Kredittkort;løp-fly;
 papirer;Pennal;ferie;
 papirer;Reiseforsikring;ferie;
-papirer;Sovemaske;ferie;
 papirer;Uleste blader;ferie;
 papirer;Uleste bøker;ferie;
 papirer;Visittkort;ferie;
 papirer;Visumpapirer/ESTA;løp-fly;
-svømming;Badebukse;ferie;
-svømming;Badehette;ferie;
-svømming;Håndklede;ferie;
-svømming;Svømmebriller;ferie;
-svømming;Vanntermometer;ferie;
+svømming;Badebukse;triatlon;
+svømming;Badehette;triatlon;
+svømming;Håndkle;triatlon;
+svømming;Svømmebriller;triatlon;
+svømming;Vanntermometer;triatlon;
 svømming;Våtdrakt;triatlon;
 klær;Bilteppe;ritt-bil;løp-bil;
 sykkel;Garmin Edge 500;ritt-bil;triatlon
 klær;Hjelm;ritt-bil;triatlon
 sykkel;Hjulrettestativ;ritt-bil;triatlon
 klær;Kortermet sykkeltrøye;ritt-bil;triatlon
-sykkel;Ladekabel til Edge 500;ritt-bil;triatlon
+elektronikk;Ladekabel til Edge 500;småtingpose
 klær;Langermet sykkeltrøye;ritt-bil;triatlon
-klær;Mikrofiber håndkle;ferie;
+klær;Mikrofiberhåndkle;løp-bil;løp-fly;ritt-bil;triatlon
 sykkel;Nøkler til sykkelstativ på bil;ritt-bil;triatlon
 sykkel;Pumpe;ritt-bil;triatlon
 klær;Selebukse;ritt-bil;triatlon
@@ -206,27 +173,17 @@ klær;Sykkeljakke;ritt-bil;triatlon
 sykkel;Sykkelstativ;ritt-bil;triatlon
 sykkel;Sykkelstativ på bil;ritt-bil;triatlon
 klær;Tridrakt;ritt-bil;triatlon
-sykkel;Vaskeutstyr;ritt-bil;triatlon
+sykkel;Sykkelvaskeutstyr;ritt-bil;triatlon
 sykkel;Sykkelverktøykasse;ritt-bil;triatlon
-toalettsaker;Deodorant;ferie;
-toalettsaker;Hårklipputstyr;ferie;
-toalettsaker;Kam;ferie;
-toalettsaker;Neglfil;ferie;
-toalettsaker;Neglklipper;ferie;
-toalettsaker;Tannbørste;ferie;
-toalettsaker;Tannkrem;flyreisetoalettsaker;ferie;
-toalettsaker;Tanntråd;ferie;konkurransepose;
-verktøy;Bits;ferie;
-verktøy;Bor;ferie;
-verktøy;Bormaskin;ferie;
-verktøy;Brekkjern;ferie;
-verktøy;Drill;ferie;
-verktøy;Hammer;ferie;
-verktøy;Håndsag;ferie;
-verktøy;Ladere;ferie;
-verktøy;Multitang;ferie;
-verktøy;Målebånd;ferie;
-verktøy;Verktøykassa;ferie;
+toalettsaker;Tannbørste;flyreisetoalettsaker
+toalettsaker;Tannkrem;flyreisetoalettsaker
+toalettsaker;Kam;flyreisetoalettsaker
+toalettsaker;Hårspray;flyreisetoalettsaker
+toalettsaker;Tanntråd;flyreisetoalettsaker;konkurransepose;
+verktøy;El-skrutrekker;ferie;
+verktøy;El-drill;ferie;
+verktøy;Lader til el-skrutrekker;ferie;
+verktøy;Lader til el-drill;ferie;
 diverse;Body Glide;konkurransepose
 diverse;Konkurransepose;løp-bil;løp-fly
 diverse;Småtingpose;løp-bil;løp-fly
