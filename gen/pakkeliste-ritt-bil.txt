@@ -1,29 +1,52 @@
 Pakkeliste - ritt-bil
 
 Diverse
-[] Bilnøkler
+[] Drikkeflaske
+[] Flaske med vann til vasking
+[] Handleplastposer
+[] Lommekniv
 
 Klær
 [] Bilteppe
 [] Hjelm
 [] Kortermet sykkeltrøye
 [] Langermet sykkeltrøye
+[] Lue/pannebånd med skygge
+[] Lureteppe
+[] Løpesokker
+[] Mikrofiberhåndkle
 [] Selebukse
+[] Skopose
+[] Sykkelhansker
 [] Sykkeljakke
 [] Sykkelsokker
+[] Tjukke sokker
 [] Tridrakt
 
+Mat
+[] Mat for reisen
+[] Mat og drikke før løpet
+[] Mat og drikke til etter løpet
+
 Papirer
+[] Informasjonspapir om løpet
+[] Kontanter
 [] Laminert kart
+[] Lommebok
+[] Mobiltelefon
+[] Notatblokk
+[] Rapport fra tidligere år
+[] Skrivesaker
+[] Tidsskjema
+[] Tidtakerbrikke
 
 Sykkel
 [] Garmin Edge 500
 [] Hjulrettestativ
-[] Ladekabel til Edge 500
 [] Nøkler til sykkelstativ på bil
 [] Pumpe
 [] Sykkel
 [] Sykkelstativ
 [] Sykkelstativ på bil
+[] Sykkelvaskeutstyr
 [] Sykkelverktøykasse
-[] Vaskeutstyr

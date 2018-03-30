@@ -5,7 +5,7 @@
 - [ ] Hyssing
 - [ ] Klemmer
 - [ ] Kompass
-- [ ] PC-mus
+- [ ] Sovemaske
 - [ ] Søtningsmiddel
 - [ ] Vaskepulver
 - [ ] Ørepropper støy
@@ -15,6 +15,15 @@
 - [ ] AA batterier
 - [ ] AAA batterier
 - [ ] Bagasjevekt
+- [ ] ChromeCast
+- [ ] Ladekabel til Edge 500
+- [ ] Ladekabel til Garmin 920XT
+- [ ] Lommelykt
+- [ ] PC-mus
 - [ ] Termometer
+- [ ] USB strømmåler
+- [ ] USB-batteri
 - [ ] USB-kabler
 - [ ] USB-ladere
+- [ ] Vekkerklokke
+- [ ] Ørepropper musikk

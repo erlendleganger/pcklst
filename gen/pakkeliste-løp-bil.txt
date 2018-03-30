@@ -3,53 +3,47 @@ Pakkeliste - løp-bil
 Diverse
 [] Flaske med vann til vasking
 [] Førstehjelpssett
-[] Informasjonspapir om løpet
+[] Handleplastposer
 [] Konkurransepose
-[] Kontanter
-[] Kort skjorte
-[] Kortbukse
-[] Lang kompresjonsbukse
-[] Lang skjorte
 [] Lett ryggsekk
-[] Liten mobiltelefon
-[] Lommebok
 [] Lommekniv
-[] Lue/pannebånd med skygge
-[] Lureteppe
-[] Løpesokker
-[] Mat for reisen
-[] Mat og drikke før løpet
-[] Mat og drikke til etter løpet
-[] Mikrofiberhåndklede
-[] Mobiltelefon
-[] Notatblokk
-[] Plastposer
-[] Rapport fra tidligere år
-[] Regnjakke
 [] Sekk med drikkepose
-[] Sikkerhetsnåler
-[] Sko
-[] Skopose
-[] Skrivesaker
 [] Småtingpose
-[] Solbriller
-[] Sovepute
-[] Startnummer
-[] Søppelsekk
-[] Teppe til bilsetet
-[] Tidsskjema
-[] Tidtakerbrikke
-[] Tjukke sokker
-[] Underbukse
-[] Undertrøye
-[] Varmeteppe
-[] Ørepropper MP3
 
 Klær
 [] Bilteppe
 [] Hals
-[] Hansker
+[] Kort skjorte
+[] Kortbukse
+[] Lang kompresjonsbukse
+[] Lang løpebukse
+[] Lang løpeskjorte
+[] Lue/pannebånd med skygge
+[] Lureteppe
+[] Løpehansker
+[] Løpejakke
+[] Løpesko
+[] Løpesokker
+[] Mikrofiberhåndkle
+[] Skopose
+[] Tjukke sokker
+[] Underbukse
+[] Undertrøye
+
+Mat
+[] Mat for reisen
+[] Mat og drikke før løpet
+[] Mat og drikke til etter løpet
 
 Papirer
 [] Førerkort
+[] Informasjonspapir om løpet
+[] Kontanter
 [] Laminert kart
+[] Lommebok
+[] Mobiltelefon
+[] Notatblokk
+[] Rapport fra tidligere år
+[] Skrivesaker
+[] Tidsskjema
+[] Tidtakerbrikke

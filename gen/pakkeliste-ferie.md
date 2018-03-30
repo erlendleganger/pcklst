@@ -1,44 +1,21 @@
 # Pakkeliste - ferie
 [TOC]
 ## Diverse
-- [ ] Bilnøkler
-- [ ] Drikkeflaske
 - [ ] Fyrstikker
-- [ ] Genser
+- [ ] Hodetlf med støykansellering
 - [ ] Hullemaskin
-- [ ] Jakke
-- [ ] Joggesko
-- [ ] Kontanter
-- [ ] Ladekabel til hybrid/el-bil
 - [ ] Lastereimer
-- [ ] Lesebriller
-- [ ] Mat for reisen
-- [ ] Mobiltelefon
-- [ ] Notatblokk
-- [ ] Notebok
-- [ ] Olabukse
-- [ ] PC
-- [ ] PC-lader
-- [ ] Pakketeip
-- [ ] Pass
-- [ ] Samekniv
-- [ ] Sko
-- [ ] Skopose
-- [ ] Skrivesaker
-- [ ] Solbriller
-- [ ] Strandteppe
 - [ ] Takstativ på bil
 ## Elektronikk
-- [ ] Bilkontakt for USB (12V - 5V)
 - [ ] CR2032-batterier
 - [ ] CR2430-batterier
-- [ ] ChromeCast
-- [ ] Hodetelefoner
 - [ ] LR44-batterier
+- [ ] Ladekabel til hybrid/el-bil
 - [ ] Mikrofiberklut
+- [ ] PC
+- [ ] PC-lader
 - [ ] Personvekt
 - [ ] Walkie-Talkie
-- [ ] Ørepropper
 ## Gjøremål
 - [ ] Fylle opp dosett
 - [ ] Helle klorin i sluk
@@ -73,18 +50,6 @@
 - [ ] Tømme postkassa
 - [ ] Tømme søppel
 - [ ] Vanne blomster
-## Klær
-- [ ] Hansker
-- [ ] Mikrofiber håndkle
-## Løping
-- [ ] Fleecegenser
-- [ ] Garmin 920XT
-- [ ] Garmin pulsbelte x2
-- [ ] Ladekabel til 920XT
-- [ ] Lue og/eller skygge
-- [ ] Løpebukse
-- [ ] Løpetrøye
-- [ ] Regnfrakk
 ## Mat
 - [ ] Brunost
 - [ ] Egg
@@ -92,48 +57,29 @@
 - [ ] Grillpølser
 - [ ] Grøtris
 - [ ] Kakemiks
+- [ ] Mat for reisen
 - [ ] Nugatti
 - [ ] Potetlomper
 - [ ] Rømme
 - [ ] Vaniljesaus
-## Medisiner
-- [ ] Jernpiller
 ## Papirer
 - [ ] Bilfordelskort
 - [ ] Fordelsprogram-kort
 - [ ] Karlsborgperm
 - [ ] Kodebrikke til nettbank
 - [ ] Kodekort til nettbank
+- [ ] Kontanter
+- [ ] Lommebok
+- [ ] Mobiltelefon
+- [ ] Notebok
+- [ ] Pass
 - [ ] Pennal
 - [ ] Reiseforsikring
-- [ ] Sovemaske
 - [ ] Uleste blader
 - [ ] Uleste bøker
 - [ ] Visittkort
-## Svømming
-- [ ] Badebukse
-- [ ] Badehette
-- [ ] Håndklede
-- [ ] Svømmebriller
-- [ ] Vanntermometer
-## Toalettsaker
-- [ ] Deodorant
-- [ ] Hårklipputstyr
-- [ ] Kam
-- [ ] Neglfil
-- [ ] Neglklipper
-- [ ] Tannbørste
-- [ ] Tannkrem
-- [ ] Tanntråd
 ## Verktøy
-- [ ] Bits
-- [ ] Bor
-- [ ] Bormaskin
-- [ ] Brekkjern
-- [ ] Drill
-- [ ] Hammer
-- [ ] Håndsag
-- [ ] Ladere
-- [ ] Multitang
-- [ ] Målebånd
-- [ ] Verktøykassa
+- [ ] El-drill
+- [ ] El-skrutrekker
+- [ ] Lader til el-drill
+- [ ] Lader til el-skrutrekker
