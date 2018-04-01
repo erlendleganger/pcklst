@@ -28,7 +28,6 @@ sub parse_item(){
       keyattr=>[qw(id)],
       forcearray=>[qw(list)],
    );
-   open TMP,">tmp/item.txt";print TMP Dumper($xml_item);close TMP;
 }
 
 #-----------------------------------------------------------------------
