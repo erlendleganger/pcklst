@@ -18,7 +18,7 @@ diverse;Hodetlf med støykansellering;løp-fly;ferie
 diverse;Hotellpapirer;løp-fly;
 diverse;Hullemaskin;ferie;
 papirer;Informasjonspapir om løpet;løp-bil;løp-fly;ritt-bil
-medisiner;Jernpiller;flyreisetoalettsaker
+medisiner;Jernpiller;ferie
 papirer;Kontanter;ferie;løp-fly;løp-bil;ritt-bil
 klær;Kort skjorte;løp-fly;løp-bil;
 klær;Kortbukse;løp-fly;løp-bil;
@@ -180,6 +180,13 @@ toalettsaker;Tannkrem;flyreisetoalettsaker
 toalettsaker;Kam;flyreisetoalettsaker
 toalettsaker;Neglfil;flyreisetoalettsaker
 toalettsaker;Hårspray;flyreisetoalettsaker
+toalettsaker;Neglklipper;flyreisetoalettsaker
+toalettsaker;Barberhøvel;flyreisetoalettsaker
+toalettsaker;Deodorant;flyreisetoalettsaker
+toalettsaker;Hårsjampo;flyreisetoalettsaker
+toalettsaker;Bomullspinner;flyreisetoalettsaker
+toalettsaker;Sysaker;flyreisetoalettsaker
+toalettsaker;Barberskum;flyreisetoalettsaker
 toalettsaker;Tanntråd;flyreisetoalettsaker;konkurransepose;
 verktøy;El-skrutrekker;ferie;
 verktøy;El-drill;ferie;
