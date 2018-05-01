@@ -1,4 +1,7 @@
 
+#edit source data
+vim src/pcklst-data.csv
+
 #generate after updating data:
 rm gen/*; perl bin/convert-csv2xml.pl; perl bin/gen-checklist.pl
 
