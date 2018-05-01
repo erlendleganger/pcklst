@@ -84,6 +84,15 @@
       </lists>
    </item>
 
+   <item id="4317988419085620892">
+      <title>GPS-pose</title>
+      <category>diverse</category>
+      <lists>
+         <list>løp-bil</list>
+         <list>løp-fly</list>
+      </lists>
+   </item>
+
    <item id="7851321934428560874">
       <title>Halslomme</title>
       <category>diverse</category>
@@ -194,14 +203,6 @@
       </lists>
    </item>
 
-   <item id="15538576625064913589">
-      <title>Reiseforsikring</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-      </lists>
-   </item>
-
    <item id="6936934217777061104">
       <title>Reisemat</title>
       <category>diverse</category>
@@ -238,7 +239,7 @@
       <title>Smertekrem</title>
       <category>diverse</category>
       <lists>
-         <list>konkurransepose</list>
+         <list>flyreisetoalettsaker</list>
       </lists>
    </item>
 
@@ -291,6 +292,14 @@
       </lists>
    </item>
 
+   <item id="7867052772521980301">
+      <title>Sysaker</title>
+      <category>diverse</category>
+      <lists>
+         <list>flyreisetoalettsaker</list>
+      </lists>
+   </item>
+
    <item id="2689042113866355025">
       <title>Søtningsmiddel</title>
       <category>diverse</category>
@@ -311,15 +320,7 @@
       <title>Temperaturmåler</title>
       <category>diverse</category>
       <lists>
-         <list>løp-fly</list>
-      </lists>
-   </item>
-
-   <item id="1313381176852440550">
-      <title>Tigerbalsam</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
+         <list>småtingpose</list>
       </lists>
    </item>
 
@@ -363,6 +364,14 @@
       </lists>
    </item>
 
+   <item id="12707222261325930266">
+      <title>12V ladekabel til bil-GPS</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>gps-pose</list>
+      </lists>
+   </item>
+
    <item id="1001456007329615142">
       <title>AA batterier</title>
       <category>elektronikk</category>
@@ -391,7 +400,7 @@
       <title>Bil-GPS</title>
       <category>elektronikk</category>
       <lists>
-         <list>løp-fly</list>
+         <list>gps-pose</list>
       </lists>
    </item>
 
@@ -416,6 +425,14 @@
       <category>elektronikk</category>
       <lists>
          <list>småtingpose</list>
+      </lists>
+   </item>
+
+   <item id="3589248583598335351">
+      <title>Fot til bil-GPS</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>gps-pose</list>
       </lists>
    </item>
 
@@ -499,6 +516,14 @@
       </lists>
    </item>
 
+   <item id="2887345162560582029">
+      <title>Lader for ørepropper</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>småtingpose</list>
+      </lists>
+   </item>
+
    <item id="8292880547537214705">
       <title>Lommelykt</title>
       <category>elektronikk</category>
@@ -512,6 +537,15 @@
       <category>elektronikk</category>
       <lists>
          <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="17550170099572603855">
+      <title>Nettbrett</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>ferie</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -554,6 +588,14 @@
       <category>elektronikk</category>
       <lists>
          <list>småtingpose</list>
+      </lists>
+   </item>
+
+   <item id="3489791985307649420">
+      <title>USB ladekabel til bil-GPS</title>
+      <category>elektronikk</category>
+      <lists>
+         <list>gps-pose</list>
       </lists>
    </item>
 
@@ -630,6 +672,14 @@
       </lists>
    </item>
 
+   <item id="1478033278804202031">
+      <title>Fylle tannkremtube</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>løp-fly</list>
+      </lists>
+   </item>
+
    <item id="309320286921097202">
       <title>Helle klorin i sluk</title>
       <category>gjøremål</category>
@@ -654,14 +704,6 @@
       </lists>
    </item>
 
-   <item id="5617166048208089834">
-      <title>Lade GPS</title>
-      <category>gjøremål</category>
-      <lists>
-         <list>løp-fly</list>
-      </lists>
-   </item>
-
    <item id="12544862571636342246">
       <title>Lade USB-batterier</title>
       <category>gjøremål</category>
@@ -670,11 +712,29 @@
       </lists>
    </item>
 
-   <item id="10166114758222100394">
-      <title>Lade opp enheter</title>
+   <item id="12671478711623954354">
+      <title>Lade bil-GPS</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>løp-fly</list>
+      </lists>
+   </item>
+
+   <item id="14224378770473044699">
+      <title>Lade mobiltelefon</title>
       <category>gjøremål</category>
       <lists>
          <list>ferie</list>
+         <list>løp-fly</list>
+      </lists>
+   </item>
+
+   <item id="2007804231075717070">
+      <title>Lade nettbrett</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -683,6 +743,14 @@
       <category>gjøremål</category>
       <lists>
          <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="13671576284192118617">
+      <title>Laste ned Netflix-filmer</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -710,10 +778,19 @@
       </lists>
    </item>
 
-   <item id="11494956790691938381">
-      <title>Oppdatere bil-GPS</title>
+   <item id="13775514960826836573">
+      <title>Oppdatere kart på bil-GPS</title>
       <category>gjøremål</category>
       <lists>
+         <list>løp-fly</list>
+      </lists>
+   </item>
+
+   <item id="15078091977601822905">
+      <title>Pakke dosett</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
          <list>løp-fly</list>
       </lists>
    </item>
@@ -731,6 +808,14 @@
       <category>gjøremål</category>
       <lists>
          <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="11111656463022953801">
+      <title>Sette opp bil-GPS</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -923,6 +1008,14 @@
       <category>gjøremål</category>
       <lists>
          <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="9752427825357959090">
+      <title>Veie bagasje</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>løp-fly</list>
       </lists>
    </item>
 
@@ -1303,6 +1396,14 @@
       </lists>
    </item>
 
+   <item id="7244702367044339422">
+      <title>Tigerbalsam</title>
+      <category>medisiner</category>
+      <lists>
+         <list>flyreisetoalettsaker</list>
+      </lists>
+   </item>
+
    <item id="4290906200480594027">
       <title>Bilfordelskort</title>
       <category>papirer</category>
@@ -1473,6 +1574,7 @@
       <title>Reiseforsikring</title>
       <category>papirer</category>
       <lists>
+         <list>løp-fly</list>
          <list>ferie</list>
       </lists>
    </item>
@@ -1727,6 +1829,14 @@
       </lists>
    </item>
 
+   <item id="11870328788927816773">
+      <title>Mentolatum</title>
+      <category>toalettsaker</category>
+      <lists>
+         <list>flyreisetoalettsaker</list>
+      </lists>
+   </item>
+
    <item id="11436995169526861221">
       <title>Neglfil</title>
       <category>toalettsaker</category>
@@ -1737,14 +1847,6 @@
 
    <item id="18074140855656981618">
       <title>Neglklipper</title>
-      <category>toalettsaker</category>
-      <lists>
-         <list>flyreisetoalettsaker</list>
-      </lists>
-   </item>
-
-   <item id="10201520087162264661">
-      <title>Sysaker</title>
       <category>toalettsaker</category>
       <lists>
          <list>flyreisetoalettsaker</list>
