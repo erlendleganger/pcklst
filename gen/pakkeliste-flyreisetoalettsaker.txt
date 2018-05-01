@@ -3,7 +3,6 @@ Pakkeliste - flyreisetoalettsaker
 Medisiner
 [] Dosett
 [] Hodepinetabletter
-[] Jernpiller
 
 Toalettsaker
 [] Barberhøvel

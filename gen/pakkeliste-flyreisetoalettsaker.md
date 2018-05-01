@@ -3,7 +3,6 @@
 ## Medisiner
 - [ ] Dosett
 - [ ] Hodepinetabletter
-- [ ] Jernpiller
 ## Toalettsaker
 - [ ] Barberhøvel
 - [ ] Barberskum

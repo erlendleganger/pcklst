@@ -62,6 +62,8 @@
 - [ ] Potetlomper
 - [ ] Rømme
 - [ ] Vaniljesaus
+## Medisiner
+- [ ] Jernpiller
 ## Papirer
 - [ ] Bilfordelskort
 - [ ] Fordelsprogram-kort
