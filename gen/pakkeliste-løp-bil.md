@@ -3,6 +3,7 @@
 ## Diverse
 - [ ] Flaske med vann til vasking
 - [ ] Førstehjelpssett
+- [ ] GPS-pose
 - [ ] Handleplastposer
 - [ ] Konkurransepose
 - [ ] Lett ryggsekk

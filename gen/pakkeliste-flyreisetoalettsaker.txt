@@ -1,8 +1,13 @@
 Pakkeliste - flyreisetoalettsaker
 
+Diverse
+[] Smertekrem
+[] Sysaker
+
 Medisiner
 [] Dosett
 [] Hodepinetabletter
+[] Tigerbalsam
 
 Toalettsaker
 [] Barberhøvel
@@ -12,9 +17,9 @@ Toalettsaker
 [] Hårsjampo
 [] Hårspray
 [] Kam
+[] Mentolatum
 [] Neglfil
 [] Neglklipper
-[] Sysaker
 [] Tannbørste
 [] Tannkrem
 [] Tanntråd

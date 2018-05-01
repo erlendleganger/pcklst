@@ -7,6 +7,7 @@
 - [ ] Kompass
 - [ ] Sovemaske
 - [ ] Søtningsmiddel
+- [ ] Temperaturmåler
 - [ ] Vaskepulver
 - [ ] Ørepropper støy
 ## Elektronikk
@@ -18,6 +19,7 @@
 - [ ] ChromeCast
 - [ ] Ladekabel til Edge 500
 - [ ] Ladekabel til Garmin 920XT
+- [ ] Lader for ørepropper
 - [ ] Lommelykt
 - [ ] PC-mus
 - [ ] Termometer

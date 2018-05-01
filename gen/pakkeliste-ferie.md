@@ -12,6 +12,7 @@
 - [ ] LR44-batterier
 - [ ] Ladekabel til hybrid/el-bil
 - [ ] Mikrofiberklut
+- [ ] Nettbrett
 - [ ] PC
 - [ ] PC-lader
 - [ ] Personvekt
@@ -21,11 +22,13 @@
 - [ ] Helle klorin i sluk
 - [ ] Klippe negler
 - [ ] Klippe skjegget
-- [ ] Lade opp enheter
+- [ ] Lade mobiltelefon
+- [ ] Lade nettbrett
 - [ ] Lage handleliste
 - [ ] Legge nøkler på lurt sted i bagasjen
 - [ ] Låse garasje
 - [ ] Låse hoveddøra
+- [ ] Pakke dosett
 - [ ] Senke markise
 - [ ] Sette blomster på kjøkkenet
 - [ ] Sette ut plastavfall

@@ -3,28 +3,33 @@
 ## Diverse
 - [ ] Drikkeflaske
 - [ ] Flyreisetoalettsaker
+- [ ] GPS-pose
 - [ ] Halslomme
 - [ ] Handleplastposer
 - [ ] Hodetlf med støykansellering
 - [ ] Hotellpapirer
 - [ ] Konkurransepose
-- [ ] Reiseforsikring
 - [ ] Reisemat
 - [ ] Skjermrens
 - [ ] Småtingpose
-- [ ] Temperaturmåler
-- [ ] Tigerbalsam
 ## Elektronikk
-- [ ] Bil-GPS
 - [ ] Grenuttak
+- [ ] Nettbrett
 - [ ] PC
 - [ ] PC-lader
 ## Gjøremål
-- [ ] Lade GPS
+- [ ] Fylle tannkremtube
 - [ ] Lade USB-batterier
-- [ ] Oppdatere bil-GPS
+- [ ] Lade bil-GPS
+- [ ] Lade mobiltelefon
+- [ ] Lade nettbrett
+- [ ] Laste ned Netflix-filmer
+- [ ] Oppdatere kart på bil-GPS
+- [ ] Pakke dosett
+- [ ] Sette opp bil-GPS
 - [ ] Sjekke visum/ESTA
 - [ ] Skru av regionsperre
+- [ ] Veie bagasje
 ## Klær
 - [ ] Hals
 - [ ] Kort skjorte
@@ -57,6 +62,7 @@
 - [ ] Notatblokk
 - [ ] Pass
 - [ ] Rapport fra tidligere år
+- [ ] Reiseforsikring
 - [ ] Skrivesaker
 - [ ] Tidsskjema
 - [ ] Tidtakerbrikke
