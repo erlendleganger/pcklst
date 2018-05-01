@@ -1,5 +1,5 @@
 
-#edit source data
+#edit source data; maybe use Notepad++ because of national characters?
 vim src/pcklst-data.csv
 
 #generate after updating data:
