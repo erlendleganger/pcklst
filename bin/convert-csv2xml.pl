@@ -17,6 +17,7 @@ while(<IN>){
    chop;
    my ($category,$item,@list)=split/;/;
    next if(!$item);
+   next if($category=~m/^#/); #skip comments
    if(defined $db{$category}{$item}){
       print "FATAL: duplicate definition: $category, $item\n";
       exit 1;
