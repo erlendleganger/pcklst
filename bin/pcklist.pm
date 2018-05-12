@@ -16,8 +16,9 @@ $Data::Dumper::Indent=1;
 #-----------------------------------------------------------------------
 my $xml_item;
 
-#-----------------------------------------------------------------------
-#-----------------------------------------------------------------------
+#=======================================================================
+#parse the input data, the single html file with pck list data
+#=======================================================================
 sub parse_item(){
    my $xml=new XML::Simple;
    my $infile=qq(src/pcklst-data.xml);
@@ -28,10 +29,11 @@ sub parse_item(){
       keyattr=>[qw(id)],
       forcearray=>[qw(list)],
    );
+   #print Dumper($xml_item);
 }
 
-#-----------------------------------------------------------------------
-#-----------------------------------------------------------------------
+#=======================================================================
+#=======================================================================
 sub gen_pcklist(){
    my $ref=\%{$xml_item->{item}};
    my %catdb;
@@ -52,8 +54,23 @@ sub gen_pcklist(){
          $listids{$lid}=1 if ($lid ne "all");
       }
    }
-   #print Dumper(\%listids);
+   #------------
+   #save category data
+   my $f="gen/category-data.txt";
+   open OUT,">",$f or die "cannot create $f"; 
+   print "create $f\n";
+   for my $c(sort keys %catdb){
+      print OUT "Category $c:\n";
+      for my $id(sort 
+         {$xml_item->{item}{$a}{title}cmp$xml_item->{item}{$b}{title}}
+         @{$catdb{$c}}){
+         print OUT "- $xml_item->{item}{$id}{title}\n";
+      }
+      print OUT "\n";
+   }
+   close OUT;
    #print Dumper(\%catdb);
+   #print Dumper(\%listids);
    #print Dumper(\%listdb);
 
    #loop through all items again; now we know about all lists
@@ -73,7 +90,7 @@ sub gen_pcklist(){
             }
          }
          else{
-            #add the item to this list
+            #regular list (lid!=all), add the item to this list
             push @{$listdb{$lid}{$category}},$id;
          }
       }
@@ -85,6 +102,8 @@ sub gen_pcklist(){
    }
 }
 
+#=======================================================================
+#=======================================================================
 sub write_pcklist(){
    my ($fmt,$ref)=@_;
    my $ext=$fmt; #can be expanded to %db{$fmt}{ext} later...
@@ -105,6 +124,8 @@ sub write_pcklist(){
    }
 }
 
+#=======================================================================
+#=======================================================================
 sub write_pcklist_md(){
    my ($lid,$ref,$fh)=@_;
    print $fh "# Pakkeliste - $lid\n[TOC]\n";
@@ -122,6 +143,8 @@ sub write_pcklist_md(){
    }
 }
 
+#=======================================================================
+#=======================================================================
 sub write_pcklist_txt(){
    my ($lid,$ref,$fh)=@_;
    print $fh "Pakkeliste - $lid\n";
@@ -139,6 +162,8 @@ sub write_pcklist_txt(){
    }
 }
 
+#=======================================================================
+#=======================================================================
 sub write_pcklist_html(){
    my ($lid,$ref,$fh)=@_;
    print $fh "<html>\n<head>\n";
