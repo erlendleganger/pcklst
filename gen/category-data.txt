@@ -1,0 +1,250 @@
+Category diverse:
+- Body Glide
+- Briller
+- Brystvorte-teip
+- Buksestrikk
+- Drikkeflaske
+- Flaske med vann til vasking
+- Flyreisetoalettsaker
+- Futteral til pulsklokke
+- Fyrstikker
+- Førstehjelpssett
+- GPS-pose
+- Halslomme
+- Handleplastposer
+- Hodetlf med støykansellering
+- Hotellpapirer
+- Hullemaskin
+- Hyssing
+- Klemmer
+- Kompass
+- Konkurransepose
+- Lastereimer
+- Lett ryggsekk
+- Lommekniv
+- Løpebelte
+- Reisemat
+- Sekk med drikkepose
+- Sikkerhetsnåler
+- Skjermrens
+- Smertekrem
+- Småplastposer
+- Småtingpose
+- Solbriller
+- Solkrem
+- Sovemaske
+- Strikkbelte til startnummer
+- Sysaker
+- Søtningsmiddel
+- Takstativ på bil
+- Temperaturmåler
+- Varmekrem
+- Vaskepulver
+- Ørepropper støy
+
+Category elektronikk:
+- 110V overgang
+- 12V USB-uttak
+- 12V ladekabel til bil-GPS
+- AA batterier
+- AAA batterier
+- Bagasjevekt
+- Bil-GPS
+- CR2032-batterier
+- CR2430-batterier
+- ChromeCast
+- Fot til bil-GPS
+- Garmin 920XT pulsklokke
+- Garmin fotsensor
+- Garmin lader
+- Garmin pulsbelte
+- Garmin pulsbeltestrikk
+- Grenuttak
+- LR44-batterier
+- Ladekabel til Edge 500
+- Ladekabel til Garmin 920XT
+- Ladekabel til hybrid/el-bil
+- Lader for ørepropper
+- Lommelykt
+- Mikrofiberklut
+- Nettbrett
+- PC
+- PC-lader
+- PC-mus
+- Personvekt
+- Termometer
+- USB ladekabel til bil-GPS
+- USB strømmåler
+- USB-batteri
+- USB-kabler
+- USB-ladere
+- Vekkerklokke
+- Walkie-Talkie
+- Ørepropper musikk
+
+Category førstehjelp:
+- Plaster
+
+Category gjøremål:
+- Fylle opp dosett
+- Fylle tannkremtube
+- Helle klorin i sluk
+- Klippe negler
+- Klippe skjegget
+- Lade USB-batterier
+- Lade bil-GPS
+- Lade mobiltelefon
+- Lade nettbrett
+- Lage handleliste
+- Laste ned Netflix-filmer
+- Legge nøkler på lurt sted i bagasjen
+- Låse garasje
+- Låse hoveddøra
+- Oppdatere kart på bil-GPS
+- Pakke dosett
+- Senke markise
+- Sette blomster på kjøkkenet
+- Sette opp bil-GPS
+- Sette ut plastavfall
+- Sjekke alle utganger
+- Sjekke etter gjenglemt bagasje
+- Sjekke gressklipper
+- Sjekke kjøleskap
+- Sjekke visum/ESTA
+- Skru av PCer
+- Skru av fontene
+- Skru av håndkletørker
+- Skru av regionsperre
+- Skru av vann til oppvaskmaskin
+- Skru av vann til vaskemaskinen
+- Skru av varmekabler
+- Skru av varmepumpe
+- Skru av varmeveksler
+- Sprøyte plenen
+- Stille inn webkamera
+- Stoppe avisen
+- Stoppe posten
+- Ta ut kontanter
+- Tømme oppvaskmaskin
+- Tømme postkassa
+- Tømme søppel
+- Vanne blomster
+- Veie bagasje
+
+Category klær:
+- Bilteppe
+- Hals
+- Hjelm
+- Kort skjorte
+- Kortbukse
+- Kortermet sykkeltrøye
+- Lang kompresjonsbukse
+- Lang løpebukse
+- Lang løpeskjorte
+- Langermet sykkeltrøye
+- Lue/pannebånd med skygge
+- Lureteppe
+- Løpehansker
+- Løpejakke
+- Løpesko
+- Løpesokker
+- Mikrofiberhåndkle
+- Selebukse
+- Skopose
+- Sykkelhansker
+- Sykkeljakke
+- Sykkelsokker
+- Tjukke sokker
+- Tridrakt
+- Underbukse
+- Undertrøye
+
+Category mat:
+- Brunost
+- Egg
+- Formfett
+- Grillpølser
+- Grøtris
+- Kakemiks
+- Mat for reisen
+- Mat og drikke før løpet
+- Mat og drikke til etter løpet
+- Nugatti
+- Potetlomper
+- Rømme
+- Vaniljesaus
+
+Category medisiner:
+- Dosett
+- Hodepinetabletter
+- Jernpiller
+- Tigerbalsam
+
+Category papirer:
+- Bilfordelskort
+- Flyfordelskort
+- Fordelsprogram-kort
+- Førerkort
+- Informasjonspapir om løpet
+- Karlsborgperm
+- Kodebrikke til nettbank
+- Kodekort til nettbank
+- Kontanter
+- Kredittkort
+- Laminert kart
+- Lommebok
+- Mobiltelefon
+- Notatblokk
+- Notebok
+- Pass
+- Pennal
+- Rapport fra tidligere år
+- Reiseforsikring
+- Skrivesaker
+- Tidsskjema
+- Tidtakerbrikke
+- Uleste blader
+- Uleste bøker
+- Visittkort
+- Visumpapirer/ESTA
+
+Category svømming:
+- Badebukse
+- Badehette
+- Håndkle
+- Svømmebriller
+- Vanntermometer
+- Våtdrakt
+
+Category sykkel:
+- Garmin Edge 500
+- Hjulrettestativ
+- Nøkler til sykkelstativ på bil
+- Pumpe
+- Sykkel
+- Sykkelstativ
+- Sykkelstativ på bil
+- Sykkelvaskeutstyr
+- Sykkelverktøykasse
+
+Category toalettsaker:
+- Barberhøvel
+- Barberskum
+- Bomullspinner
+- Deodorant
+- Hårsjampo
+- Hårspray
+- Kam
+- Mentolatum
+- Neglfil
+- Neglklipper
+- Tannbørste
+- Tannkrem
+- Tanntråd
+
+Category verktøy:
+- El-drill
+- El-skrutrekker
+- Lader til el-drill
+- Lader til el-skrutrekker
+

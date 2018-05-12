@@ -1,0 +1,7 @@
+General comments
+================
+- Main data file: pcklst-data.csv
+- During build, this file is converted to pcklst-data.xml
+- This file is then converted to all the files in ./gen.
+:q
+
