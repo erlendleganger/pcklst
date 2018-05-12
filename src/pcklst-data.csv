@@ -1,3 +1,5 @@
+#file format:
+#category; item; pcklist0; pcklist1; pcklist2; ...
 diverse;Vaskepulver;småtingpose
 diverse;Briller;småtingpose
 diverse;Flaske med vann til vasking;løp-bil;ritt-bil;triatlon
