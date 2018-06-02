@@ -43,7 +43,7 @@ klær;Lue/pannebånd med skygge;løp-fly;løp-bil;ritt-bil
 klær;Lureteppe;løp-bil;ritt-bil
 diverse;Løpebelte;konkurransepose
 klær;Løpejakke;løp-fly;løp-bil;triatlon
-klær;Løpesokker;løp-fly;løp-bil;ritt-bil
+klær;Løpesokker;løp-fly;løp-bil
 mat;Mat for reisen;løp-bil;løp-fly;ferie;ritt-bil
 mat;Mat og drikke før løpet;løp-bil;ritt-bil
 mat;Mat og drikke til etter løpet;løp-bil;ritt-bil
@@ -184,9 +184,8 @@ klær;Selebukse;ritt-bil;triatlon
 klær;Sykkelsokker;ritt-bil;triatlon
 sykkel;Sykkel;ritt-bil;triatlon
 klær;Sykkeljakke;ritt-bil;triatlon
-sykkel;Sykkelstativ;ritt-bil;triatlon
 sykkel;Sykkelstativ på bil;ritt-bil;triatlon
-klær;Tridrakt;ritt-bil;triatlon
+klær;Tridrakt;triatlon
 sykkel;Sykkelvaskeutstyr;ritt-bil;triatlon
 sykkel;Sykkelverktøykasse;ritt-bil;triatlon
 toalettsaker;Tannbørste;flyreisetoalettsaker
