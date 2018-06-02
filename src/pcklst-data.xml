@@ -167,6 +167,7 @@
       <lists>
          <list>løp-bil</list>
          <list>løp-fly</list>
+         <list>ritt-bil</list>
       </lists>
    </item>
 
@@ -1163,7 +1164,6 @@
       <lists>
          <list>løp-fly</list>
          <list>løp-bil</list>
-         <list>ritt-bil</list>
       </lists>
    </item>
 
@@ -1240,7 +1240,6 @@
       <title>Tridrakt</title>
       <category>klær</category>
       <lists>
-         <list>ritt-bil</list>
          <list>triatlon</list>
       </lists>
    </item>
@@ -1730,15 +1729,6 @@
 
    <item id="6947440925295870237">
       <title>Sykkel</title>
-      <category>sykkel</category>
-      <lists>
-         <list>ritt-bil</list>
-         <list>triatlon</list>
-      </lists>
-   </item>
-
-   <item id="3370538121839132778">
-      <title>Sykkelstativ</title>
       <category>sykkel</category>
       <lists>
          <list>ritt-bil</list>

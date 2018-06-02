@@ -37,7 +37,6 @@
 - [ ] Nøkler til sykkelstativ på bil
 - [ ] Pumpe
 - [ ] Sykkel
-- [ ] Sykkelstativ
 - [ ] Sykkelstativ på bil
 - [ ] Sykkelvaskeutstyr
 - [ ] Sykkelverktøykasse

@@ -4,6 +4,7 @@
 - [ ] Drikkeflaske
 - [ ] Flaske med vann til vasking
 - [ ] Handleplastposer
+- [ ] Konkurransepose
 - [ ] Lommekniv
 ## Klær
 - [ ] Bilteppe
@@ -12,7 +13,6 @@
 - [ ] Langermet sykkeltrøye
 - [ ] Lue/pannebånd med skygge
 - [ ] Lureteppe
-- [ ] Løpesokker
 - [ ] Mikrofiberhåndkle
 - [ ] Selebukse
 - [ ] Skopose
@@ -20,7 +20,6 @@
 - [ ] Sykkeljakke
 - [ ] Sykkelsokker
 - [ ] Tjukke sokker
-- [ ] Tridrakt
 ## Mat
 - [ ] Mat for reisen
 - [ ] Mat og drikke før løpet
@@ -42,7 +41,6 @@
 - [ ] Nøkler til sykkelstativ på bil
 - [ ] Pumpe
 - [ ] Sykkel
-- [ ] Sykkelstativ
 - [ ] Sykkelstativ på bil
 - [ ] Sykkelvaskeutstyr
 - [ ] Sykkelverktøykasse
