@@ -212,6 +212,15 @@
       </lists>
    </item>
 
+   <item id="15464028491946174133">
+      <title>Reisetoalettsaker</title>
+      <category>diverse</category>
+      <lists>
+         <list>ritt-bil</list>
+         <list>løp-bil</list>
+      </lists>
+   </item>
+
    <item id="7478400715416198246">
       <title>Sekk med drikkepose</title>
       <category>diverse</category>
@@ -1020,15 +1029,6 @@
       </lists>
    </item>
 
-   <item id="7554728937676412511">
-      <title>Bilteppe</title>
-      <category>klær</category>
-      <lists>
-         <list>ritt-bil</list>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
    <item id="3783335749700022549">
       <title>Hals</title>
       <category>klær</category>
@@ -1044,6 +1044,16 @@
       <lists>
          <list>ritt-bil</list>
          <list>triatlon</list>
+      </lists>
+   </item>
+
+   <item id="15828385824726389186">
+      <title>Håndkle</title>
+      <category>klær</category>
+      <lists>
+         <list>triatlon</list>
+         <list>ritt-bil</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -1187,6 +1197,16 @@
       </lists>
    </item>
 
+   <item id="10131943483378156836">
+      <title>Skift til vanlige klær</title>
+      <category>klær</category>
+      <lists>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+         <list>løp-bil</list>
+      </lists>
+   </item>
+
    <item id="15833301512526046610">
       <title>Skopose</title>
       <category>klær</category>
@@ -1221,17 +1241,6 @@
       <category>klær</category>
       <lists>
          <list>ritt-bil</list>
-         <list>triatlon</list>
-      </lists>
-   </item>
-
-   <item id="10812680450900230357">
-      <title>Tjukke sokker</title>
-      <category>klær</category>
-      <lists>
-         <list>løp-bil</list>
-         <list>ritt-bil</list>
-         <list>løp-fly</list>
          <list>triatlon</list>
       </lists>
    </item>
@@ -1659,14 +1668,6 @@
       </lists>
    </item>
 
-   <item id="3604550834191815073">
-      <title>Håndkle</title>
-      <category>svømming</category>
-      <lists>
-         <list>triatlon</list>
-      </lists>
-   </item>
-
    <item id="16409183419719411225">
       <title>Svømmebriller</title>
       <category>svømming</category>
@@ -1792,6 +1793,7 @@
       <category>toalettsaker</category>
       <lists>
          <list>flyreisetoalettsaker</list>
+         <list>reisetoalettsaker</list>
       </lists>
    </item>
 
@@ -1800,6 +1802,7 @@
       <category>toalettsaker</category>
       <lists>
          <list>flyreisetoalettsaker</list>
+         <list>reisetoalettsaker</list>
       </lists>
    </item>
 
@@ -1808,6 +1811,7 @@
       <category>toalettsaker</category>
       <lists>
          <list>flyreisetoalettsaker</list>
+         <list>reisetoalettsaker</list>
       </lists>
    </item>
 
@@ -1816,6 +1820,7 @@
       <category>toalettsaker</category>
       <lists>
          <list>flyreisetoalettsaker</list>
+         <list>reisetoalettsaker</list>
       </lists>
    </item>
 
@@ -1840,6 +1845,7 @@
       <category>toalettsaker</category>
       <lists>
          <list>flyreisetoalettsaker</list>
+         <list>konkurransepose</list>
       </lists>
    </item>
 
