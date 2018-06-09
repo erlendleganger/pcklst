@@ -8,3 +8,9 @@ rm gen/*; perl bin/convert-csv2xml.pl; perl bin/gen-checklist.pl
 #commit after updating data:
 git add src; git commit -m "Updated source data" src; git add gen; git add -u gen; git commit -m "Updated generated files" gen
 
+#combine two files to one multicolum:
+paste gen/pakkeliste-ritt-bil.txt gen/pakkeliste-reisetoalettsaker.txt |column -s $'\t' -t >tmp/out.txt
+
+#use own (and better) script to do this:
+bash bin/join-txt.sh  -l "gen/pakkeliste-ritt-bil.txt gen/pakkeliste-reisetoalettsaker.txt gen/pakkeliste-konkurransepose.txt">tmp/out.txt
+
