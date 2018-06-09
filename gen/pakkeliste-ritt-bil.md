@@ -6,20 +6,21 @@
 - [ ] Handleplastposer
 - [ ] Konkurransepose
 - [ ] Lommekniv
+- [ ] Reisetoalettsaker
 ## Klær
-- [ ] Bilteppe
 - [ ] Hjelm
+- [ ] Håndkle
 - [ ] Kortermet sykkeltrøye
 - [ ] Langermet sykkeltrøye
 - [ ] Lue/pannebånd med skygge
 - [ ] Lureteppe
 - [ ] Mikrofiberhåndkle
 - [ ] Selebukse
+- [ ] Skift til vanlige klær
 - [ ] Skopose
 - [ ] Sykkelhansker
 - [ ] Sykkeljakke
 - [ ] Sykkelsokker
-- [ ] Tjukke sokker
 ## Mat
 - [ ] Mat for reisen
 - [ ] Mat og drikke før løpet

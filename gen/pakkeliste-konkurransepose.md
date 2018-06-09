@@ -21,4 +21,5 @@
 ## Førstehjelp
 - [ ] Plaster
 ## Toalettsaker
+- [ ] Neglklipper
 - [ ] Tanntråd

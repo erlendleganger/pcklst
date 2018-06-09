@@ -6,17 +6,18 @@
 - [ ] Handleplastposer
 ## Klær
 - [ ] Hjelm
+- [ ] Håndkle
 - [ ] Kortermet sykkeltrøye
 - [ ] Langermet sykkeltrøye
 - [ ] Løpejakke
 - [ ] Løpesko
 - [ ] Mikrofiberhåndkle
 - [ ] Selebukse
+- [ ] Skift til vanlige klær
 - [ ] Skopose
 - [ ] Sykkelhansker
 - [ ] Sykkeljakke
 - [ ] Sykkelsokker
-- [ ] Tjukke sokker
 - [ ] Tridrakt
 ## Papirer
 - [ ] Notatblokk
@@ -27,7 +28,6 @@
 ## Svømming
 - [ ] Badebukse
 - [ ] Badehette
-- [ ] Håndkle
 - [ ] Svømmebriller
 - [ ] Vanntermometer
 - [ ] Våtdrakt

@@ -24,6 +24,7 @@ Category diverse:
 - Lommekniv
 - Løpebelte
 - Reisemat
+- Reisetoalettsaker
 - Sekk med drikkepose
 - Sikkerhetsnåler
 - Skjermrens
@@ -132,9 +133,9 @@ Category gjøremål:
 - Veie bagasje
 
 Category klær:
-- Bilteppe
 - Hals
 - Hjelm
+- Håndkle
 - Kort skjorte
 - Kortbukse
 - Kortermet sykkeltrøye
@@ -150,11 +151,11 @@ Category klær:
 - Løpesokker
 - Mikrofiberhåndkle
 - Selebukse
+- Skift til vanlige klær
 - Skopose
 - Sykkelhansker
 - Sykkeljakke
 - Sykkelsokker
-- Tjukke sokker
 - Tridrakt
 - Underbukse
 - Undertrøye
@@ -211,7 +212,6 @@ Category papirer:
 Category svømming:
 - Badebukse
 - Badehette
-- Håndkle
 - Svømmebriller
 - Vanntermometer
 - Våtdrakt

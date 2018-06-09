@@ -44,7 +44,6 @@
 - [ ] Løpesokker
 - [ ] Mikrofiberhåndkle
 - [ ] Skopose
-- [ ] Tjukke sokker
 - [ ] Underbukse
 - [ ] Undertrøye
 ## Mat

@@ -8,11 +8,12 @@
 - [ ] Konkurransepose
 - [ ] Lett ryggsekk
 - [ ] Lommekniv
+- [ ] Reisetoalettsaker
 - [ ] Sekk med drikkepose
 - [ ] Småtingpose
 ## Klær
-- [ ] Bilteppe
 - [ ] Hals
+- [ ] Håndkle
 - [ ] Kort skjorte
 - [ ] Kortbukse
 - [ ] Lang kompresjonsbukse
@@ -25,8 +26,8 @@
 - [ ] Løpesko
 - [ ] Løpesokker
 - [ ] Mikrofiberhåndkle
+- [ ] Skift til vanlige klær
 - [ ] Skopose
-- [ ] Tjukke sokker
 - [ ] Underbukse
 - [ ] Undertrøye
 ## Mat
