@@ -1,5 +1,15 @@
 <items>
 
+   <item id="11766496276085550567">
+      <title>Bilnøkler</title>
+      <category>diverse</category>
+      <lists>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+         <list>løp-bil</list>
+      </lists>
+   </item>
+
    <item id="307337406697281072">
       <title>Body Glide</title>
       <category>diverse</category>
@@ -204,6 +214,15 @@
       </lists>
    </item>
 
+   <item id="6829931973121437034">
+      <title>Nøkler til sykkelstativ på bil</title>
+      <category>diverse</category>
+      <lists>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+      </lists>
+   </item>
+
    <item id="6936934217777061104">
       <title>Reisemat</title>
       <category>diverse</category>
@@ -299,6 +318,15 @@
       <category>diverse</category>
       <lists>
          <list>konkurransepose</list>
+      </lists>
+   </item>
+
+   <item id="13067887022041202485">
+      <title>Sykkelstativ på bil</title>
+      <category>diverse</category>
+      <lists>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
       </lists>
    </item>
 
@@ -869,6 +897,15 @@
       </lists>
    </item>
 
+   <item id="17616775091969388107">
+      <title>Sjekke navn på sykkelhjelm</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+      </lists>
+   </item>
+
    <item id="12229690675512245301">
       <title>Sjekke visum/ESTA</title>
       <category>gjøremål</category>
@@ -1038,15 +1075,6 @@
       </lists>
    </item>
 
-   <item id="5523134035649554417">
-      <title>Hjelm</title>
-      <category>klær</category>
-      <lists>
-         <list>ritt-bil</list>
-         <list>triatlon</list>
-      </lists>
-   </item>
-
    <item id="15828385824726389186">
       <title>Håndkle</title>
       <category>klær</category>
@@ -1120,16 +1148,6 @@
       </lists>
    </item>
 
-   <item id="17577258205812043319">
-      <title>Lue/pannebånd med skygge</title>
-      <category>klær</category>
-      <lists>
-         <list>løp-fly</list>
-         <list>løp-bil</list>
-         <list>ritt-bil</list>
-      </lists>
-   </item>
-
    <item id="4765555891591852582">
       <title>Lureteppe</title>
       <category>klær</category>
@@ -1158,6 +1176,15 @@
       </lists>
    </item>
 
+   <item id="4645413851313050855">
+      <title>Løpekaps</title>
+      <category>klær</category>
+      <lists>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
+      </lists>
+   </item>
+
    <item id="15370151703543604994">
       <title>Løpesko</title>
       <category>klær</category>
@@ -1183,6 +1210,15 @@
       <lists>
          <list>løp-bil</list>
          <list>løp-fly</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+      </lists>
+   </item>
+
+   <item id="17072376123635364475">
+      <title>Pannebånd</title>
+      <category>klær</category>
+      <lists>
          <list>ritt-bil</list>
          <list>triatlon</list>
       </lists>
@@ -1227,8 +1263,26 @@
       </lists>
    </item>
 
+   <item id="6323201848406290722">
+      <title>Sykkelhjelm</title>
+      <category>klær</category>
+      <lists>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+      </lists>
+   </item>
+
    <item id="6504498287863247138">
       <title>Sykkeljakke</title>
+      <category>klær</category>
+      <lists>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+      </lists>
+   </item>
+
+   <item id="4068427260374418717">
+      <title>Sykkelsko</title>
       <category>klær</category>
       <lists>
          <list>ritt-bil</list>
@@ -1710,15 +1764,6 @@
       </lists>
    </item>
 
-   <item id="15872555726559646765">
-      <title>Nøkler til sykkelstativ på bil</title>
-      <category>sykkel</category>
-      <lists>
-         <list>ritt-bil</list>
-         <list>triatlon</list>
-      </lists>
-   </item>
-
    <item id="6507951914101054757">
       <title>Pumpe</title>
       <category>sykkel</category>
@@ -1730,15 +1775,6 @@
 
    <item id="6947440925295870237">
       <title>Sykkel</title>
-      <category>sykkel</category>
-      <lists>
-         <list>ritt-bil</list>
-         <list>triatlon</list>
-      </lists>
-   </item>
-
-   <item id="16169763423238578894">
-      <title>Sykkelstativ på bil</title>
       <category>sykkel</category>
       <lists>
          <list>ritt-bil</list>
