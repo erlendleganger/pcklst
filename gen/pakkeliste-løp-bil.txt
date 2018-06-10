@@ -1,6 +1,7 @@
 Pakkeliste - løp-bil
 
 Diverse
+[] Bilnøkler
 [] Flaske med vann til vasking
 [] Førstehjelpssett
 [] GPS-pose
@@ -20,10 +21,10 @@ Klær
 [] Lang kompresjonsbukse
 [] Lang løpebukse
 [] Lang løpeskjorte
-[] Lue/pannebånd med skygge
 [] Lureteppe
 [] Løpehansker
 [] Løpejakke
+[] Løpekaps
 [] Løpesko
 [] Løpesokker
 [] Mikrofiberhåndkle

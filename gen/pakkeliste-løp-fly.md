@@ -37,9 +37,9 @@
 - [ ] Lang kompresjonsbukse
 - [ ] Lang løpebukse
 - [ ] Lang løpeskjorte
-- [ ] Lue/pannebånd med skygge
 - [ ] Løpehansker
 - [ ] Løpejakke
+- [ ] Løpekaps
 - [ ] Løpesko
 - [ ] Løpesokker
 - [ ] Mikrofiberhåndkle

@@ -1,22 +1,29 @@
 # Pakkeliste - triatlon
 [TOC]
 ## Diverse
+- [ ] Bilnøkler
 - [ ] Drikkeflaske
 - [ ] Flaske med vann til vasking
 - [ ] Handleplastposer
+- [ ] Nøkler til sykkelstativ på bil
+- [ ] Sykkelstativ på bil
+## Gjøremål
+- [ ] Sjekke navn på sykkelhjelm
 ## Klær
-- [ ] Hjelm
 - [ ] Håndkle
 - [ ] Kortermet sykkeltrøye
 - [ ] Langermet sykkeltrøye
 - [ ] Løpejakke
 - [ ] Løpesko
 - [ ] Mikrofiberhåndkle
+- [ ] Pannebånd
 - [ ] Selebukse
 - [ ] Skift til vanlige klær
 - [ ] Skopose
 - [ ] Sykkelhansker
+- [ ] Sykkelhjelm
 - [ ] Sykkeljakke
+- [ ] Sykkelsko
 - [ ] Sykkelsokker
 - [ ] Tridrakt
 ## Papirer
@@ -34,9 +41,7 @@
 ## Sykkel
 - [ ] Garmin Edge 500
 - [ ] Hjulrettestativ
-- [ ] Nøkler til sykkelstativ på bil
 - [ ] Pumpe
 - [ ] Sykkel
-- [ ] Sykkelstativ på bil
 - [ ] Sykkelvaskeutstyr
 - [ ] Sykkelverktøykasse

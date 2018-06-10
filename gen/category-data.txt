@@ -1,4 +1,5 @@
 Category diverse:
+- Bilnøkler
 - Body Glide
 - Briller
 - Brystvorte-teip
@@ -23,6 +24,7 @@ Category diverse:
 - Lett ryggsekk
 - Lommekniv
 - Løpebelte
+- Nøkler til sykkelstativ på bil
 - Reisemat
 - Reisetoalettsaker
 - Sekk med drikkepose
@@ -35,6 +37,7 @@ Category diverse:
 - Solkrem
 - Sovemaske
 - Strikkbelte til startnummer
+- Sykkelstativ på bil
 - Sysaker
 - Søtningsmiddel
 - Takstativ på bil
@@ -111,6 +114,7 @@ Category gjøremål:
 - Sjekke etter gjenglemt bagasje
 - Sjekke gressklipper
 - Sjekke kjøleskap
+- Sjekke navn på sykkelhjelm
 - Sjekke visum/ESTA
 - Skru av PCer
 - Skru av fontene
@@ -134,7 +138,6 @@ Category gjøremål:
 
 Category klær:
 - Hals
-- Hjelm
 - Håndkle
 - Kort skjorte
 - Kortbukse
@@ -143,18 +146,21 @@ Category klær:
 - Lang løpebukse
 - Lang løpeskjorte
 - Langermet sykkeltrøye
-- Lue/pannebånd med skygge
 - Lureteppe
 - Løpehansker
 - Løpejakke
+- Løpekaps
 - Løpesko
 - Løpesokker
 - Mikrofiberhåndkle
+- Pannebånd
 - Selebukse
 - Skift til vanlige klær
 - Skopose
 - Sykkelhansker
+- Sykkelhjelm
 - Sykkeljakke
+- Sykkelsko
 - Sykkelsokker
 - Tridrakt
 - Underbukse
@@ -219,10 +225,8 @@ Category svømming:
 Category sykkel:
 - Garmin Edge 500
 - Hjulrettestativ
-- Nøkler til sykkelstativ på bil
 - Pumpe
 - Sykkel
-- Sykkelstativ på bil
 - Sykkelvaskeutstyr
 - Sykkelverktøykasse
 

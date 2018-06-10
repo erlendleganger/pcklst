@@ -1,25 +1,31 @@
 # Pakkeliste - ritt-bil
 [TOC]
 ## Diverse
+- [ ] Bilnøkler
 - [ ] Drikkeflaske
 - [ ] Flaske med vann til vasking
 - [ ] Handleplastposer
 - [ ] Konkurransepose
 - [ ] Lommekniv
+- [ ] Nøkler til sykkelstativ på bil
 - [ ] Reisetoalettsaker
+- [ ] Sykkelstativ på bil
+## Gjøremål
+- [ ] Sjekke navn på sykkelhjelm
 ## Klær
-- [ ] Hjelm
 - [ ] Håndkle
 - [ ] Kortermet sykkeltrøye
 - [ ] Langermet sykkeltrøye
-- [ ] Lue/pannebånd med skygge
 - [ ] Lureteppe
 - [ ] Mikrofiberhåndkle
+- [ ] Pannebånd
 - [ ] Selebukse
 - [ ] Skift til vanlige klær
 - [ ] Skopose
 - [ ] Sykkelhansker
+- [ ] Sykkelhjelm
 - [ ] Sykkeljakke
+- [ ] Sykkelsko
 - [ ] Sykkelsokker
 ## Mat
 - [ ] Mat for reisen
@@ -39,9 +45,7 @@
 ## Sykkel
 - [ ] Garmin Edge 500
 - [ ] Hjulrettestativ
-- [ ] Nøkler til sykkelstativ på bil
 - [ ] Pumpe
 - [ ] Sykkel
-- [ ] Sykkelstativ på bil
 - [ ] Sykkelvaskeutstyr
 - [ ] Sykkelverktøykasse
