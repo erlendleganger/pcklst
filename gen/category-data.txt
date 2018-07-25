@@ -241,6 +241,7 @@ Category toalettsaker:
 - Mentolatum
 - Neglfil
 - Neglklipper
+- Standard_toalettsaker
 - Tannbørste
 - Tannkrem
 - Tanntråd
