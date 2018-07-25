@@ -63,12 +63,13 @@ elektronikk;Fot til bil-GPS;gps-pose;
 elektronikk;Garmin 920XT pulsklokke;konkurransepose
 elektronikk;Garmin fotsensor;konkurransepose
 elektronikk;Garmin lader;konkurransepose
-elektronikk;Garmin pulsbelte;konkurransepose
-elektronikk;Garmin pulsbeltestrikk;konkurransepose
+elektronikk;Garmin pulsbelte;konkurransepose;løp-jobb
+elektronikk;Garmin pulsbeltestrikk;konkurransepose;løp-jobb
+toalettsaker;Standard_toalettsaker;løp-jobb
 elektronikk;Grenuttak;løp-fly;
 elektronikk;LR44-batterier;ferie;
 elektronikk;Ladekabel til Edge 500;småtingpose
-elektronikk;Ladekabel til Garmin 920XT;småtingpose
+elektronikk;Ladekabel til Garmin 920XT;småtingpose;løp-jobb
 elektronikk;Ladekabel til hybrid/el-bil;ferie;
 elektronikk;Lader for ørepropper;småtingpose
 elektronikk;Lommelykt;småtingpose
@@ -132,16 +133,16 @@ gjøremål;Tømme søppel;ferie;
 gjøremål;Ta ut kontanter;ferie;
 gjøremål;Vanne blomster;ferie;
 gjøremål;Veie bagasje;løp-fly;
-klær;Håndkle;triatlon;ritt-bil;løp-bil
+klær;Håndkle;triatlon;ritt-bil;løp-bil;løp-jobb
 klær;Hals;løp-fly;løp-bil;
-klær;Kort skjorte;løp-fly;løp-bil;
-klær;Kortbukse;løp-fly;løp-bil;
+klær;Kort skjorte;løp-fly;løp-bil;;løp-jobb
+klær;Kortbukse;løp-fly;løp-bil;;løp-jobb
 klær;Kortermet sykkeltrøye;ritt-bil;triatlon
 klær;Løpehansker;løp-fly;løp-bil;
 klær;Løpejakke;løp-fly;løp-bil;triatlon
 klær;Løpekaps;løp-fly;løp-bil;
-klær;Løpesko;løp-bil;løp-fly;triatlon
-klær;Løpesokker;løp-fly;løp-bil
+klær;Løpesko;løp-bil;løp-fly;triatlon;løp-jobb
+klær;Løpesokker;løp-fly;løp-bil;løp-jobb
 klær;Lang kompresjonsbukse;løp-bil;løp-fly;
 klær;Lang løpebukse;løp-fly;løp-bil;
 klær;Lang løpeskjorte;løp-fly;løp-bil;
@@ -151,7 +152,7 @@ klær;Mikrofiberhåndkle;løp-bil;løp-fly;ritt-bil;triatlon
 klær;Pannebånd;ritt-bil;triatlon
 klær;Selebukse;ritt-bil;triatlon
 klær;Skift til vanlige klær;ritt-bil;triatlon;løp-bil
-klær;Skopose;løp-fly;løp-bil;ritt-bil;triatlon
+klær;Skopose;løp-fly;løp-bil;ritt-bil;triatlon;løp-jobb
 klær;Sykkelhansker;ritt-bil;triatlon
 klær;Sykkelhjelm;ritt-bil;triatlon
 klær;Sykkeljakke;ritt-bil;triatlon
@@ -217,10 +218,10 @@ sykkel;Sykkelverktøykasse;ritt-bil;triatlon
 toalettsaker;Barberhøvel;flyreisetoalettsaker
 toalettsaker;Barberskum;flyreisetoalettsaker
 toalettsaker;Bomullspinner;flyreisetoalettsaker
-toalettsaker;Deodorant;flyreisetoalettsaker;reisetoalettsaker
-toalettsaker;Hårsjampo;flyreisetoalettsaker;reisetoalettsaker
-toalettsaker;Hårspray;flyreisetoalettsaker;reisetoalettsaker
-toalettsaker;Kam;flyreisetoalettsaker;reisetoalettsaker
+toalettsaker;Deodorant;flyreisetoalettsaker;reisetoalettsaker;standard_toalettsaker
+toalettsaker;Hårsjampo;flyreisetoalettsaker;reisetoalettsaker;standard_toalettsaker
+toalettsaker;Hårspray;flyreisetoalettsaker;reisetoalettsaker;standard_toalettsaker
+toalettsaker;Kam;flyreisetoalettsaker;reisetoalettsaker;standard_toalettsaker
 toalettsaker;Mentolatum;flyreisetoalettsaker
 toalettsaker;Neglfil;flyreisetoalettsaker
 toalettsaker;Neglklipper;flyreisetoalettsaker;konkurransepose

@@ -503,6 +503,7 @@
       <category>elektronikk</category>
       <lists>
          <list>konkurransepose</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -511,6 +512,7 @@
       <category>elektronikk</category>
       <lists>
          <list>konkurransepose</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -543,6 +545,7 @@
       <category>elektronikk</category>
       <lists>
          <list>småtingpose</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -1082,6 +1085,7 @@
          <list>triatlon</list>
          <list>ritt-bil</list>
          <list>løp-bil</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -1091,6 +1095,7 @@
       <lists>
          <list>løp-fly</list>
          <list>løp-bil</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -1100,6 +1105,7 @@
       <lists>
          <list>løp-fly</list>
          <list>løp-bil</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -1192,6 +1198,7 @@
          <list>løp-bil</list>
          <list>løp-fly</list>
          <list>triatlon</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -1201,6 +1208,7 @@
       <lists>
          <list>løp-fly</list>
          <list>løp-bil</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -1251,6 +1259,7 @@
          <list>løp-bil</list>
          <list>ritt-bil</list>
          <list>triatlon</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -1830,6 +1839,7 @@
       <lists>
          <list>flyreisetoalettsaker</list>
          <list>reisetoalettsaker</list>
+         <list>standard_toalettsaker</list>
       </lists>
    </item>
 
@@ -1839,6 +1849,7 @@
       <lists>
          <list>flyreisetoalettsaker</list>
          <list>reisetoalettsaker</list>
+         <list>standard_toalettsaker</list>
       </lists>
    </item>
 
@@ -1848,6 +1859,7 @@
       <lists>
          <list>flyreisetoalettsaker</list>
          <list>reisetoalettsaker</list>
+         <list>standard_toalettsaker</list>
       </lists>
    </item>
 
@@ -1857,6 +1869,7 @@
       <lists>
          <list>flyreisetoalettsaker</list>
          <list>reisetoalettsaker</list>
+         <list>standard_toalettsaker</list>
       </lists>
    </item>
 
@@ -1882,6 +1895,14 @@
       <lists>
          <list>flyreisetoalettsaker</list>
          <list>konkurransepose</list>
+      </lists>
+   </item>
+
+   <item id="15972672871303864489">
+      <title>Standard_toalettsaker</title>
+      <category>toalettsaker</category>
+      <lists>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
