@@ -13,4 +13,6 @@ paste gen/pakkeliste-ritt-bil.txt gen/pakkeliste-reisetoalettsaker.txt |column -
 
 #use own (and better) script to do this:
 bash bin/join-txt.sh  -l "gen/pakkeliste-ritt-bil.txt gen/pakkeliste-reisetoalettsaker.txt gen/pakkeliste-konkurransepose.txt">tmp/out.txt
+bash bin/join-txt.sh  -l "gen/pakkeliste-l*-fly.txt gen/pakkeliste-reisetoalettsaker.txt gen/pakkeliste-konkurransepose.txt">tmp/out.txt
+bash bin/join-txt.sh  -l "gen/pakkeliste-l*-jobb.txt gen/pakkeliste-standard_toalettsaker.txt">tmp/out.txt
 
