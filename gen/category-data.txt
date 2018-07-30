@@ -12,7 +12,6 @@ Category diverse:
 - Førstehjelpssett
 - GPS-pose
 - Halslomme
-- Handleplastposer
 - Hodetlf med støykansellering
 - Hotellpapirer
 - Hullemaskin
@@ -29,7 +28,9 @@ Category diverse:
 - Reisetoalettsaker
 - Sekk med drikkepose
 - Sikkerhetsnåler
+- Skittentøypose
 - Skjermrens
+- Skopose
 - Smertekrem
 - Småplastposer
 - Småtingpose
@@ -43,6 +44,7 @@ Category diverse:
 - Takstativ på bil
 - Temperaturmåler
 - Varmekrem
+- Vaskepose
 - Vaskepulver
 - Ørepropper støy
 
@@ -139,12 +141,12 @@ Category gjøremål:
 Category klær:
 - Hals
 - Håndkle
-- Kort skjorte
 - Kortbukse
+- Kortermet løpeskjorte
 - Kortermet sykkeltrøye
 - Lang kompresjonsbukse
 - Lang løpebukse
-- Lang løpeskjorte
+- Langermet løpeskjorte
 - Langermet sykkeltrøye
 - Lureteppe
 - Løpehansker
@@ -156,7 +158,6 @@ Category klær:
 - Pannebånd
 - Selebukse
 - Skift til vanlige klær
-- Skopose
 - Sykkelhansker
 - Sykkelhjelm
 - Sykkeljakke
@@ -241,10 +242,10 @@ Category toalettsaker:
 - Mentolatum
 - Neglfil
 - Neglklipper
-- Standard_toalettsaker
 - Tannbørste
 - Tannkrem
 - Tanntråd
+- løp-jobb
 
 Category verktøy:
 - El-drill

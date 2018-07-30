@@ -5,12 +5,13 @@
 - [ ] Flyreisetoalettsaker
 - [ ] GPS-pose
 - [ ] Halslomme
-- [ ] Handleplastposer
 - [ ] Hodetlf med støykansellering
 - [ ] Hotellpapirer
 - [ ] Konkurransepose
 - [ ] Reisemat
+- [ ] Skittentøypose
 - [ ] Skjermrens
+- [ ] Skopose
 - [ ] Småtingpose
 ## Elektronikk
 - [ ] Grenuttak
@@ -32,18 +33,17 @@
 - [ ] Veie bagasje
 ## Klær
 - [ ] Hals
-- [ ] Kort skjorte
 - [ ] Kortbukse
+- [ ] Kortermet løpeskjorte
 - [ ] Lang kompresjonsbukse
 - [ ] Lang løpebukse
-- [ ] Lang løpeskjorte
+- [ ] Langermet løpeskjorte
 - [ ] Løpehansker
 - [ ] Løpejakke
 - [ ] Løpekaps
 - [ ] Løpesko
 - [ ] Løpesokker
 - [ ] Mikrofiberhåndkle
-- [ ] Skopose
 - [ ] Underbukse
 - [ ] Undertrøye
 ## Mat

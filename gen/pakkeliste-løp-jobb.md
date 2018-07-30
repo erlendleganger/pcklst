@@ -1,15 +1,22 @@
 # Pakkeliste - løp-jobb
 [TOC]
+## Diverse
+- [ ] Drikkeflaske
+- [ ] Reisetoalettsaker
+- [ ] Skittentøypose
+- [ ] Skopose
+- [ ] Småplastposer
+- [ ] Vaskepose
 ## Elektronikk
+- [ ] Garmin 920XT pulsklokke
 - [ ] Garmin pulsbelte
 - [ ] Garmin pulsbeltestrikk
-- [ ] Ladekabel til Garmin 920XT
 ## Klær
 - [ ] Håndkle
-- [ ] Kort skjorte
 - [ ] Kortbukse
+- [ ] Kortermet løpeskjorte
+- [ ] Langermet løpeskjorte
 - [ ] Løpesko
 - [ ] Løpesokker
-- [ ] Skopose
-## Toalettsaker
-- [ ] Standard_toalettsaker
+- [ ] Mikrofiberhåndkle
+- [ ] Underbukse

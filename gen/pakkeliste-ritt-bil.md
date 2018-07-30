@@ -4,11 +4,12 @@
 - [ ] Bilnøkler
 - [ ] Drikkeflaske
 - [ ] Flaske med vann til vasking
-- [ ] Handleplastposer
 - [ ] Konkurransepose
 - [ ] Lommekniv
 - [ ] Nøkler til sykkelstativ på bil
 - [ ] Reisetoalettsaker
+- [ ] Skittentøypose
+- [ ] Skopose
 - [ ] Sykkelstativ på bil
 ## Gjøremål
 - [ ] Sjekke navn på sykkelhjelm
@@ -21,7 +22,6 @@
 - [ ] Pannebånd
 - [ ] Selebukse
 - [ ] Skift til vanlige klær
-- [ ] Skopose
 - [ ] Sykkelhansker
 - [ ] Sykkelhjelm
 - [ ] Sykkeljakke

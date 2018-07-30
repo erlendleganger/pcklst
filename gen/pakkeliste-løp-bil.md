@@ -5,21 +5,22 @@
 - [ ] Flaske med vann til vasking
 - [ ] Førstehjelpssett
 - [ ] GPS-pose
-- [ ] Handleplastposer
 - [ ] Konkurransepose
 - [ ] Lett ryggsekk
 - [ ] Lommekniv
 - [ ] Reisetoalettsaker
 - [ ] Sekk med drikkepose
+- [ ] Skittentøypose
+- [ ] Skopose
 - [ ] Småtingpose
 ## Klær
 - [ ] Hals
 - [ ] Håndkle
-- [ ] Kort skjorte
 - [ ] Kortbukse
+- [ ] Kortermet løpeskjorte
 - [ ] Lang kompresjonsbukse
 - [ ] Lang løpebukse
-- [ ] Lang løpeskjorte
+- [ ] Langermet løpeskjorte
 - [ ] Lureteppe
 - [ ] Løpehansker
 - [ ] Løpejakke
@@ -28,7 +29,6 @@
 - [ ] Løpesokker
 - [ ] Mikrofiberhåndkle
 - [ ] Skift til vanlige klær
-- [ ] Skopose
 - [ ] Underbukse
 - [ ] Undertrøye
 ## Mat
