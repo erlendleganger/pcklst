@@ -49,6 +49,7 @@
          <list>løp-fly</list>
          <list>ritt-bil</list>
          <list>triatlon</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -108,17 +109,6 @@
       <category>diverse</category>
       <lists>
          <list>løp-fly</list>
-      </lists>
-   </item>
-
-   <item id="7591508956978836826">
-      <title>Handleplastposer</title>
-      <category>diverse</category>
-      <lists>
-         <list>løp-fly</list>
-         <list>løp-bil</list>
-         <list>ritt-bil</list>
-         <list>triatlon</list>
       </lists>
    </item>
 
@@ -237,6 +227,7 @@
       <lists>
          <list>ritt-bil</list>
          <list>løp-bil</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -256,11 +247,35 @@
       </lists>
    </item>
 
+   <item id="973621031372236109">
+      <title>Skittentøypose</title>
+      <category>diverse</category>
+      <lists>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+         <list>løp-jobb</list>
+      </lists>
+   </item>
+
    <item id="3020824553379456632">
       <title>Skjermrens</title>
       <category>diverse</category>
       <lists>
          <list>løp-fly</list>
+      </lists>
+   </item>
+
+   <item id="8224632891992494477">
+      <title>Skopose</title>
+      <category>diverse</category>
+      <lists>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
+         <list>ritt-bil</list>
+         <list>triatlon</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -277,6 +292,7 @@
       <category>diverse</category>
       <lists>
          <list>konkurransepose</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -367,6 +383,14 @@
       <category>diverse</category>
       <lists>
          <list>konkurransepose</list>
+      </lists>
+   </item>
+
+   <item id="8430840486888886138">
+      <title>Vaskepose</title>
+      <category>diverse</category>
+      <lists>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -479,6 +503,7 @@
       <category>elektronikk</category>
       <lists>
          <list>konkurransepose</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -545,7 +570,6 @@
       <category>elektronikk</category>
       <lists>
          <list>småtingpose</list>
-         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -1089,8 +1113,8 @@
       </lists>
    </item>
 
-   <item id="3597476117848759114">
-      <title>Kort skjorte</title>
+   <item id="14338163371153588787">
+      <title>Kortbukse</title>
       <category>klær</category>
       <lists>
          <list>løp-fly</list>
@@ -1099,8 +1123,8 @@
       </lists>
    </item>
 
-   <item id="14338163371153588787">
-      <title>Kortbukse</title>
+   <item id="4966270765961171470">
+      <title>Kortermet løpeskjorte</title>
       <category>klær</category>
       <lists>
          <list>løp-fly</list>
@@ -1136,12 +1160,13 @@
       </lists>
    </item>
 
-   <item id="7500069677128367478">
-      <title>Lang løpeskjorte</title>
+   <item id="4968722087316652558">
+      <title>Langermet løpeskjorte</title>
       <category>klær</category>
       <lists>
          <list>løp-fly</list>
          <list>løp-bil</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -1220,6 +1245,7 @@
          <list>løp-fly</list>
          <list>ritt-bil</list>
          <list>triatlon</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -1248,18 +1274,6 @@
          <list>ritt-bil</list>
          <list>triatlon</list>
          <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="15833301512526046610">
-      <title>Skopose</title>
-      <category>klær</category>
-      <lists>
-         <list>løp-fly</list>
-         <list>løp-bil</list>
-         <list>ritt-bil</list>
-         <list>triatlon</list>
-         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -1322,6 +1336,7 @@
       <lists>
          <list>løp-fly</list>
          <list>løp-bil</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -1839,7 +1854,6 @@
       <lists>
          <list>flyreisetoalettsaker</list>
          <list>reisetoalettsaker</list>
-         <list>standard_toalettsaker</list>
       </lists>
    </item>
 
@@ -1849,7 +1863,6 @@
       <lists>
          <list>flyreisetoalettsaker</list>
          <list>reisetoalettsaker</list>
-         <list>standard_toalettsaker</list>
       </lists>
    </item>
 
@@ -1859,7 +1872,6 @@
       <lists>
          <list>flyreisetoalettsaker</list>
          <list>reisetoalettsaker</list>
-         <list>standard_toalettsaker</list>
       </lists>
    </item>
 
@@ -1869,7 +1881,6 @@
       <lists>
          <list>flyreisetoalettsaker</list>
          <list>reisetoalettsaker</list>
-         <list>standard_toalettsaker</list>
       </lists>
    </item>
 
@@ -1898,14 +1909,6 @@
       </lists>
    </item>
 
-   <item id="15972672871303864489">
-      <title>Standard_toalettsaker</title>
-      <category>toalettsaker</category>
-      <lists>
-         <list>løp-jobb</list>
-      </lists>
-   </item>
-
    <item id="12407812992390414757">
       <title>Tannbørste</title>
       <category>toalettsaker</category>
@@ -1928,6 +1931,13 @@
       <lists>
          <list>flyreisetoalettsaker</list>
          <list>konkurransepose</list>
+      </lists>
+   </item>
+
+   <item id="16899368330289633288">
+      <title>løp-jobb</title>
+      <category>toalettsaker</category>
+      <lists>
       </lists>
    </item>
 
