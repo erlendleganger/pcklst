@@ -2,17 +2,20 @@
 [TOC]
 ## Diverse
 - [ ] Drikkeflaske
+- [ ] Konkurransepose
 - [ ] Reisetoalettsaker
 - [ ] Skittentøypose
 - [ ] Skopose
 - [ ] Småplastposer
+- [ ] Snor
 - [ ] Vaskepose
 ## Elektronikk
 - [ ] Garmin 920XT pulsklokke
+- [ ] Garmin fotsensor
 - [ ] Garmin pulsbelte
 - [ ] Garmin pulsbeltestrikk
+- [ ] Ørepropper musikk
 ## Klær
-- [ ] Håndkle
 - [ ] Kortbukse
 - [ ] Kortermet løpeskjorte
 - [ ] Langermet løpeskjorte

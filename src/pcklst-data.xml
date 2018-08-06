@@ -168,6 +168,7 @@
          <list>løp-bil</list>
          <list>løp-fly</list>
          <list>ritt-bil</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -267,6 +268,14 @@
       </lists>
    </item>
 
+   <item id="9039422641734472077">
+      <title>Skojern</title>
+      <category>diverse</category>
+      <lists>
+         <list>konkurransepose</list>
+      </lists>
+   </item>
+
    <item id="8224632891992494477">
       <title>Skopose</title>
       <category>diverse</category>
@@ -302,6 +311,14 @@
       <lists>
          <list>løp-bil</list>
          <list>løp-fly</list>
+      </lists>
+   </item>
+
+   <item id="7597347865349034557">
+      <title>Snor</title>
+      <category>diverse</category>
+      <lists>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -512,6 +529,7 @@
       <category>elektronikk</category>
       <lists>
          <list>konkurransepose</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -717,6 +735,7 @@
       <category>elektronikk</category>
       <lists>
          <list>småtingpose</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -1099,17 +1118,6 @@
       <lists>
          <list>løp-fly</list>
          <list>løp-bil</list>
-      </lists>
-   </item>
-
-   <item id="15828385824726389186">
-      <title>Håndkle</title>
-      <category>klær</category>
-      <lists>
-         <list>triatlon</list>
-         <list>ritt-bil</list>
-         <list>løp-bil</list>
-         <list>løp-jobb</list>
       </lists>
    </item>
 

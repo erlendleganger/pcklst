@@ -23,9 +23,10 @@ diverse;Hullemaskin;ferie;
 diverse;Hyssing;småtingpose
 diverse;Klemmer;småtingpose
 diverse;Vaskepose;løp-jobb
-diverse;Vaskepose;løp-jobb
+diverse;Skojern;konkurransepose
+diverse;Snor;løp-jobb
 diverse;Kompass;småtingpose
-diverse;Konkurransepose;løp-bil;løp-fly;ritt-bil
+diverse;Konkurransepose;løp-bil;løp-fly;ritt-bil;løp-jobb
 diverse;Løpebelte;konkurransepose
 diverse;Lastereimer;ferie;
 diverse;Lett ryggsekk;løp-bil;
@@ -63,7 +64,7 @@ elektronikk;CR2430-batterier;ferie;
 elektronikk;ChromeCast;småtingpose;
 elektronikk;Fot til bil-GPS;gps-pose;
 elektronikk;Garmin 920XT pulsklokke;konkurransepose;løp-jobb
-elektronikk;Garmin fotsensor;konkurransepose
+elektronikk;Garmin fotsensor;konkurransepose;løp-jobb
 elektronikk;Garmin lader;konkurransepose
 elektronikk;Garmin pulsbelte;konkurransepose;løp-jobb
 elektronikk;Garmin pulsbeltestrikk;konkurransepose;løp-jobb
@@ -135,7 +136,6 @@ gjøremål;Tømme søppel;ferie;
 gjøremål;Ta ut kontanter;ferie;
 gjøremål;Vanne blomster;ferie;
 gjøremål;Veie bagasje;løp-fly;
-klær;Håndkle;triatlon;ritt-bil;løp-bil;løp-jobb
 klær;Hals;løp-fly;løp-bil;
 klær;Kortermet løpeskjorte;løp-fly;løp-bil;løp-jobb
 klær;Kortbukse;løp-fly;løp-bil;;løp-jobb

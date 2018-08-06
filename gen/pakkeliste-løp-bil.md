@@ -15,7 +15,6 @@
 - [ ] Småtingpose
 ## Klær
 - [ ] Hals
-- [ ] Håndkle
 - [ ] Kortbukse
 - [ ] Kortermet løpeskjorte
 - [ ] Lang kompresjonsbukse

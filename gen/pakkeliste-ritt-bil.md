@@ -14,7 +14,6 @@
 ## Gjøremål
 - [ ] Sjekke navn på sykkelhjelm
 ## Klær
-- [ ] Håndkle
 - [ ] Kortermet sykkeltrøye
 - [ ] Langermet sykkeltrøye
 - [ ] Lureteppe

@@ -7,6 +7,7 @@
 - [ ] Futteral til pulsklokke
 - [ ] Løpebelte
 - [ ] Sikkerhetsnåler
+- [ ] Skojern
 - [ ] Småplastposer
 - [ ] Solbriller
 - [ ] Solkrem

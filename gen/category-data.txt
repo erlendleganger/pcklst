@@ -30,10 +30,12 @@ Category diverse:
 - Sikkerhetsnåler
 - Skittentøypose
 - Skjermrens
+- Skojern
 - Skopose
 - Smertekrem
 - Småplastposer
 - Småtingpose
+- Snor
 - Solbriller
 - Solkrem
 - Sovemaske
@@ -140,7 +142,6 @@ Category gjøremål:
 
 Category klær:
 - Hals
-- Håndkle
 - Kortbukse
 - Kortermet løpeskjorte
 - Kortermet sykkeltrøye
