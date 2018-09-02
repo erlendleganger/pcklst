@@ -1,6 +1,7 @@
 # Pakkeliste - løp-jobb
 [TOC]
 ## Diverse
+- [ ] Briller
 - [ ] Drikkeflaske
 - [ ] Konkurransepose
 - [ ] Reisetoalettsaker
