@@ -106,7 +106,7 @@ gjøremål;Lage handleliste;ferie;
 gjøremål;Laste ned Netflix-filmer;løp-fly;
 gjøremål;Legge nøkler på lurt sted i bagasjen;ferie;
 gjøremål;Oppdatere kart på bil-GPS;løp-fly;
-gjøremål;Pakke dosett;ferie;løp-fly;
+gjøremål;Fylle dosett;ferie;løp-fly;
 gjøremål;Senke markise;ferie;
 gjøremål;Sette blomster på kjøkkenet;ferie;
 gjøremål;Sette opp bil-GPS;løp-fly;
@@ -162,7 +162,6 @@ klær;Sykkelsko;ritt-bil;triatlon
 klær;Sykkelsokker;ritt-bil;triatlon
 klær;Tridrakt;triatlon
 klær;Underbukse;løp-fly;løp-bil;løp-jobb
-klær;Undertrøye;løp-fly;løp-bil;
 mat;Brunost;ferie;
 mat;Egg;ferie;
 mat;Formfett;ferie;
@@ -190,7 +189,7 @@ papirer;Kodebrikke til nettbank;ferie;
 papirer;Kodekort til nettbank;ferie;
 papirer;Kontanter;ferie;løp-fly;løp-bil;ritt-bil
 papirer;Kredittkort;løp-fly;
-papirer;Laminert kart;løp-fly;ritt-bil;løp-bil;
+papirer;Løypekart;løp-fly;ritt-bil;løp-bil;
 papirer;Lommebok;løp-fly;løp-bil;ritt-bil;ferie
 papirer;Mobiltelefon;ferie;løp-fly;løp-bil;ritt-bil
 papirer;Notatblokk;løp-bil;løp-fly;ritt-bil;triatlon
@@ -229,7 +228,7 @@ toalettsaker;Neglfil;flyreisetoalettsaker
 toalettsaker;Neglklipper;flyreisetoalettsaker;konkurransepose
 toalettsaker;Tannbørste;flyreisetoalettsaker
 toalettsaker;Tannkrem;flyreisetoalettsaker
-toalettsaker;Tanntråd;flyreisetoalettsaker;konkurransepose
+toalettsaker;Tanntråd;flyreisetoalettsaker;
 verktøy;El-drill;ferie;
 verktøy;El-skrutrekker;ferie;
 verktøy;Lader til el-drill;ferie;

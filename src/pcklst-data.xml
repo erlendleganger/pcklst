@@ -749,6 +749,15 @@
       </lists>
    </item>
 
+   <item id="15536822435421597881">
+      <title>Fylle dosett</title>
+      <category>gjøremål</category>
+      <lists>
+         <list>ferie</list>
+         <list>løp-fly</list>
+      </lists>
+   </item>
+
    <item id="7338369070868630237">
       <title>Fylle opp dosett</title>
       <category>gjøremål</category>
@@ -867,15 +876,6 @@
       <title>Oppdatere kart på bil-GPS</title>
       <category>gjøremål</category>
       <lists>
-         <list>løp-fly</list>
-      </lists>
-   </item>
-
-   <item id="15078091977601822905">
-      <title>Pakke dosett</title>
-      <category>gjøremål</category>
-      <lists>
-         <list>ferie</list>
          <list>løp-fly</list>
       </lists>
    </item>
@@ -1349,15 +1349,6 @@
       </lists>
    </item>
 
-   <item id="11325016103139031596">
-      <title>Undertrøye</title>
-      <category>klær</category>
-      <lists>
-         <list>løp-fly</list>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
    <item id="10038834466626080551">
       <title>Brunost</title>
       <category>mat</category>
@@ -1586,16 +1577,6 @@
       </lists>
    </item>
 
-   <item id="1415388390187386339">
-      <title>Laminert kart</title>
-      <category>papirer</category>
-      <lists>
-         <list>løp-fly</list>
-         <list>ritt-bil</list>
-         <list>løp-bil</list>
-      </lists>
-   </item>
-
    <item id="6216119180184808263">
       <title>Lommebok</title>
       <category>papirer</category>
@@ -1604,6 +1585,16 @@
          <list>løp-bil</list>
          <list>ritt-bil</list>
          <list>ferie</list>
+      </lists>
+   </item>
+
+   <item id="3787945355611571564">
+      <title>Løypekart</title>
+      <category>papirer</category>
+      <lists>
+         <list>løp-fly</list>
+         <list>ritt-bil</list>
+         <list>løp-bil</list>
       </lists>
    </item>
 
@@ -1939,7 +1930,6 @@
       <category>toalettsaker</category>
       <lists>
          <list>flyreisetoalettsaker</list>
-         <list>konkurransepose</list>
       </lists>
    </item>
 
