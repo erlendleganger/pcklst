@@ -18,6 +18,7 @@
 - [ ] Personvekt
 - [ ] Walkie-Talkie
 ## Gjøremål
+- [ ] Fylle dosett
 - [ ] Fylle opp dosett
 - [ ] Helle klorin i sluk
 - [ ] Klippe negler
@@ -28,7 +29,6 @@
 - [ ] Legge nøkler på lurt sted i bagasjen
 - [ ] Låse garasje
 - [ ] Låse hoveddøra
-- [ ] Pakke dosett
 - [ ] Senke markise
 - [ ] Sette blomster på kjøkkenet
 - [ ] Sette ut plastavfall

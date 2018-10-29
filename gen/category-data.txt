@@ -94,6 +94,7 @@ Category førstehjelp:
 - Plaster
 
 Category gjøremål:
+- Fylle dosett
 - Fylle opp dosett
 - Fylle tannkremtube
 - Helle klorin i sluk
@@ -109,7 +110,6 @@ Category gjøremål:
 - Låse garasje
 - Låse hoveddøra
 - Oppdatere kart på bil-GPS
-- Pakke dosett
 - Senke markise
 - Sette blomster på kjøkkenet
 - Sette opp bil-GPS
@@ -166,7 +166,6 @@ Category klær:
 - Sykkelsokker
 - Tridrakt
 - Underbukse
-- Undertrøye
 
 Category mat:
 - Brunost
@@ -200,8 +199,8 @@ Category papirer:
 - Kodekort til nettbank
 - Kontanter
 - Kredittkort
-- Laminert kart
 - Lommebok
+- Løypekart
 - Mobiltelefon
 - Notatblokk
 - Notebok

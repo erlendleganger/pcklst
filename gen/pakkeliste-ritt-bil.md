@@ -33,8 +33,8 @@
 ## Papirer
 - [ ] Informasjonspapir om løpet
 - [ ] Kontanter
-- [ ] Laminert kart
 - [ ] Lommebok
+- [ ] Løypekart
 - [ ] Mobiltelefon
 - [ ] Notatblokk
 - [ ] Rapport fra tidligere år

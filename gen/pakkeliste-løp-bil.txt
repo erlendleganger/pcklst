@@ -30,7 +30,6 @@ Klær
 [] Mikrofiberhåndkle
 [] Skift til vanlige klær
 [] Underbukse
-[] Undertrøye
 
 Mat
 [] Mat for reisen
@@ -41,8 +40,8 @@ Papirer
 [] Førerkort
 [] Informasjonspapir om løpet
 [] Kontanter
-[] Laminert kart
 [] Lommebok
+[] Løypekart
 [] Mobiltelefon
 [] Notatblokk
 [] Rapport fra tidligere år

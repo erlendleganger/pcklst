@@ -29,7 +29,6 @@
 - [ ] Mikrofiberhåndkle
 - [ ] Skift til vanlige klær
 - [ ] Underbukse
-- [ ] Undertrøye
 ## Mat
 - [ ] Mat for reisen
 - [ ] Mat og drikke før løpet
@@ -38,8 +37,8 @@
 - [ ] Førerkort
 - [ ] Informasjonspapir om løpet
 - [ ] Kontanter
-- [ ] Laminert kart
 - [ ] Lommebok
+- [ ] Løypekart
 - [ ] Mobiltelefon
 - [ ] Notatblokk
 - [ ] Rapport fra tidligere år

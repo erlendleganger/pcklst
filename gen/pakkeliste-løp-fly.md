@@ -19,6 +19,7 @@
 - [ ] PC
 - [ ] PC-lader
 ## Gjøremål
+- [ ] Fylle dosett
 - [ ] Fylle tannkremtube
 - [ ] Lade USB-batterier
 - [ ] Lade bil-GPS
@@ -26,7 +27,6 @@
 - [ ] Lade nettbrett
 - [ ] Laste ned Netflix-filmer
 - [ ] Oppdatere kart på bil-GPS
-- [ ] Pakke dosett
 - [ ] Sette opp bil-GPS
 - [ ] Sjekke visum/ESTA
 - [ ] Skru av regionsperre
@@ -45,7 +45,6 @@
 - [ ] Løpesokker
 - [ ] Mikrofiberhåndkle
 - [ ] Underbukse
-- [ ] Undertrøye
 ## Mat
 - [ ] Mat for reisen
 ## Papirer
@@ -55,8 +54,8 @@
 - [ ] Informasjonspapir om løpet
 - [ ] Kontanter
 - [ ] Kredittkort
-- [ ] Laminert kart
 - [ ] Lommebok
+- [ ] Løypekart
 - [ ] Mobiltelefon
 - [ ] Notatblokk
 - [ ] Pass

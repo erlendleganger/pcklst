@@ -23,4 +23,3 @@
 - [ ] Plaster
 ## Toalettsaker
 - [ ] Neglklipper
-- [ ] Tanntråd
