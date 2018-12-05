@@ -3,7 +3,6 @@ Pakkeliste - løp-jobb
 Diverse
 [] Briller
 [] Drikkeflaske
-[] Konkurransepose
 [] Reisetoalettsaker
 [] Skittentøypose
 [] Skopose
@@ -21,7 +20,9 @@ Elektronikk
 Klær
 [] Kortbukse
 [] Kortermet løpeskjorte
+[] Lang løpebukse
 [] Langermet løpeskjorte
+[] Løpehansker
 [] Løpesko
 [] Løpesokker
 [] Mikrofiberhåndkle

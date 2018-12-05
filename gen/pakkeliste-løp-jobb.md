@@ -3,7 +3,6 @@
 ## Diverse
 - [ ] Briller
 - [ ] Drikkeflaske
-- [ ] Konkurransepose
 - [ ] Reisetoalettsaker
 - [ ] Skittentøypose
 - [ ] Skopose
@@ -19,7 +18,9 @@
 ## Klær
 - [ ] Kortbukse
 - [ ] Kortermet løpeskjorte
+- [ ] Lang løpebukse
 - [ ] Langermet løpeskjorte
+- [ ] Løpehansker
 - [ ] Løpesko
 - [ ] Løpesokker
 - [ ] Mikrofiberhåndkle
