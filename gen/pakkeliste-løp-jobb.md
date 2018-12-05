@@ -16,11 +16,14 @@
 - [ ] Garmin pulsbeltestrikk
 - [ ] Ørepropper musikk
 ## Klær
+- [ ] Hals
 - [ ] Kortbukse
 - [ ] Kortermet løpeskjorte
 - [ ] Lang løpebukse
 - [ ] Langermet løpeskjorte
+- [ ] Lue
 - [ ] Løpehansker
+- [ ] Løpejakke
 - [ ] Løpesko
 - [ ] Løpesokker
 - [ ] Mikrofiberhåndkle

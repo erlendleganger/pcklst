@@ -20,6 +20,7 @@
 - [ ] Lang kompresjonsbukse
 - [ ] Lang løpebukse
 - [ ] Langermet løpeskjorte
+- [ ] Lue
 - [ ] Lureteppe
 - [ ] Løpehansker
 - [ ] Løpejakke

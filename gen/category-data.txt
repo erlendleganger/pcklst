@@ -149,6 +149,7 @@ Category klær:
 - Lang løpebukse
 - Langermet løpeskjorte
 - Langermet sykkeltrøye
+- Lue
 - Lureteppe
 - Løpehansker
 - Løpejakke
