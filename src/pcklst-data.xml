@@ -169,7 +169,6 @@
          <list>løp-bil</list>
          <list>løp-fly</list>
          <list>ritt-bil</list>
-         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -1166,6 +1165,7 @@
       <lists>
          <list>løp-fly</list>
          <list>løp-bil</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -1203,6 +1203,7 @@
       <lists>
          <list>løp-fly</list>
          <list>løp-bil</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 

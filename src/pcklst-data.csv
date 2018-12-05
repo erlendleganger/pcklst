@@ -26,7 +26,7 @@ diverse;Vaskepose;løp-jobb
 diverse;Skojern;konkurransepose
 diverse;Snor;løp-jobb
 diverse;Kompass;småtingpose
-diverse;Konkurransepose;løp-bil;løp-fly;ritt-bil;løp-jobb
+diverse;Konkurransepose;løp-bil;løp-fly;ritt-bil
 diverse;Løpebelte;konkurransepose
 diverse;Lastereimer;ferie;
 diverse;Lett ryggsekk;løp-bil;
@@ -140,13 +140,13 @@ klær;Hals;løp-fly;løp-bil;
 klær;Kortermet løpeskjorte;løp-fly;løp-bil;løp-jobb
 klær;Kortbukse;løp-fly;løp-bil;;løp-jobb
 klær;Kortermet sykkeltrøye;ritt-bil;triatlon
-klær;Løpehansker;løp-fly;løp-bil;
+klær;Løpehansker;løp-fly;løp-bil;løp-jobb
 klær;Løpejakke;løp-fly;løp-bil;triatlon
 klær;Løpekaps;løp-fly;løp-bil;
 klær;Løpesko;løp-bil;løp-fly;triatlon;løp-jobb
 klær;Løpesokker;løp-fly;løp-bil;løp-jobb
 klær;Lang kompresjonsbukse;løp-bil;løp-fly;
-klær;Lang løpebukse;løp-fly;løp-bil;
+klær;Lang løpebukse;løp-fly;løp-bil;løp-jobb
 klær;Langermet løpeskjorte;løp-fly;løp-bil;løp-jobb
 klær;Langermet sykkeltrøye;ritt-bil;triatlon
 klær;Lureteppe;løp-bil;ritt-bil
