@@ -1118,6 +1118,7 @@
       <lists>
          <list>løp-fly</list>
          <list>løp-bil</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 
@@ -1188,6 +1189,16 @@
       </lists>
    </item>
 
+   <item id="6716581195518383440">
+      <title>Lue</title>
+      <category>klær</category>
+      <lists>
+         <list>løp-fly</list>
+         <list>løp-bil</list>
+         <list>løp-jobb</list>
+      </lists>
+   </item>
+
    <item id="4765555891591852582">
       <title>Lureteppe</title>
       <category>klær</category>
@@ -1214,6 +1225,7 @@
          <list>løp-fly</list>
          <list>løp-bil</list>
          <list>triatlon</list>
+         <list>løp-jobb</list>
       </lists>
    </item>
 

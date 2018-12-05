@@ -136,12 +136,13 @@ gjøremål;Tømme søppel;ferie;
 gjøremål;Ta ut kontanter;ferie;
 gjøremål;Vanne blomster;ferie;
 gjøremål;Veie bagasje;løp-fly;
-klær;Hals;løp-fly;løp-bil;
+klær;Hals;løp-fly;løp-bil;løp-jobb
+klær;Lue;løp-fly;løp-bil;løp-jobb
 klær;Kortermet løpeskjorte;løp-fly;løp-bil;løp-jobb
 klær;Kortbukse;løp-fly;løp-bil;;løp-jobb
 klær;Kortermet sykkeltrøye;ritt-bil;triatlon
 klær;Løpehansker;løp-fly;løp-bil;løp-jobb
-klær;Løpejakke;løp-fly;løp-bil;triatlon
+klær;Løpejakke;løp-fly;løp-bil;triatlon;løp-jobb
 klær;Løpekaps;løp-fly;løp-bil;
 klær;Løpesko;løp-bil;løp-fly;triatlon;løp-jobb
 klær;Løpesokker;løp-fly;løp-bil;løp-jobb
